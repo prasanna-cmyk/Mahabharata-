@@ -1,0 +1,695 @@
+{
+  "status": "NOT_UNABRIDGED_COMPLETE",
+  "chapter_count": 24,
+  "main_scene_count": 47,
+  "supplement_scene_count": 27,
+  "definition": "Presence of source spans and mapped scenes verifies traceability only. No chapter is certified verse-by-verse or exhaustive full-production completion.",
+  "chapters": [
+    {
+      "parva": "Sabha",
+      "chapter": 1,
+      "title_en": "Maya offers repayment; Krishna asks for an assembly hall",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 19420,
+      "line_end": 19745,
+      "printed_pages": [
+        413,
+        420
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G40-S01",
+        "G40-S02"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Detailed Maya catalogue of earlier works; precise building-site measurements and inaugural gifts; interleaved Tatparya wording.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 2,
+      "title_en": "Krishna departs for Dvaraka",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 19746,
+      "line_end": 20092,
+      "printed_pages": [
+        421,
+        428
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G40-S03"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Full farewell gift/ritual sequence, all Dvaraka greeting recipients and individual chariot-service repetitions.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 3,
+      "title_en": "Maya retrieves materials, mace and conch; builds the hall",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20093,
+      "line_end": 20501,
+      "printed_pages": [
+        429,
+        437
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G40-S04",
+        "G40-S05"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Exact Sanskrit/Kannada measurement and weight correspondence, full numerical expression of the sacrifice/donation passage, lexical notes and all source wording still require scan-assisted review. Broad narrative excursus is now voiced.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "gap_before_final_additions": "Full Bindu-sarovara sacred-place and earlier-sacrifice excursus; exact material/dimension/guardian catalogues and all numerical details.",
+      "final_addition_review": {
+        "parva": "Sabha",
+        "chapter": 3,
+        "added_group_ids": [
+          "SF01"
+        ],
+        "added_scene_ids": [
+          "SFSF01-S01",
+          "SFSF01-S02",
+          "SFSF01-S03",
+          "SFSF01-S04"
+        ],
+        "newly_adapted": [
+          "Bindu-sarovara location and Bhagiratha tradition",
+          "Narayana sacrifice and theological field history",
+          "Old ownership of the mace and conch; Kinkara role and count",
+          "Hall dimensions in source units, specific lotus-pool materials and general falling-visitors description"
+        ],
+        "remaining_gap": "Exact Sanskrit/Kannada measurement and weight correspondence, full numerical expression of the sacrifice/donation passage, lexical notes and all source wording still require scan-assisted review. Broad narrative excursus is now voiced."
+      }
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 4,
+      "title_en": "Yudhishthira enters the hall and receives the assembly",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20502,
+      "line_end": 20919,
+      "printed_pages": [
+        438,
+        447
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G40-S06"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "A further 141 item-level source propositions/name slots are now mapped to actual Kannada completion scenes. See Completion_Units_Combined.json. Flagged catalogue readings were visually compared with matching PDF pages and printed variants explained; the interpretation of ತೃತೀಯಾ remains disclosed. Full chapter source-to-script reconciliation, every name, lexical gloss and commentary point are not yet independently certified.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "completion_batch_units_added": 141,
+      "completion_batch_scene_ids": [
+        "V4C01-S01",
+        "V4C02-S01",
+        "V4C02-S02",
+        "V4C02-S03",
+        "V4C02-S04",
+        "V4C02-S05",
+        "V4C02-S06",
+        "V4C02-S07"
+      ],
+      "gap_before_completion_batches": "Full invited sage/king/musician catalogue and detailed feast, gifts and protocol; source names require pronunciation check."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 5,
+      "title_en": "Narada questions the king on governance",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20920,
+      "line_end": 22238,
+      "printed_pages": [
+        448,
+        478
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G40-S07",
+        "G40-S08",
+        "BS01-S01",
+        "BS01-S02",
+        "BS01-S03",
+        "BS01-S04",
+        "BS01-S05",
+        "BS01-S06",
+        "BS01-S07",
+        "BS01-S08",
+        "BS01-S09",
+        "BS01-S10",
+        "BS01-S11",
+        "BS01-S12",
+        "BS01-S13"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Every major advice category has companion explanation; exact verse-by-verse131-ish question sequence, all scholastic glosses and archaic units are not fully voiced. Do not treat topic coverage as exact question-count verification.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 6,
+      "title_en": "Yudhishthira asks about other assemblies",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 22239,
+      "line_end": 22430,
+      "printed_pages": [
+        479,
+        482
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G41-S01"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Minor formal responses and courtesy repetitions are condensed.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 7,
+      "title_en": "Indra's assembly",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 22431,
+      "line_end": 22690,
+      "printed_pages": [
+        483,
+        488
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G41-S02",
+        "BS02-S01",
+        "BS02-S06"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "A further 90 item-level source propositions/name slots are now mapped to actual Kannada completion scenes. See Completion_Units_Combined.json. Flagged catalogue readings were visually compared with matching PDF pages and printed variants explained; the interpretation of ತೃತೀಯಾ remains disclosed. Full chapter source-to-script reconciliation, every name, lexical gloss and commentary point are not yet independently certified.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "completion_batch_units_added": 90,
+      "completion_batch_scene_ids": [
+        "V4C03-S01",
+        "V4C03-S02",
+        "V4C03-S03",
+        "V4C03-S04",
+        "V4C03-S05"
+      ],
+      "gap_before_completion_batches": "Full sage/deity/attendant name catalogue and exact dimensions are retained in source, only selected names are spoken."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 8,
+      "title_en": "Yama's assembly",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 22691,
+      "line_end": 23037,
+      "printed_pages": [
+        489,
+        496
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G41-S03",
+        "BS02-S02",
+        "BS02-S06"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "A further 128 item-level source propositions/name slots are now mapped to actual Kannada completion scenes. See Completion_Units_Combined.json. Flagged catalogue readings were visually compared with matching PDF pages and printed variants explained; the interpretation of ತೃತೀಯಾ remains disclosed. Full chapter source-to-script reconciliation, every name, lexical gloss and commentary point are not yet independently certified.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "completion_batch_units_added": 128,
+      "completion_batch_scene_ids": [
+        "V4C04-S01",
+        "V4C04-S02",
+        "V4C04-S03",
+        "V4C04-S04",
+        "V4C04-S05",
+        "V4C04-S06",
+        "V4C04-S07"
+      ],
+      "gap_before_completion_batches": "Full ancestral royal catalogue with repeated names and exact groups/counts; identities cannot safely be inferred from names alone."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 9,
+      "title_en": "Varuna's assembly",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 23038,
+      "line_end": 23424,
+      "printed_pages": [
+        497,
+        503
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G41-S04",
+        "BS02-S03",
+        "BS02-S06"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "A further 111 item-level source propositions/name slots are now mapped to actual Kannada completion scenes. See Completion_Units_Combined.json. Flagged catalogue readings were visually compared with matching PDF pages and printed variants explained; the interpretation of ತೃತೀಯಾ remains disclosed. Full chapter source-to-script reconciliation, every name, lexical gloss and commentary point are not yet independently certified.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "completion_batch_units_added": 111,
+      "completion_batch_scene_ids": [
+        "V4C05-S01",
+        "V4C05-S02",
+        "V4C05-S03",
+        "V4C05-S04",
+        "V4C05-S05",
+        "V4C05-S06",
+        "V4C05-S07"
+      ],
+      "gap_before_completion_batches": "Full naga, daitya, river, ocean and other assembly catalogues; raw pages500–501 repeat and require deduplication against scans."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 10,
+      "title_en": "Kubera's assembly",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 23425,
+      "line_end": 23731,
+      "printed_pages": [
+        504,
+        510
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G41-S05",
+        "BS02-S04",
+        "BS02-S06"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "A further 98 item-level source propositions/name slots are now mapped to actual Kannada completion scenes. See Completion_Units_Combined.json. Flagged catalogue readings were visually compared with matching PDF pages and printed variants explained; the interpretation of ತೃತೀಯಾ remains disclosed. Full chapter source-to-script reconciliation, every name, lexical gloss and commentary point are not yet independently certified.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "completion_batch_units_added": 98,
+      "completion_batch_scene_ids": [
+        "V4C06-S01",
+        "V4C06-S02",
+        "V4C06-S03",
+        "V4C06-S04",
+        "V4C06-S05",
+        "V4C06-S06"
+      ],
+      "gap_before_completion_batches": "Full apsara/gandharva/yaksha/attendant name catalogue, all sensory details and dimensions; selected names only spoken."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 11,
+      "title_en": "Brahma's assembly",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 23732,
+      "line_end": 24411,
+      "printed_pages": [
+        511,
+        525
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G41-S06",
+        "BS02-S05",
+        "BS02-S06"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "A further 99 item-level source propositions/name slots are now mapped to actual Kannada completion scenes. See Completion_Units_Combined.json. Flagged catalogue readings were visually compared with matching PDF pages and printed variants explained; the interpretation of ತೃತೀಯಾ remains disclosed. Full chapter source-to-script reconciliation, every name, lexical gloss and commentary point are not yet independently certified.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "completion_batch_units_added": 99,
+      "completion_batch_scene_ids": [
+        "V4C07-S01",
+        "V4C07-S02",
+        "V4C07-S03",
+        "V4C07-S04",
+        "V4C07-S05",
+        "V4C07-S06",
+        "V4C07-S07",
+        "V4C07-S08"
+      ],
+      "gap_before_completion_batches": "Full personified knowledge, cosmic entity, sage and deity catalogue; Narada's solar-guided account and interleaved theological commentary compressed."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 12,
+      "title_en": "Harishchandra, Rajasuya and Pandu's message",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 24412,
+      "line_end": 24801,
+      "printed_pages": [
+        526,
+        534
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G41-S07",
+        "G41-S08"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Full Harishchandra conquest/gift metrics, alternative merits for reaching the assembly, Narada's concluding caution and Tatparya details.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 13,
+      "title_en": "Yudhishthira consults ministers on Rajasuya",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 24802,
+      "line_end": 25147,
+      "printed_pages": [
+        535,
+        542
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G42-S01",
+        "G42-S02"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "All prosperity conditions, adviser speeches and procedural repetitions; interleaved Tatparya theology compressed.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 14,
+      "title_en": "Krishna arrives at Indraprastha",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 25148,
+      "line_end": 25564,
+      "printed_pages": [
+        543,
+        551
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G42-S03"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Full messenger/arrival protocol, devotional exchanges, Krishna qualities and interleaved commentary.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 15,
+      "title_en": "Krishna describes Jarasandha's power",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 25565,
+      "line_end": 26182,
+      "printed_pages": [
+        552,
+        566
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G42-S04",
+        "G42-S05",
+        "BS03-S01",
+        "BS03-S02"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Full royal-alliance and Yadava lineage/name lists, military quantities, fortress dimensions, some regional detail; Hamsa/Dibaka substory now voiced inS03.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 16,
+      "title_en": "Obstacles to Rajasuya",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 26183,
+      "line_end": 26574,
+      "printed_pages": [
+        567,
+        575
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G42-S06"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Full opposing-warrior name list and each commentarial gloss; central captives/Rajasuya obstacle and withdrawal interpretation voiced.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 17,
+      "title_en": "Krishna, Yudhishthira and Bhima deliberate",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 26575,
+      "line_end": 26813,
+      "printed_pages": [
+        576,
+        580
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G42-S07",
+        "G42-S08"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Full philosophical argument and ritual-human-sacrifice glosses; all major council positions voiced.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 18,
+      "title_en": "Yudhishthira and Arjuna deliberate",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 26814,
+      "line_end": 27057,
+      "printed_pages": [
+        581,
+        584
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G42-S09"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Detailed metaphors/arguments beyond core dialogue. Repeated opening/pages580–581 need scan-based deduplication.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 19,
+      "title_en": "Jarasandha's birth",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 27058,
+      "line_end": 27646,
+      "printed_pages": [
+        585,
+        598
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G43-S01",
+        "G43-S02",
+        "G43-S03"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Brihadratha praise, exact initial boon language and every pregnancy/birth detail remain condensed. Central cause and aftermath are voiced without graphic birth imagery.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "gap_before_final_additions": "All Brihadratha praise, precise boon language, pregnancy/birth detail and Jara speech; central causal story voiced without graphic birth imagery.",
+      "final_addition_review": {
+        "parva": "Sabha",
+        "chapter": 19,
+        "added_group_ids": [
+          "SF02"
+        ],
+        "added_scene_ids": [
+          "SFSF02-S01"
+        ],
+        "newly_adapted": [
+          "Jara’s explicit reason for returning the infant and Brihadratha’s request for her identity"
+        ],
+        "remaining_gap": "Brihadratha praise, exact initial boon language and every pregnancy/birth detail remain condensed. Central cause and aftermath are voiced without graphic birth imagery."
+      }
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 20,
+      "title_en": "Jara's identity and Jarasandha's growth",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 27647,
+      "line_end": 28030,
+      "printed_pages": [
+        599,
+        607
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G43-S04",
+        "G43-S05"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Exact numerical/metrical expressions and all praise similes remain paraphrased. The source note distinguishing the popular Narada distance story is recorded editorially; modern geographical identification and unit conversion are unverified. No broader Jara wall-painting origin myth was added because it is absent from this supplied passage.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "gap_before_final_additions": "Full Jara household-deity explanation, Chandakaushika's prophecy, Jarasandha growth feats and thrown-mace place-origin detail; dynasty/Kamsa linkage voiced.",
+      "final_addition_review": {
+        "parva": "Sabha",
+        "chapter": 20,
+        "added_group_ids": [
+          "SF02",
+          "SF03",
+          "SF04"
+        ],
+        "added_scene_ids": [
+          "SFSF02-S01",
+          "SFSF03-S01",
+          "SFSF03-S02",
+          "SFSF04-S01",
+          "SFSF04-S02"
+        ],
+        "newly_adapted": [
+          "Jara’s own household-worship and gratitude explanation",
+          "Chandakaushika’s specific weapon, power, wealth, social-order and Rudra predictions",
+          "Brihadratha and both queens’ retreat and reported later end",
+          "Thrown-mace story and Gadavasana place-name origin"
+        ],
+        "remaining_gap": "Exact numerical/metrical expressions and all praise similes remain paraphrased. The source note distinguishing the popular Narada distance story is recorded editorially; modern geographical identification and unit conversion are unverified. No broader Jara wall-painting origin myth was added because it is absent from this supplied passage."
+      }
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 21,
+      "title_en": "Krishna, Bhima and Arjuna travel to Magadha",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 28031,
+      "line_end": 28479,
+      "printed_pages": [
+        608,
+        618
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G43-S06"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Anuraga spelling and route-identification need scan review; every council metaphor and Tatparya sentence is not separately voiced. No modern-map equivalence asserted.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "gap_before_final_additions": "Exact travel itinerary, place names, rites of departure, full Krishna strategic speech and Tatparya commentary.",
+      "final_addition_review": {
+        "parva": "Sabha",
+        "chapter": 21,
+        "added_group_ids": [
+          "SF04",
+          "SF05"
+        ],
+        "added_scene_ids": [
+          "SFSF04-S01",
+          "SFSF04-S02",
+          "SFSF05-S01",
+          "SFSF05-S02",
+          "SFSF05-S03",
+          "SFSF05-S04",
+          "SFSF05-S05"
+        ],
+        "newly_adapted": [
+          "Why three men and why hand-to-hand combat",
+          "Departure blessings and named route through Kurujangala, Padma lake, Kalakuta, Sarayu, eastern Kosala, Gandaki, Anuraga, Sadanira and Mithila",
+          "Ganga/Shona crossings and Goratha viewpoint"
+        ],
+        "remaining_gap": "Anuraga spelling and route-identification need scan review; every council metaphor and Tatparya sentence is not separately voiced. No modern-map equivalence asserted."
+      }
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 22,
+      "title_en": "Entry into Girivraja and challenge to Jarasandha",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 28480,
+      "line_end": 29745,
+      "printed_pages": [
+        619,
+        645
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G43-S07",
+        "G43-S08",
+        "G43-S09",
+        "G44-S06",
+        "BS03-S03",
+        "BS03-S04",
+        "BS03-S05",
+        "BS03-S06"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Dirghatamas birth/begetting wording and divergent hill lists require scan review. Exact debate repetitions, every civic descriptive detail and full cult/theological commentary remain condensed.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions.",
+      "gap_before_final_additions": "Full five-hill/geographical and civic catalogues, Gotama-related place tradition, exact debate repetitions and cult details; drums-origin and identity reasoning now voiced.",
+      "final_addition_review": {
+        "parva": "Sabha",
+        "chapter": 22,
+        "added_group_ids": [
+          "SF05",
+          "SF06"
+        ],
+        "added_scene_ids": [
+          "SFSF05-S01",
+          "SFSF05-S02",
+          "SFSF05-S03",
+          "SFSF05-S04",
+          "SFSF05-S05",
+          "SFSF06-S01"
+        ],
+        "newly_adapted": [
+          "Both source hill-name lists retained without silent conflation",
+          "Gautama/Dirghatamas–Ushinari–Kakshivant local tradition and Tapoda",
+          "Named naga habitats and forest/sacred-place descriptions",
+          "Specific ominous destruction, protective rite for the king, forcible garland/perfume taking and three palace courts"
+        ],
+        "remaining_gap": "Dirghatamas birth/begetting wording and divergent hill lists require scan review. Exact debate repetitions, every civic descriptive detail and full cult/theological commentary remain condensed."
+      }
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 23,
+      "title_en": "Krishna–Jarasandha enmity and wrestling",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 29746,
+      "line_end": 30655,
+      "printed_pages": [
+        646,
+        666
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G44-S01",
+        "G44-S02",
+        "G44-S03",
+        "G44-S04",
+        "G44-S05",
+        "G44-S07",
+        "G44-S11",
+        "BS03-S06",
+        "BS03-S07",
+        "BS03-S08"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Verse-by-verse wrestling holds and formal courtesies; full theological gloss. Krishna/Kamsa backstory and15-day/14thnight timing both voiced.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 24,
+      "title_en": "Jarasandha's death, release of kings and return",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 30656,
+      "line_end": 31396,
+      "printed_pages": [
+        667,
+        684
+      ],
+      "page_range_basis": "Start/end inferred from printed contents/page headers; includes nearby commentary. Scan not supplied. Ch18 repeated raw pages580–581 overlap chapter17; do not assume page range alone cleans OCR.",
+      "scene_ids": [
+        "G44-S08",
+        "G44-S09",
+        "G44-S10",
+        "G44-S12",
+        "G44-S13"
+      ],
+      "status": "MAJOR_NARRATIVE_AND_SELECTED_EXPLANATIONS_DRAFTED_NOT_EXHAUSTIVE",
+      "unvoiced_or_unverified": "Full liberated-kings praise, chariot descriptive catalogue and all ritual/gift details; Sahadeva identity, coronation, marriage commentary and Usha distinction now voiced.",
+      "next_step": "Compare to page scans, correct OCR/name readings, then script every listed remaining unit before claiming no omissions."
+    }
+  ],
+  "remaining_complete_scope": "All long name lists, lexical notes, scholarly commentary and detailed ritual/measurement passages remain in preserved source, but are not all recordable clean narration. Raw source retention is not adaptation completeness.",
+  "final_additions_integrated": true
+}

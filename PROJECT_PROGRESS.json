@@ -1,0 +1,164 @@
+{
+  "updated_utc": "2026-09-06T17:53:00.986010+00:00",
+  "user_request": "Finish the supplied books in full detail and apply the identical workflow to every next book. Conversation English; spoken narration and dialogue Kannada; no episode-count limit.",
+  "completion_status": "UNABRIDGED_ADAPTATION_UNFINISHED",
+  "source_scope": "Four supplied Palimaru volumes: Adiparva1–237 and Sabhaparva1–24. Not the whole18-parva epic.",
+  "current_package": {
+    "story_groups": 44,
+    "introduction_groups": 4,
+    "explanation_groups": 37,
+    "scenes": 635,
+    "Kannada_spoken_words": 36249,
+    "scene_keyframe_prompts": 635,
+    "reusable_asset_prompts": 89,
+    "registered_chapters": 261,
+    "chapters_with_source_overlap_links": 261,
+    "original_source_files": 4,
+    "source_blocks_retained": 33555,
+    "all_original_bytes_retained": true,
+    "unabridged_story_verified": false,
+    "images_generated": 0,
+    "audio_recorded": false,
+    "video_rendered": false,
+    "episode_count_locked": false,
+    "expected_story_groups_present": true,
+    "distinct_scene_image_prompts": 626,
+    "background_reuse_note": "Four genealogy backgrounds intentionally recur with different supplied Kannada relationship labels; generate one approved background per repeated design and typeset the correct labels for each scene."
+  },
+  "output_layout": {
+    "start": "outputs/Mahabharata/OPEN MAHABHARATA.html",
+    "project_files": "outputs/Mahabharata/Project Files",
+    "archives": "outputs/Mahabharata/Share and Backup",
+    "instruction": "Keep outputs organized into Mahabharata and Sales Reports. Do not recreate the old loose Mahabharata folder or ZIPs at outputs root."
+  },
+  "last_saved_additions": {
+    "new_scenes_since_592_scene_draft": 43,
+    "completion_batches": [
+      {
+        "file": "completion/volume4/batch01_sabha4.json",
+        "groups": [
+          "V4C01",
+          "V4C02"
+        ],
+        "scenes": 8,
+        "integrated": true,
+        "unassembled_scene_ids": [],
+        "sha256": "d978d76be39200de03a8f586c87bf8823bdd0eeb0f1b9837ccecfa718bd43567"
+      },
+      {
+        "file": "completion/volume4/batch02_sabha7_8_scenes.json",
+        "groups": [
+          "V4C03",
+          "V4C04"
+        ],
+        "scenes": 12,
+        "integrated": true,
+        "unassembled_scene_ids": [],
+        "sha256": "a7df338f3849d648e32c5d3a19898944fbcc39bf9eafb239cddb3a55acecf6a1"
+      },
+      {
+        "file": "completion/volume4/batch03_sabha9_11_scenes.json",
+        "groups": [
+          "V4C05",
+          "V4C06",
+          "V4C07",
+          "V4C08"
+        ],
+        "scenes": 23,
+        "integrated": true,
+        "unassembled_scene_ids": [],
+        "sha256": "da702805b4bb691c09f04eaa894c638d67933ef25f53f86a01d40f625914d39f"
+      }
+    ],
+    "mapped_completion_unit_status_counts": {
+      "adapted_readable_meaning": 668,
+      "adapted_scan_verified_meaning": 5,
+      "printed_reading_and_variant_explained": 3,
+      "duplicate_source_printing_meaning_retained_once": 1,
+      "unresolved_printed_relation_requires_scan": 1
+    },
+    "scope_note": "Unit counts are individual added propositions/name slots, not proof that whole chapters are complete."
+  },
+  "source_verification": {
+    "matching_scans": "All4 original PDFs,4 DjVu XML files and4 page-number JSONs downloaded and checksum verified. All4 local OCR MD5 hashes match archive metadata.",
+    "page_map": "audit/RAW_LINE_TO_PDF_PAGE.json: exact TXT/XML token sequence equality in all4 volumes; PDF/XML page counts match. Do not trust confidence-zero page_numbers.json as printed page labels.",
+    "kaurava_names": "All101 male-name slots visually compared, including100 Gandhari-son positions, Yuyutsu separate;4 script readings corrected;4 printed verse/prose variants retained. See audit/KAURAVA_SCAN_CORRECTIONS.json.",
+    "sabha_names": "Nine flagged reading slots visually checked and actual narration updated. Printed ತೃತೀಯಾ reading is clear; its name-versus-ordinal interpretation is disclosed, not settled. See audit/SABHA_SCAN_CORRECTIONS.json.",
+    "remaining": "Adi33–36 page sequence and other unreviewed spellings/relationships remain for source comparison. Downloaded scans are available locally."
+  },
+  "next_unfinished_source_unit": {
+    "volume": 1,
+    "front_unit_index": 1,
+    "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+    "line_start": 1,
+    "line_end": 147,
+    "current_scene": "FF01-S01",
+    "task": "Expand every bibliographic/devotional front-matter proposition and publication credit from the source, using the matching scan. Existing thematic narration is not full coverage. Create an item-level ledger and actual Kannada script; avoid repeating what FF01-S01 already says."
+  },
+  "remaining_work_queue": [
+    {
+      "scope": "31 front-matter units across4volumes",
+      "register": "frontmatter_gap_ledger.json",
+      "work": "All full messages, quotations/arguments, metaphors, acknowledgements and credits; current31scenes are thematic summaries."
+    },
+    {
+      "scope": "Volume1 Adi1–63",
+      "register": "chapter_inventory_01_63.json",
+      "first_chapter_span": "V1 raw lines3716–6501",
+      "work": "Full invocation and hymn meanings, creation/time enumerations, transmission numbers, epic-tree metaphor, every loss-of-hope incident, full phalashruti/commentary; then each subsequent chapter, not a sampled subset."
+    },
+    {
+      "scope": "Volume2 Adi64–131",
+      "register": "chapter_inventory_64_131.json plus final supplements",
+      "work": "Continue extended teachings, complete commentary, prayers and catalogue relationships; preserve already-written Yayati/Madhavi/Ashrama and100-name additions."
+    },
+    {
+      "scope": "Volume3 Adi132–199",
+      "register": "Coverage/Root_Chapters_132_237.csv",
+      "work": "Full source meaning-unit decomposition and reconciliation; main narrative exists, every speech/commentary/prayer has not been certified."
+    },
+    {
+      "scope": "Volume4 Adi200–237 and Sabha1–24",
+      "register": "sabha_chapter_gap_ledger.json plus completion/volume4 ledgers",
+      "work": "Preserve43new scenes; finish full Narada administration questions and remaining source units, Adi extended speeches/hymns and commentary, and independent reconciliation of Sabha4/7–11 additions."
+    }
+  ],
+  "saved_but_unassembled_scene_ids": [],
+  "validation": {
+    "content_qa.json": {
+      "status": "PASS",
+      "scenes_checked": 635,
+      "matches_current_scene_count": true,
+      "matches_current_master_hash": true
+    },
+    "reader_qa.json": {
+      "status": "PASS",
+      "scenes_checked": 635,
+      "matches_current_scene_count": true,
+      "matches_current_master_hash": true
+    }
+  },
+  "master_scenes_sha256": "94196774e8e63d3fbd98997eee87bfce7488ba950c9f97e2cd01de722199482b",
+  "media_status": "No images, voice recordings, motion clips or final video generated. 3840x2160,16:9,24fps is the intended delivery design.",
+  "worker_limit_event": {
+    "workers": [
+      "finish_catalogues",
+      "finish_volume2_gaps",
+      "finish_factual_fixes"
+    ],
+    "actual_error": "Your workspace is out of credits. Add credits to continue.",
+    "consequence": "Workers could not finish their assigned full-volume audits. Saved Volume4 batches were recovered, reviewed and integrated locally. Other assigned work remains unfinished. No credit reset or purchase was authorized or performed."
+  },
+  "resume_instructions": "Read CONTINUE_HERE.md, this file, current Coverage/Remaining_Detail_Review.csv and the source. Continue from the first unfinished unit; do not restart, reduce detail to fit episodes, or claim source retention equals full adaptation.",
+  "build_sequence": [
+    "Persist final JSON scenes and ledgers. Do not rerun older authoring helpers without preserving corrections.",
+    "assemble_package.py",
+    "qa_content.py",
+    "finalize_coverage.py",
+    "refresh_handoff.py",
+    "build_reader.py",
+    "qa_reader_final.cjs (resolve current local Chromium path)",
+    "Inspect reader screenshots",
+    "refresh_handoff.py --pack"
+  ]
+}

@@ -1,0 +1,2756 @@
+{
+  "source_collection": "https://archive.org/details/mahabharata-palimaru-mutt-kannada",
+  "method": "Visual inspection of matching original PDF pages; not inference from another edition. Original OCR retained without edits.",
+  "reviewed_entries": [
+    {
+      "source_sequence": 1,
+      "gandhari_position": 1,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28023,
+      "original_ocr_line": "ರಾಜನೇ, ದುರ್ಯೋಧನ, ಯುಯುತ್ತು, ದುಃಶಾಸನ, ದುರ್ಧರ್ಷ, ",
+      "previous_script_reading": "ದುರ್ಯೋಧನ",
+      "verified_script_reading": "ದುರ್ಯೋಧನ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 2,
+      "gandhari_position": null,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28023,
+      "original_ocr_line": "ರಾಜನೇ, ದುರ್ಯೋಧನ, ಯುಯುತ್ತು, ದುಃಶಾಸನ, ದುರ್ಧರ್ಷ, ",
+      "previous_script_reading": "ಯುಯುತ್ಸು",
+      "verified_script_reading": "ಯುಯುತ್ಸು",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ. ಮುದ್ರಿತ ಪುಟ595ರಲ್ಲಿ ಯುಯುತ್ಸುವು ಗಾಂಧಾರಿಯ ನೂರು ಪುತ್ರರಿಂದ ಪ್ರತ್ಯೇಕ ಎಂದು ಹೇಳಿದೆ."
+    },
+    {
+      "source_sequence": 3,
+      "gandhari_position": 2,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28023,
+      "original_ocr_line": "ರಾಜನೇ, ದುರ್ಯೋಧನ, ಯುಯುತ್ತು, ದುಃಶಾಸನ, ದುರ್ಧರ್ಷ, ",
+      "previous_script_reading": "ದುಃಶಾಸನ",
+      "verified_script_reading": "ದುಃಶಾಸನ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 4,
+      "gandhari_position": 3,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28023,
+      "original_ocr_line": "ರಾಜನೇ, ದುರ್ಯೋಧನ, ಯುಯುತ್ತು, ದುಃಶಾಸನ, ದುರ್ಧರ್ಷ, ",
+      "previous_script_reading": "ದುರ್ಧರ್ಷ",
+      "verified_script_reading": "ದುರ್ಧರ್ಷ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 5,
+      "gandhari_position": 4,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28024,
+      "original_ocr_line": "ದುರ್ಮುಖ, ಜಲಸಂಧಿ, ಸಹ ಸಮ, ವಿಂದ, ಅನುವಿಂದ, ದುಷ್ಟಾಪ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ದುರ್ಮುಖ",
+      "verified_script_reading": "ದುರ್ಮುಖ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 6,
+      "gandhari_position": 5,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28024,
+      "original_ocr_line": "ದುರ್ಮುಖ, ಜಲಸಂಧಿ, ಸಹ ಸಮ, ವಿಂದ, ಅನುವಿಂದ, ದುಷ್ಟಾಪ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಜಲಸಂಧಿ",
+      "verified_script_reading": "ಜಲಸಂಧಿ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 7,
+      "gandhari_position": 6,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28024,
+      "original_ocr_line": "ದುರ್ಮುಖ, ಜಲಸಂಧಿ, ಸಹ ಸಮ, ವಿಂದ, ಅನುವಿಂದ, ದುಷ್ಟಾಪ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಸಹ",
+      "verified_script_reading": "ಸಹ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 8,
+      "gandhari_position": 7,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28024,
+      "original_ocr_line": "ದುರ್ಮುಖ, ಜಲಸಂಧಿ, ಸಹ ಸಮ, ವಿಂದ, ಅನುವಿಂದ, ದುಷ್ಟಾಪ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಸಮ",
+      "verified_script_reading": "ಸಮ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 9,
+      "gandhari_position": 8,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28024,
+      "original_ocr_line": "ದುರ್ಮುಖ, ಜಲಸಂಧಿ, ಸಹ ಸಮ, ವಿಂದ, ಅನುವಿಂದ, ದುಷ್ಟಾಪ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ವಿಂದ",
+      "verified_script_reading": "ವಿಂದ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 10,
+      "gandhari_position": 9,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28024,
+      "original_ocr_line": "ದುರ್ಮುಖ, ಜಲಸಂಧಿ, ಸಹ ಸಮ, ವಿಂದ, ಅನುವಿಂದ, ದುಷ್ಟಾಪ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಅನುವಿಂದ",
+      "verified_script_reading": "ಅನುವಿಂದ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 11,
+      "gandhari_position": 10,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28024,
+      "original_ocr_line": "ದುರ್ಮುಖ, ಜಲಸಂಧಿ, ಸಹ ಸಮ, ವಿಂದ, ಅನುವಿಂದ, ದುಷ್ಟಾಪ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ದುಷ್ಟಾಪ",
+      "verified_script_reading": "ದುಷ್ಪ್ರಾಪ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 12,
+      "gandhari_position": 11,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28024,
+      "original_ocr_line": "ದುರ್ಮುಖ, ಜಲಸಂಧಿ, ಸಹ ಸಮ, ವಿಂದ, ಅನುವಿಂದ, ದುಷ್ಟಾಪ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಸುಬಾಹು",
+      "verified_script_reading": "ಸುಬಾಹು",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ. ಸುಬಾಹು ಎಂಬ ಎರಡು ನಾಮಸ್ಥಾನಗಳು ಮುದ್ರಿತ ಮೂಲದಲ್ಲಿಯೂ ಇವೆ."
+    },
+    {
+      "source_sequence": 13,
+      "gandhari_position": 12,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28025,
+      "original_ocr_line": "ದುಷ್ಕಧರ್ಷಣ, ದುರ್ಮದ, ಚಿತ್ರಯೋಧ, ದುಷ್ಕರ್ಣ, ಕರ್ಣ, ವಿವಿಂಶತಿ, ",
+      "previous_script_reading": "ದುಷ್ಕಧರ್ಷಣ",
+      "verified_script_reading": "ದುಷ್ಪ್ರಧರ್ಷಣ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 14,
+      "gandhari_position": 13,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28025,
+      "original_ocr_line": "ದುಷ್ಕಧರ್ಷಣ, ದುರ್ಮದ, ಚಿತ್ರಯೋಧ, ದುಷ್ಕರ್ಣ, ಕರ್ಣ, ವಿವಿಂಶತಿ, ",
+      "previous_script_reading": "ದುರ್ಮದ",
+      "verified_script_reading": "ದುರ್ಮದ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 15,
+      "gandhari_position": 14,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28025,
+      "original_ocr_line": "ದುಷ್ಕಧರ್ಷಣ, ದುರ್ಮದ, ಚಿತ್ರಯೋಧ, ದುಷ್ಕರ್ಣ, ಕರ್ಣ, ವಿವಿಂಶತಿ, ",
+      "previous_script_reading": "ಚಿತ್ರಯೋಧ",
+      "verified_script_reading": "ಚಿತ್ರಯೋಧ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 16,
+      "gandhari_position": 15,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28025,
+      "original_ocr_line": "ದುಷ್ಕಧರ್ಷಣ, ದುರ್ಮದ, ಚಿತ್ರಯೋಧ, ದುಷ್ಕರ್ಣ, ಕರ್ಣ, ವಿವಿಂಶತಿ, ",
+      "previous_script_reading": "ದುಷ್ಕರ್ಣ",
+      "verified_script_reading": "ದುಷ್ಕರ್ಣ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 17,
+      "gandhari_position": 16,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28025,
+      "original_ocr_line": "ದುಷ್ಕಧರ್ಷಣ, ದುರ್ಮದ, ಚಿತ್ರಯೋಧ, ದುಷ್ಕರ್ಣ, ಕರ್ಣ, ವಿವಿಂಶತಿ, ",
+      "previous_script_reading": "ಕರ್ಣ",
+      "verified_script_reading": "ಕರ್ಣ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 18,
+      "gandhari_position": 17,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28025,
+      "original_ocr_line": "ದುಷ್ಕಧರ್ಷಣ, ದುರ್ಮದ, ಚಿತ್ರಯೋಧ, ದುಷ್ಕರ್ಣ, ಕರ್ಣ, ವಿವಿಂಶತಿ, ",
+      "previous_script_reading": "ವಿವಿಂಶತಿ",
+      "verified_script_reading": "ವಿವಿಂಶತಿ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 19,
+      "gandhari_position": 18,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28026,
+      "original_ocr_line": "ವಿಕರ್ಣ, ಜಯಸಂಧ, ಸುಲೋಚನ, ಚಿತ್ರ, ವಿಚಿತ್ರ, ಚಿತ್ರಾಕ್ಟ, ಚಾರುಮಿತ್ರ, ",
+      "previous_script_reading": "ವಿಕರ್ಣ",
+      "verified_script_reading": "ವಿಕರ್ಣ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 20,
+      "gandhari_position": 19,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28026,
+      "original_ocr_line": "ವಿಕರ್ಣ, ಜಯಸಂಧ, ಸುಲೋಚನ, ಚಿತ್ರ, ವಿಚಿತ್ರ, ಚಿತ್ರಾಕ್ಟ, ಚಾರುಮಿತ್ರ, ",
+      "previous_script_reading": "ಜಯಸಂಧ",
+      "verified_script_reading": "ಜಯಸಂಧ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 21,
+      "gandhari_position": 20,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28026,
+      "original_ocr_line": "ವಿಕರ್ಣ, ಜಯಸಂಧ, ಸುಲೋಚನ, ಚಿತ್ರ, ವಿಚಿತ್ರ, ಚಿತ್ರಾಕ್ಟ, ಚಾರುಮಿತ್ರ, ",
+      "previous_script_reading": "ಸುಲೋಚನ",
+      "verified_script_reading": "ಸುಲೋಚನ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 22,
+      "gandhari_position": 21,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28026,
+      "original_ocr_line": "ವಿಕರ್ಣ, ಜಯಸಂಧ, ಸುಲೋಚನ, ಚಿತ್ರ, ವಿಚಿತ್ರ, ಚಿತ್ರಾಕ್ಟ, ಚಾರುಮಿತ್ರ, ",
+      "previous_script_reading": "ಚಿತ್ರ",
+      "verified_script_reading": "ಚಿತ್ರ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 23,
+      "gandhari_position": 22,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28026,
+      "original_ocr_line": "ವಿಕರ್ಣ, ಜಯಸಂಧ, ಸುಲೋಚನ, ಚಿತ್ರ, ವಿಚಿತ್ರ, ಚಿತ್ರಾಕ್ಟ, ಚಾರುಮಿತ್ರ, ",
+      "previous_script_reading": "ವಿಚಿತ್ರ",
+      "verified_script_reading": "ವಿಚಿತ್ರ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 24,
+      "gandhari_position": 23,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28026,
+      "original_ocr_line": "ವಿಕರ್ಣ, ಜಯಸಂಧ, ಸುಲೋಚನ, ಚಿತ್ರ, ವಿಚಿತ್ರ, ಚಿತ್ರಾಕ್ಟ, ಚಾರುಮಿತ್ರ, ",
+      "previous_script_reading": "ಚಿತ್ರಾಕ್ಷ",
+      "verified_script_reading": "ಚಿತ್ರಾಕ್ಷ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 25,
+      "gandhari_position": 24,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28026,
+      "original_ocr_line": "ವಿಕರ್ಣ, ಜಯಸಂಧ, ಸುಲೋಚನ, ಚಿತ್ರ, ವಿಚಿತ್ರ, ಚಿತ್ರಾಕ್ಟ, ಚಾರುಮಿತ್ರ, ",
+      "previous_script_reading": "ಚಾರುಚಿತ್ರ",
+      "verified_script_reading": "ಚಾರುಚಿತ್ರ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "printed_variant_verified",
+      "evidence": "ಮುದ್ರಿತ ಶ್ಲೋಕದಲ್ಲಿ ಚಾರುಚಿತ್ರ (ಪುಟ 592); ಗದ್ಯದಲ್ಲಿ ಚಾರುಮಿತ್ರ (ಪುಟ 593). ವಾಚನಕ್ಕೆ ಶ್ಲೋಕದ ರೂಪವನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಗದ್ಯದ ಭಿನ್ನರೂಪವನ್ನೂ ದಾಖಲಿಸಲಾಗಿದೆ.",
+      "printed_variants_kn": {
+        "verse": "ಚಾರುಚಿತ್ರ",
+        "prose": "ಚಾರುಮಿತ್ರ"
+      }
+    },
+    {
+      "source_sequence": 26,
+      "gandhari_position": 25,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28027,
+      "original_ocr_line": "ಶರಾಸನ, ದುರ್ಮರ್ಷಣ, ದುಷ್ಪಧರ್ಷ, ವಿವಿತ್ಸು, ವಿಕಲ, ಶಮ, ಊರ್ಣನಾಭ, ",
+      "previous_script_reading": "ಶರಾಸನ",
+      "verified_script_reading": "ಶರಾಸನ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 27,
+      "gandhari_position": 26,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28027,
+      "original_ocr_line": "ಶರಾಸನ, ದುರ್ಮರ್ಷಣ, ದುಷ್ಪಧರ್ಷ, ವಿವಿತ್ಸು, ವಿಕಲ, ಶಮ, ಊರ್ಣನಾಭ, ",
+      "previous_script_reading": "ದುರ್ಮರ್ಷಣ",
+      "verified_script_reading": "ದುರ್ಮರ್ಷಣ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 28,
+      "gandhari_position": 27,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28027,
+      "original_ocr_line": "ಶರಾಸನ, ದುರ್ಮರ್ಷಣ, ದುಷ್ಪಧರ್ಷ, ವಿವಿತ್ಸು, ವಿಕಲ, ಶಮ, ಊರ್ಣನಾಭ, ",
+      "previous_script_reading": "ದುಷ್ಪಧರ್ಷ",
+      "verified_script_reading": "ದುಷ್ಪ್ರಧರ್ಷ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 29,
+      "gandhari_position": 28,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28027,
+      "original_ocr_line": "ಶರಾಸನ, ದುರ್ಮರ್ಷಣ, ದುಷ್ಪಧರ್ಷ, ವಿವಿತ್ಸು, ವಿಕಲ, ಶಮ, ಊರ್ಣನಾಭ, ",
+      "previous_script_reading": "ವಿವಿತ್ಸು",
+      "verified_script_reading": "ವಿವಿತ್ಸು",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 30,
+      "gandhari_position": 29,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28027,
+      "original_ocr_line": "ಶರಾಸನ, ದುರ್ಮರ್ಷಣ, ದುಷ್ಪಧರ್ಷ, ವಿವಿತ್ಸು, ವಿಕಲ, ಶಮ, ಊರ್ಣನಾಭ, ",
+      "previous_script_reading": "ವಿಕಲ",
+      "verified_script_reading": "ವಿಕಲ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 31,
+      "gandhari_position": 30,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28027,
+      "original_ocr_line": "ಶರಾಸನ, ದುರ್ಮರ್ಷಣ, ದುಷ್ಪಧರ್ಷ, ವಿವಿತ್ಸು, ವಿಕಲ, ಶಮ, ಊರ್ಣನಾಭ, ",
+      "previous_script_reading": "ಶಮ",
+      "verified_script_reading": "ಶಮ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 32,
+      "gandhari_position": 31,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28027,
+      "original_ocr_line": "ಶರಾಸನ, ದುರ್ಮರ್ಷಣ, ದುಷ್ಪಧರ್ಷ, ವಿವಿತ್ಸು, ವಿಕಲ, ಶಮ, ಊರ್ಣನಾಭ, ",
+      "previous_script_reading": "ಊರ್ಣನಾಭ",
+      "verified_script_reading": "ಊರ್ಣನಾಭ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 33,
+      "gandhari_position": 32,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28028,
+      "original_ocr_line": "ಸುನಾಭ, ನಂದ, ಉಪನಂದ, ಸೇನಾಪತಿ, ಸುಷೇಣ, ಕುಂಡೋದರ, ಮಹೋದರ, ",
+      "previous_script_reading": "ಸುನಾಭ",
+      "verified_script_reading": "ಸುನಾಭ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 34,
+      "gandhari_position": 33,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28028,
+      "original_ocr_line": "ಸುನಾಭ, ನಂದ, ಉಪನಂದ, ಸೇನಾಪತಿ, ಸುಷೇಣ, ಕುಂಡೋದರ, ಮಹೋದರ, ",
+      "previous_script_reading": "ನಂದ",
+      "verified_script_reading": "ನಂದ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 35,
+      "gandhari_position": 34,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28028,
+      "original_ocr_line": "ಸುನಾಭ, ನಂದ, ಉಪನಂದ, ಸೇನಾಪತಿ, ಸುಷೇಣ, ಕುಂಡೋದರ, ಮಹೋದರ, ",
+      "previous_script_reading": "ಉಪನಂದ",
+      "verified_script_reading": "ಉಪನಂದ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 36,
+      "gandhari_position": 35,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28028,
+      "original_ocr_line": "ಸುನಾಭ, ನಂದ, ಉಪನಂದ, ಸೇನಾಪತಿ, ಸುಷೇಣ, ಕುಂಡೋದರ, ಮಹೋದರ, ",
+      "previous_script_reading": "ಸೇನಾಪತಿ",
+      "verified_script_reading": "ಸೇನಾಪತಿ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 37,
+      "gandhari_position": 36,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28028,
+      "original_ocr_line": "ಸುನಾಭ, ನಂದ, ಉಪನಂದ, ಸೇನಾಪತಿ, ಸುಷೇಣ, ಕುಂಡೋದರ, ಮಹೋದರ, ",
+      "previous_script_reading": "ಸುಷೇಣ",
+      "verified_script_reading": "ಸುಷೇಣ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 38,
+      "gandhari_position": 37,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28028,
+      "original_ocr_line": "ಸುನಾಭ, ನಂದ, ಉಪನಂದ, ಸೇನಾಪತಿ, ಸುಷೇಣ, ಕುಂಡೋದರ, ಮಹೋದರ, ",
+      "previous_script_reading": "ಕುಂಡೋದರ",
+      "verified_script_reading": "ಕುಂಡೋದರ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 39,
+      "gandhari_position": 38,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28028,
+      "original_ocr_line": "ಸುನಾಭ, ನಂದ, ಉಪನಂದ, ಸೇನಾಪತಿ, ಸುಷೇಣ, ಕುಂಡೋದರ, ಮಹೋದರ, ",
+      "previous_script_reading": "ಮಹೋದರ",
+      "verified_script_reading": "ಮಹೋದರ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 40,
+      "gandhari_position": 39,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28029,
+      "original_ocr_line": "ಚಿತ್ರಧ್ದಜ, ಚಿತ್ರರಥ, ಚಿತ್ರಬಾಹು, ಅಮಿತ್ರಜಿತ್‌, ಚಿತ್ರಬಾಣ, ಚಿತ್ರವರ್ಮ, ",
+      "previous_script_reading": "ಚಿತ್ರಧ್ವಜ",
+      "verified_script_reading": "ಚಿತ್ರಧ್ವಜ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 41,
+      "gandhari_position": 40,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28029,
+      "original_ocr_line": "ಚಿತ್ರಧ್ದಜ, ಚಿತ್ರರಥ, ಚಿತ್ರಬಾಹು, ಅಮಿತ್ರಜಿತ್‌, ಚಿತ್ರಬಾಣ, ಚಿತ್ರವರ್ಮ, ",
+      "previous_script_reading": "ಚಿತ್ರರಥ",
+      "verified_script_reading": "ಚಿತ್ರರಥ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 42,
+      "gandhari_position": 41,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28029,
+      "original_ocr_line": "ಚಿತ್ರಧ್ದಜ, ಚಿತ್ರರಥ, ಚಿತ್ರಬಾಹು, ಅಮಿತ್ರಜಿತ್‌, ಚಿತ್ರಬಾಣ, ಚಿತ್ರವರ್ಮ, ",
+      "previous_script_reading": "ಚಿತ್ರಬಾಹು",
+      "verified_script_reading": "ಚಿತ್ರಬಾಹು",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 43,
+      "gandhari_position": 42,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28029,
+      "original_ocr_line": "ಚಿತ್ರಧ್ದಜ, ಚಿತ್ರರಥ, ಚಿತ್ರಬಾಹು, ಅಮಿತ್ರಜಿತ್‌, ಚಿತ್ರಬಾಣ, ಚಿತ್ರವರ್ಮ, ",
+      "previous_script_reading": "ಅಮಿತ್ರಜಿತ್",
+      "verified_script_reading": "ಅಮಿತ್ರಜಿತ್",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 44,
+      "gandhari_position": 43,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28029,
+      "original_ocr_line": "ಚಿತ್ರಧ್ದಜ, ಚಿತ್ರರಥ, ಚಿತ್ರಬಾಹು, ಅಮಿತ್ರಜಿತ್‌, ಚಿತ್ರಬಾಣ, ಚಿತ್ರವರ್ಮ, ",
+      "previous_script_reading": "ಚಿತ್ರಬಾಣ",
+      "verified_script_reading": "ಚಿತ್ರಬಾಣ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 45,
+      "gandhari_position": 44,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28029,
+      "original_ocr_line": "ಚಿತ್ರಧ್ದಜ, ಚಿತ್ರರಥ, ಚಿತ್ರಬಾಹು, ಅಮಿತ್ರಜಿತ್‌, ಚಿತ್ರಬಾಣ, ಚಿತ್ರವರ್ಮ, ",
+      "previous_script_reading": "ಚಿತ್ರವರ್ಮ",
+      "verified_script_reading": "ಚಿತ್ರವರ್ಮ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 46,
+      "gandhari_position": 45,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28030,
+      "original_ocr_line": "ಸುವರ್ಮ, ದುರ್ವಿಲೋಚನ, ಚಿತ್ರಸೇನ, ವಿಕ್ರಾಂತ, ಸುಚಿತ್ರ, ಚಿತ್ರವರ್ಮದ್ಭಕ್‌, ",
+      "previous_script_reading": "ಸುವರ್ಮ",
+      "verified_script_reading": "ಸುವರ್ಮ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 47,
+      "gandhari_position": 46,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28030,
+      "original_ocr_line": "ಸುವರ್ಮ, ದುರ್ವಿಲೋಚನ, ಚಿತ್ರಸೇನ, ವಿಕ್ರಾಂತ, ಸುಚಿತ್ರ, ಚಿತ್ರವರ್ಮದ್ಭಕ್‌, ",
+      "previous_script_reading": "ದುರ್ವಿಲೋಚನ",
+      "verified_script_reading": "ದುರ್ವಿಲೋಚನ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 48,
+      "gandhari_position": 47,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28030,
+      "original_ocr_line": "ಸುವರ್ಮ, ದುರ್ವಿಲೋಚನ, ಚಿತ್ರಸೇನ, ವಿಕ್ರಾಂತ, ಸುಚಿತ್ರ, ಚಿತ್ರವರ್ಮದ್ಭಕ್‌, ",
+      "previous_script_reading": "ಚಿತ್ರಸೇನ",
+      "verified_script_reading": "ಚಿತ್ರಸೇನ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 49,
+      "gandhari_position": 48,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28030,
+      "original_ocr_line": "ಸುವರ್ಮ, ದುರ್ವಿಲೋಚನ, ಚಿತ್ರಸೇನ, ವಿಕ್ರಾಂತ, ಸುಚಿತ್ರ, ಚಿತ್ರವರ್ಮದ್ಭಕ್‌, ",
+      "previous_script_reading": "ವಿಕ್ರಾಂತ",
+      "verified_script_reading": "ವಿಕ್ರಾಂತ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 50,
+      "gandhari_position": 49,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28030,
+      "original_ocr_line": "ಸುವರ್ಮ, ದುರ್ವಿಲೋಚನ, ಚಿತ್ರಸೇನ, ವಿಕ್ರಾಂತ, ಸುಚಿತ್ರ, ಚಿತ್ರವರ್ಮದ್ಭಕ್‌, ",
+      "previous_script_reading": "ಸುಚಿತ್ರ",
+      "verified_script_reading": "ಸುಚಿತ್ರ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "printed_variant_verified",
+      "evidence": "ಮುದ್ರಿತ ಶ್ಲೋಕದಲ್ಲಿ ಸುಚಿತ್ರ (ಪುಟ 592); ಗದ್ಯದಲ್ಲಿ ಸುಚಿತ್ತ (ಪುಟ 593). ವಾಚನಕ್ಕೆ ಶ್ಲೋಕದ ರೂಪವನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಗದ್ಯದ ಭಿನ್ನರೂಪವನ್ನೂ ದಾಖಲಿಸಲಾಗಿದೆ.",
+      "printed_variants_kn": {
+        "verse": "ಸುಚಿತ್ರ",
+        "prose": "ಸುಚಿತ್ತ"
+      }
+    },
+    {
+      "source_sequence": 51,
+      "gandhari_position": 50,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28030,
+      "original_ocr_line": "ಸುವರ್ಮ, ದುರ್ವಿಲೋಚನ, ಚಿತ್ರಸೇನ, ವಿಕ್ರಾಂತ, ಸುಚಿತ್ರ, ಚಿತ್ರವರ್ಮದ್ಭಕ್‌, ",
+      "previous_script_reading": "ಚಿತ್ರವರ್ಮಧೃಕ್",
+      "verified_script_reading": "ಚಿತ್ರವರ್ಮಧೃಕ್",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 52,
+      "gandhari_position": 51,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28031,
+      "original_ocr_line": "ಅಪರಾಜಿತ, ಪಂಡಿತಕ, ವಿಶಾಲಾಕ್ಷ, ದುರಾಸದ, ಅಜಿತ, ಜಯಂತ, ಜಯತ್ತೇನ, ",
+      "previous_script_reading": "ಅಪರಾಜಿತ",
+      "verified_script_reading": "ಅಪರಾಜಿತ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 53,
+      "gandhari_position": 52,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28031,
+      "original_ocr_line": "ಅಪರಾಜಿತ, ಪಂಡಿತಕ, ವಿಶಾಲಾಕ್ಷ, ದುರಾಸದ, ಅಜಿತ, ಜಯಂತ, ಜಯತ್ತೇನ, ",
+      "previous_script_reading": "ಪಂಡಿತಕ",
+      "verified_script_reading": "ಪಂಡಿತಕ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 54,
+      "gandhari_position": 53,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28031,
+      "original_ocr_line": "ಅಪರಾಜಿತ, ಪಂಡಿತಕ, ವಿಶಾಲಾಕ್ಷ, ದುರಾಸದ, ಅಜಿತ, ಜಯಂತ, ಜಯತ್ತೇನ, ",
+      "previous_script_reading": "ವಿಶಾಲಾಕ್ಷ",
+      "verified_script_reading": "ವಿಶಾಲಾಕ್ಷ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 55,
+      "gandhari_position": 54,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28031,
+      "original_ocr_line": "ಅಪರಾಜಿತ, ಪಂಡಿತಕ, ವಿಶಾಲಾಕ್ಷ, ದುರಾಸದ, ಅಜಿತ, ಜಯಂತ, ಜಯತ್ತೇನ, ",
+      "previous_script_reading": "ದುರಾಸದ",
+      "verified_script_reading": "ದುರಾಸದ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 56,
+      "gandhari_position": 55,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28031,
+      "original_ocr_line": "ಅಪರಾಜಿತ, ಪಂಡಿತಕ, ವಿಶಾಲಾಕ್ಷ, ದುರಾಸದ, ಅಜಿತ, ಜಯಂತ, ಜಯತ್ತೇನ, ",
+      "previous_script_reading": "ಅಜಿತ",
+      "verified_script_reading": "ಅಜಿತ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 57,
+      "gandhari_position": 56,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28031,
+      "original_ocr_line": "ಅಪರಾಜಿತ, ಪಂಡಿತಕ, ವಿಶಾಲಾಕ್ಷ, ದುರಾಸದ, ಅಜಿತ, ಜಯಂತ, ಜಯತ್ತೇನ, ",
+      "previous_script_reading": "ಜಯಂತ",
+      "verified_script_reading": "ಜಯಂತ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 58,
+      "gandhari_position": 57,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28031,
+      "original_ocr_line": "ಅಪರಾಜಿತ, ಪಂಡಿತಕ, ವಿಶಾಲಾಕ್ಷ, ದುರಾಸದ, ಅಜಿತ, ಜಯಂತ, ಜಯತ್ತೇನ, ",
+      "previous_script_reading": "ಜಯತ್ಸೇನ",
+      "verified_script_reading": "ಜಯತ್ಸೇನ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 59,
+      "gandhari_position": 58,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28032,
+      "original_ocr_line": "ದುರ್ಜಯ, ದೃಢಹಸ್ತ, ಸುಹಸ್ತ, ವಾತವೇಗ, ಸುವರ್ಚ, ಆದಿತ್ಯಕೇತು, ಬಹ್ಟಾಶೀ, ",
+      "previous_script_reading": "ದುರ್ಜಯ",
+      "verified_script_reading": "ದುರ್ಜಯ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 60,
+      "gandhari_position": 59,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28032,
+      "original_ocr_line": "ದುರ್ಜಯ, ದೃಢಹಸ್ತ, ಸುಹಸ್ತ, ವಾತವೇಗ, ಸುವರ್ಚ, ಆದಿತ್ಯಕೇತು, ಬಹ್ಟಾಶೀ, ",
+      "previous_script_reading": "ದೃಢಹಸ್ತ",
+      "verified_script_reading": "ದೃಢಹಸ್ತ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 61,
+      "gandhari_position": 60,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28032,
+      "original_ocr_line": "ದುರ್ಜಯ, ದೃಢಹಸ್ತ, ಸುಹಸ್ತ, ವಾತವೇಗ, ಸುವರ್ಚ, ಆದಿತ್ಯಕೇತು, ಬಹ್ಟಾಶೀ, ",
+      "previous_script_reading": "ಸುಹಸ್ತ",
+      "verified_script_reading": "ಸುಹಸ್ತ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 62,
+      "gandhari_position": 61,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28032,
+      "original_ocr_line": "ದುರ್ಜಯ, ದೃಢಹಸ್ತ, ಸುಹಸ್ತ, ವಾತವೇಗ, ಸುವರ್ಚ, ಆದಿತ್ಯಕೇತು, ಬಹ್ಟಾಶೀ, ",
+      "previous_script_reading": "ವಾತವೇಗ",
+      "verified_script_reading": "ವಾತವೇಗ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 63,
+      "gandhari_position": 62,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28032,
+      "original_ocr_line": "ದುರ್ಜಯ, ದೃಢಹಸ್ತ, ಸುಹಸ್ತ, ವಾತವೇಗ, ಸುವರ್ಚ, ಆದಿತ್ಯಕೇತು, ಬಹ್ಟಾಶೀ, ",
+      "previous_script_reading": "ಸುವರ್ಚ",
+      "verified_script_reading": "ಸುವರ್ಚ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 64,
+      "gandhari_position": 63,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28032,
+      "original_ocr_line": "ದುರ್ಜಯ, ದೃಢಹಸ್ತ, ಸುಹಸ್ತ, ವಾತವೇಗ, ಸುವರ್ಚ, ಆದಿತ್ಯಕೇತು, ಬಹ್ಟಾಶೀ, ",
+      "previous_script_reading": "ಆದಿತ್ಯಕೇತು",
+      "verified_script_reading": "ಆದಿತ್ಯಕೇತು",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 65,
+      "gandhari_position": 64,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28032,
+      "original_ocr_line": "ದುರ್ಜಯ, ದೃಢಹಸ್ತ, ಸುಹಸ್ತ, ವಾತವೇಗ, ಸುವರ್ಚ, ಆದಿತ್ಯಕೇತು, ಬಹ್ಟಾಶೀ, ",
+      "previous_script_reading": "ಬಹ್ವಾಶೀ",
+      "verified_script_reading": "ಬಹ್ವಾಶೀ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 66,
+      "gandhari_position": 65,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28033,
+      "original_ocr_line": "ನಾಗದಂತ, ಉಗ್ರಶಾಯಿ, ಕವಚೀ,ನಿಷಂಗೀ, ಪಾಶೀ, ದಂಡಧಾರ, ಅನುಗ್ರಹ, ",
+      "previous_script_reading": "ನಾಗದಂತ",
+      "verified_script_reading": "ನಾಗದಂತ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 67,
+      "gandhari_position": 66,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28033,
+      "original_ocr_line": "ನಾಗದಂತ, ಉಗ್ರಶಾಯಿ, ಕವಚೀ,ನಿಷಂಗೀ, ಪಾಶೀ, ದಂಡಧಾರ, ಅನುಗ್ರಹ, ",
+      "previous_script_reading": "ಉಗ್ರಶಾಯಿ",
+      "verified_script_reading": "ಉಗ್ರಶಾಯಿ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 68,
+      "gandhari_position": 67,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28033,
+      "original_ocr_line": "ನಾಗದಂತ, ಉಗ್ರಶಾಯಿ, ಕವಚೀ,ನಿಷಂಗೀ, ಪಾಶೀ, ದಂಡಧಾರ, ಅನುಗ್ರಹ, ",
+      "previous_script_reading": "ಕವಚೀ",
+      "verified_script_reading": "ಕವಚೀ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 69,
+      "gandhari_position": 68,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28033,
+      "original_ocr_line": "ನಾಗದಂತ, ಉಗ್ರಶಾಯಿ, ಕವಚೀ,ನಿಷಂಗೀ, ಪಾಶೀ, ದಂಡಧಾರ, ಅನುಗ್ರಹ, ",
+      "previous_script_reading": "ನಿಷಂಗೀ",
+      "verified_script_reading": "ನಿಷಂಗೀ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 70,
+      "gandhari_position": 69,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28033,
+      "original_ocr_line": "ನಾಗದಂತ, ಉಗ್ರಶಾಯಿ, ಕವಚೀ,ನಿಷಂಗೀ, ಪಾಶೀ, ದಂಡಧಾರ, ಅನುಗ್ರಹ, ",
+      "previous_script_reading": "ಪಾಶೀ",
+      "verified_script_reading": "ಪಾಶೀ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 71,
+      "gandhari_position": 70,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28033,
+      "original_ocr_line": "ನಾಗದಂತ, ಉಗ್ರಶಾಯಿ, ಕವಚೀ,ನಿಷಂಗೀ, ಪಾಶೀ, ದಂಡಧಾರ, ಅನುಗ್ರಹ, ",
+      "previous_script_reading": "ದಂಡಧಾರ",
+      "verified_script_reading": "ದಂಡಧಾರ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 72,
+      "gandhari_position": 71,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28033,
+      "original_ocr_line": "ನಾಗದಂತ, ಉಗ್ರಶಾಯಿ, ಕವಚೀ,ನಿಷಂಗೀ, ಪಾಶೀ, ದಂಡಧಾರ, ಅನುಗ್ರಹ, ",
+      "previous_script_reading": "ಅನುಗ್ರಹ",
+      "verified_script_reading": "ಅನುಗ್ರಹ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        625
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 73,
+      "gandhari_position": 72,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28039,
+      "original_ocr_line": "ಉಗ್ರ , ಭೀಮರಥ, ಭೀವು, ಭೀಮಬಾಹು, ಅಲೋಲುಪ, ಭೀಮಕರ್ಮ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಉಗ್ರ",
+      "verified_script_reading": "ಉಗ್ರ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 74,
+      "gandhari_position": 73,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28039,
+      "original_ocr_line": "ಉಗ್ರ , ಭೀಮರಥ, ಭೀವು, ಭೀಮಬಾಹು, ಅಲೋಲುಪ, ಭೀಮಕರ್ಮ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಭೀಮರಥ",
+      "verified_script_reading": "ಭೀಮರಥ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 75,
+      "gandhari_position": 74,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28039,
+      "original_ocr_line": "ಉಗ್ರ , ಭೀಮರಥ, ಭೀವು, ಭೀಮಬಾಹು, ಅಲೋಲುಪ, ಭೀಮಕರ್ಮ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಭೀಮ",
+      "verified_script_reading": "ಭೀಮ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 76,
+      "gandhari_position": 75,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28039,
+      "original_ocr_line": "ಉಗ್ರ , ಭೀಮರಥ, ಭೀವು, ಭೀಮಬಾಹು, ಅಲೋಲುಪ, ಭೀಮಕರ್ಮ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಭೀಮಬಾಹು",
+      "verified_script_reading": "ಭೀಮಬಾಹು",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 77,
+      "gandhari_position": 76,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28039,
+      "original_ocr_line": "ಉಗ್ರ , ಭೀಮರಥ, ಭೀವು, ಭೀಮಬಾಹು, ಅಲೋಲುಪ, ಭೀಮಕರ್ಮ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಅಲೋಲುಪ",
+      "verified_script_reading": "ಅಲೋಲುಪ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 78,
+      "gandhari_position": 77,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28039,
+      "original_ocr_line": "ಉಗ್ರ , ಭೀಮರಥ, ಭೀವು, ಭೀಮಬಾಹು, ಅಲೋಲುಪ, ಭೀಮಕರ್ಮ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಭೀಮಕರ್ಮ",
+      "verified_script_reading": "ಭೀಮಕರ್ಮ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 79,
+      "gandhari_position": 78,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28039,
+      "original_ocr_line": "ಉಗ್ರ , ಭೀಮರಥ, ಭೀವು, ಭೀಮಬಾಹು, ಅಲೋಲುಪ, ಭೀಮಕರ್ಮ, ಸುಬಾಹು, ",
+      "previous_script_reading": "ಸುಬಾಹು",
+      "verified_script_reading": "ಸುಬಾಹು",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ. ಸುಬಾಹು ಎಂಬ ಎರಡು ನಾಮಸ್ಥಾನಗಳು ಮುದ್ರಿತ ಮೂಲದಲ್ಲಿಯೂ ಇವೆ."
+    },
+    {
+      "source_sequence": 80,
+      "gandhari_position": 79,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28040,
+      "original_ocr_line": "ಭೀಮವಿಕ್ರಾಂತ, ಅಭಯ, ಸೂಕ್ಷಕರ್ಮ, ದೃಢರಥ, ಅನಾಧೃಷ್ಯ , ಕುಂಡಭೇಧಿ, ಧಿ ",
+      "previous_script_reading": "ಭೀಮವಿಕ್ರಾಂತ",
+      "verified_script_reading": "ಭೀಮವಿಕ್ರಾಂತ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 81,
+      "gandhari_position": 80,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28040,
+      "original_ocr_line": "ಭೀಮವಿಕ್ರಾಂತ, ಅಭಯ, ಸೂಕ್ಷಕರ್ಮ, ದೃಢರಥ, ಅನಾಧೃಷ್ಯ , ಕುಂಡಭೇಧಿ, ಧಿ ",
+      "previous_script_reading": "ಅಭಯ",
+      "verified_script_reading": "ಅಭಯ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 82,
+      "gandhari_position": 81,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28040,
+      "original_ocr_line": "ಭೀಮವಿಕ್ರಾಂತ, ಅಭಯ, ಸೂಕ್ಷಕರ್ಮ, ದೃಢರಥ, ಅನಾಧೃಷ್ಯ , ಕುಂಡಭೇಧಿ, ಧಿ ",
+      "previous_script_reading": "ರುಕ್ಮಕರ್ಮ",
+      "verified_script_reading": "ರೂಕ್ಮಕರ್ಮ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "printed_variant_verified",
+      "evidence": "ಮುದ್ರಿತ ಶ್ಲೋಕದಲ್ಲಿ ರೂಕ್ಮಕರ್ಮ (ಪುಟ 593); ಗದ್ಯದಲ್ಲಿ ಸೂಕ್ಷ್ಮಕರ್ಮ (ಪುಟ 594). ವಾಚನಕ್ಕೆ ಶ್ಲೋಕದ ರೂಪವನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಗದ್ಯದ ಭಿನ್ನರೂಪವನ್ನೂ ದಾಖಲಿಸಲಾಗಿದೆ.",
+      "printed_variants_kn": {
+        "verse": "ರೂಕ್ಮಕರ್ಮ",
+        "prose": "ಸೂಕ್ಷ್ಮಕರ್ಮ"
+      }
+    },
+    {
+      "source_sequence": 83,
+      "gandhari_position": 82,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28040,
+      "original_ocr_line": "ಭೀಮವಿಕ್ರಾಂತ, ಅಭಯ, ಸೂಕ್ಷಕರ್ಮ, ದೃಢರಥ, ಅನಾಧೃಷ್ಯ , ಕುಂಡಭೇಧಿ, ಧಿ ",
+      "previous_script_reading": "ದೃಢರಥ",
+      "verified_script_reading": "ದೃಢರಥ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 84,
+      "gandhari_position": 83,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28040,
+      "original_ocr_line": "ಭೀಮವಿಕ್ರಾಂತ, ಅಭಯ, ಸೂಕ್ಷಕರ್ಮ, ದೃಢರಥ, ಅನಾಧೃಷ್ಯ , ಕುಂಡಭೇಧಿ, ಧಿ ",
+      "previous_script_reading": "ಅನಾಧೃಷ್ಯ",
+      "verified_script_reading": "ಅನಾಧೃಷ್ಯ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 85,
+      "gandhari_position": 84,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28040,
+      "original_ocr_line": "ಭೀಮವಿಕ್ರಾಂತ, ಅಭಯ, ಸೂಕ್ಷಕರ್ಮ, ದೃಢರಥ, ಅನಾಧೃಷ್ಯ , ಕುಂಡಭೇಧಿ, ಧಿ ",
+      "previous_script_reading": "ಕುಂಡಭೇದೀ",
+      "verified_script_reading": "ಕುಂಡಭೇದೀ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 86,
+      "gandhari_position": 85,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28040,
+      "original_ocr_line": "ಭೀಮವಿಕ್ರಾಂತ, ಅಭಯ, ಸೂಕ್ಷಕರ್ಮ, ದೃಢರಥ, ಅನಾಧೃಷ್ಯ , ಕುಂಡಭೇಧಿ, ಧಿ ",
+      "previous_script_reading": "ಧೀರಾರಿ",
+      "verified_script_reading": "ಧೀರಾರಿ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 87,
+      "gandhari_position": 86,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28041,
+      "original_ocr_line": "\"ರಾರಿ, ದೀರ್ಫಲೋಚನ, ದೀರ್ಫಧ್ವಜ, ದೀರ್ಪಜಂಘ, ಅದೀರ್ಥ, ದೀರ್ಥ, ",
+      "previous_script_reading": "ದೀರ್ಘಲೋಚನ",
+      "verified_script_reading": "ದೀರ್ಘಲೋಚನ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 88,
+      "gandhari_position": 87,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28041,
+      "original_ocr_line": "\"ರಾರಿ, ದೀರ್ಫಲೋಚನ, ದೀರ್ಫಧ್ವಜ, ದೀರ್ಪಜಂಘ, ಅದೀರ್ಥ, ದೀರ್ಥ, ",
+      "previous_script_reading": "ದೀರ್ಘಧ್ವಜ",
+      "verified_script_reading": "ದೀರ್ಘಧ್ವಜ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 89,
+      "gandhari_position": 88,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28041,
+      "original_ocr_line": "\"ರಾರಿ, ದೀರ್ಫಲೋಚನ, ದೀರ್ಫಧ್ವಜ, ದೀರ್ಪಜಂಘ, ಅದೀರ್ಥ, ದೀರ್ಥ, ",
+      "previous_script_reading": "ದೀರ್ಘಜಂಘ",
+      "verified_script_reading": "ದೀರ್ಘಜಂಘ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 90,
+      "gandhari_position": 89,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28041,
+      "original_ocr_line": "\"ರಾರಿ, ದೀರ್ಫಲೋಚನ, ದೀರ್ಫಧ್ವಜ, ದೀರ್ಪಜಂಘ, ಅದೀರ್ಥ, ದೀರ್ಥ, ",
+      "previous_script_reading": "ಅದೀರ್ಘ",
+      "verified_script_reading": "ಅದೀರ್ಘ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 91,
+      "gandhari_position": 90,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28041,
+      "original_ocr_line": "\"ರಾರಿ, ದೀರ್ಫಲೋಚನ, ದೀರ್ಫಧ್ವಜ, ದೀರ್ಪಜಂಘ, ಅದೀರ್ಥ, ದೀರ್ಥ, ",
+      "previous_script_reading": "ದೀರ್ಘ",
+      "verified_script_reading": "ದೀರ್ಘ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 92,
+      "gandhari_position": 91,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28042,
+      "original_ocr_line": "ದೀರ್ಫಬಾಹು, ಮಹಾಬಾಹು, ವ್ಯೂಢೋರ, ಕನಕಧ್ದಜ, ಮಹಾಕುಂಡ, ಕುಂಡ, ",
+      "previous_script_reading": "ದೀರ್ಘಬಾಹು",
+      "verified_script_reading": "ದೀರ್ಘಬಾಹು",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 93,
+      "gandhari_position": 92,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28042,
+      "original_ocr_line": "ದೀರ್ಫಬಾಹು, ಮಹಾಬಾಹು, ವ್ಯೂಢೋರ, ಕನಕಧ್ದಜ, ಮಹಾಕುಂಡ, ಕುಂಡ, ",
+      "previous_script_reading": "ಮಹಾಬಾಹು",
+      "verified_script_reading": "ಮಹಾಬಾಹು",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 94,
+      "gandhari_position": 93,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28042,
+      "original_ocr_line": "ದೀರ್ಫಬಾಹು, ಮಹಾಬಾಹು, ವ್ಯೂಢೋರ, ಕನಕಧ್ದಜ, ಮಹಾಕುಂಡ, ಕುಂಡ, ",
+      "previous_script_reading": "ವ್ಯೂಢೋರು",
+      "verified_script_reading": "ವ್ಯೂಢೋರು",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 95,
+      "gandhari_position": 94,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28042,
+      "original_ocr_line": "ದೀರ್ಫಬಾಹು, ಮಹಾಬಾಹು, ವ್ಯೂಢೋರ, ಕನಕಧ್ದಜ, ಮಹಾಕುಂಡ, ಕುಂಡ, ",
+      "previous_script_reading": "ಕನಕಧ್ವಜ",
+      "verified_script_reading": "ಕನಕಧ್ವಜ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 96,
+      "gandhari_position": 95,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28042,
+      "original_ocr_line": "ದೀರ್ಫಬಾಹು, ಮಹಾಬಾಹು, ವ್ಯೂಢೋರ, ಕನಕಧ್ದಜ, ಮಹಾಕುಂಡ, ಕುಂಡ, ",
+      "previous_script_reading": "ಮಹಾಕುಂಡ",
+      "verified_script_reading": "ಮಹಾಕುಂಡ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 97,
+      "gandhari_position": 96,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28042,
+      "original_ocr_line": "ದೀರ್ಫಬಾಹು, ಮಹಾಬಾಹು, ವ್ಯೂಢೋರ, ಕನಕಧ್ದಜ, ಮಹಾಕುಂಡ, ಕುಂಡ, ",
+      "previous_script_reading": "ಕುಂಡ",
+      "verified_script_reading": "ಕುಂಡ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 98,
+      "gandhari_position": 97,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28043,
+      "original_ocr_line": "ವಿಕುಂಡ, ಚಿತ್ರಜ, ಅಸನ, ಚಿತ್ರಕ. ಇವರು ನೂರು ಪುತ್ರರು ಮತ್ತು ದುಃಶಲೆ. ",
+      "previous_script_reading": "ವಿಕುಂಡ",
+      "verified_script_reading": "ವಿಕುಂಡ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 99,
+      "gandhari_position": 98,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28043,
+      "original_ocr_line": "ವಿಕುಂಡ, ಚಿತ್ರಜ, ಅಸನ, ಚಿತ್ರಕ. ಇವರು ನೂರು ಪುತ್ರರು ಮತ್ತು ದುಃಶಲೆ. ",
+      "previous_script_reading": "ಚಿತ್ರಜ",
+      "verified_script_reading": "ಚಿತ್ರಜ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    },
+    {
+      "source_sequence": 100,
+      "gandhari_position": 99,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28043,
+      "original_ocr_line": "ವಿಕುಂಡ, ಚಿತ್ರಜ, ಅಸನ, ಚಿತ್ರಕ. ಇವರು ನೂರು ಪುತ್ರರು ಮತ್ತು ದುಃಶಲೆ. ",
+      "previous_script_reading": "ಅಸನಿ",
+      "verified_script_reading": "ಅಸನಿ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "printed_variant_verified",
+      "evidence": "ಮುದ್ರಿತ ಶ್ಲೋಕದಲ್ಲಿ ಅಸನಿ (ಪುಟ 593); ಗದ್ಯದಲ್ಲಿ ಅಸನ (ಪುಟ 594). ವಾಚನಕ್ಕೆ ಶ್ಲೋಕದ ರೂಪವನ್ನು ಉಳಿಸಲಾಗಿದೆ; ಗದ್ಯದ ಭಿನ್ನರೂಪವನ್ನೂ ದಾಖಲಿಸಲಾಗಿದೆ.",
+      "printed_variants_kn": {
+        "verse": "ಅಸನಿ",
+        "prose": "ಅಸನ"
+      }
+    },
+    {
+      "source_sequence": 101,
+      "gandhari_position": 100,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "source_line": 28043,
+      "original_ocr_line": "ವಿಕುಂಡ, ಚಿತ್ರಜ, ಅಸನ, ಚಿತ್ರಕ. ಇವರು ನೂರು ಪುತ್ರರು ಮತ್ತು ದುಃಶಲೆ. ",
+      "previous_script_reading": "ಚಿತ್ರಕ",
+      "verified_script_reading": "ಚಿತ್ರಕ",
+      "pdf_file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "pdf_pages_reviewed_1based": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "prose_pdf_page_1based": [
+        626
+      ],
+      "printed_pages_reviewed": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "status": "verified_against_matching_print_scan",
+      "evidence": "ಎರಡನೆಯ ಸಂಪುಟದ ಮುದ್ರಿತ 592–595 ಪುಟಗಳ ಮೂಲಚಿತ್ರಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ. ಮೂಲ OCR ಸಾಲನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+    }
+  ],
+  "changed_script_readings": 4,
+  "verified_printed_variant_positions": [
+    24,
+    49,
+    81,
+    99
+  ]
+}

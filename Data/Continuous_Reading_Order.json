@@ -1,0 +1,3812 @@
+[
+  {
+    "order": 1,
+    "scene_id": "I1-S01",
+    "title": "ಒಂದು ಕಥೆ, ಅನೇಕ ಧ್ವನಿಗಳು",
+    "group_id": "I1"
+  },
+  {
+    "order": 2,
+    "scene_id": "I1-S02",
+    "title": "ಈ ಆವೃತ್ತಿಯ ಹಿಂದೆ ನಿಂತವರು",
+    "group_id": "I1"
+  },
+  {
+    "order": 3,
+    "scene_id": "I1-S03",
+    "title": "ಒಂದು ಗ್ರಂಥದ ಹಲವು ಪಾಠಗಳು",
+    "group_id": "I1"
+  },
+  {
+    "order": 4,
+    "scene_id": "I1-S04",
+    "title": "ಅಧ್ಯಾಯಗಳ ಸಂಖ್ಯೆಯ ಗೊಂದಲ ತಪ್ಪಿಸಿಕೊಳ್ಳೋಣ",
+    "group_id": "I1"
+  },
+  {
+    "order": 5,
+    "scene_id": "I1-S05",
+    "title": "ಈ ನಾಲ್ಕು ಪುಸ್ತಕಗಳ ಪ್ರಯಾಣ",
+    "group_id": "I1"
+  },
+  {
+    "order": 6,
+    "scene_id": "FF01-S01",
+    "title": "ಗ್ರಂಥ, ಅನುವಾದ ಮತ್ತು ವ್ಯಾಖ್ಯಾನ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 7,
+    "scene_id": "FF01-S02",
+    "title": "ಪೇಜಾವರ ಸಂದೇಶ: ಪ್ರಮಾಣ ಮತ್ತು ಅರ್ಥಗ್ರಹಣ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 8,
+    "scene_id": "FF01-S03",
+    "title": "ಅದಮಾರು ಸಂದೇಶ: ಭಾರವಾದ ಪದ, ವಿಶಾಲವಾದ ಅರ್ಥ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 9,
+    "scene_id": "FF01-S04",
+    "title": "ಪಲಿಮಾರು ಸಂದೇಶ: ಮಹಾಭಾರತ ಎಂದರೆ ಜಗಳವಷ್ಟೇ ಅಲ್ಲ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 10,
+    "scene_id": "FF01-S05",
+    "title": "ಸೋದೆ ಸಂದೇಶ: ಅರ್ಥವನ್ನು ತಲುಪಿಸುವ ಕೆಲಸ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 11,
+    "scene_id": "FF01-S06",
+    "title": "ಮಹಾಭಾರತದ ಹಿರಿಮೆ: ಭಕ್ತಿಪರ ಪ್ರಮಾಣಗಳು",
+    "group_id": "FF01"
+  },
+  {
+    "order": 12,
+    "scene_id": "FF01-S07",
+    "title": "ಪಾಠಸಂಶೋಧನೆ ಏಕೆ ಅಗತ್ಯ?",
+    "group_id": "FF01"
+  },
+  {
+    "order": 13,
+    "scene_id": "FF01-S08",
+    "title": "ಲಕ್ಷಾಲಂಕಾರ ಮತ್ತು ಸುಂದರ ಅಕ್ಷರಗಳ ಅರ್ಪಣೆ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 14,
+    "scene_id": "FF01-S09",
+    "title": "ತಾಳೆಗರಿಗಳ ಕಾಲ ಮತ್ತು ಸಂಪಾದಕರ ಮಿತಿ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 15,
+    "scene_id": "FF01-S10",
+    "title": "ಮಠಗಳ ಸಂಗ್ರಹ ಮತ್ತು ಪದಾರ್ಥದ ವಿಧಾನ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 16,
+    "scene_id": "FF01-S11",
+    "title": "ಪಾಠಾಂತರದ ಉದಾಹರಣೆ: ಒಂದು ಪದದ ಪರಿಣಾಮ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 17,
+    "scene_id": "FF01-S12",
+    "title": "ಲಕ್ಷಾಲಂಕಾರದ ಅರ್ಥವಿವರಣೆ: ಸಂದರ್ಭವೇ ದಾರಿ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 18,
+    "scene_id": "FF01-S13",
+    "title": "ಈ ಆದಿಪರ್ವದ ಕ್ರಮ ಮತ್ತು ವಿವಾದಗಳು",
+    "group_id": "FF01"
+  },
+  {
+    "order": 19,
+    "scene_id": "FF01-S14",
+    "title": "ಪ್ರಕಾಶಕರ ಮಾತು: ಶ್ರಮ ಮತ್ತು ಸಹಕಾರ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 20,
+    "scene_id": "FF01-S15",
+    "title": "ಮಹಾಭಾರತದ ಮಹತ್ವ: ಸಂಸ್ಕೃತಿ ಮತ್ತು ನೈತಿಕ ಪ್ರಶ್ನೆಗಳು",
+    "group_id": "FF01"
+  },
+  {
+    "order": 21,
+    "scene_id": "FF01-S16",
+    "title": "ಶುದ್ಧಪಾಠವನ್ನು ಹೇಗೆ ನಿರ್ಧರಿಸಬೇಕು?",
+    "group_id": "FF01"
+  },
+  {
+    "order": 22,
+    "scene_id": "FF01-S17",
+    "title": "ಭಂಡಾರ್ಕರ್ ಸಂಸ್ಥೆಯ ಸಾಧನೆ ಮತ್ತು ಭಿನ್ನಾಭಿಪ್ರಾಯ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 23,
+    "scene_id": "FF01-S18",
+    "title": "ಹಿಂದಿನ ಮುದ್ರಣಗಳ ದೀರ್ಘ ಪ್ರಯಾಣ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 24,
+    "scene_id": "FF01-S19",
+    "title": "ಹಸ್ತಪ್ರತಿಗಳ ವಿವರಣೆ ಮತ್ತು ವಿಷಯದ ಹಾಜರಿ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 25,
+    "scene_id": "FF01-S20",
+    "title": "ವ್ಯಾಖ್ಯಾನಗಳೂ ವಿಭಿನ್ನ ಸಾಕ್ಷಿಗಳು",
+    "group_id": "FF01"
+  },
+  {
+    "order": 26,
+    "scene_id": "FF01-S21",
+    "title": "ಔತ್ತರೇಯ ಪಾಠದ ಬಗ್ಗೆ ಲೇಖಕರ ಪ್ರಶ್ನೆಗಳು",
+    "group_id": "FF01"
+  },
+  {
+    "order": 27,
+    "scene_id": "FF01-S22",
+    "title": "ಹೊಸ ಕೊಡುಗೆ ಮತ್ತು ಪರಿಶೀಲನೆಯ ಮಿತಿ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 28,
+    "scene_id": "FF01-S23",
+    "title": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ: ಕಥೆಯ ದಾರಿಸೂಚಿ",
+    "group_id": "FF01"
+  },
+  {
+    "order": 29,
+    "scene_id": "G01-S01",
+    "title": "ಮಂಗಳಾಚರಣೆ ಮತ್ತು ಈ ಆವೃತ್ತಿಯ ಅರ್ಥದಿಕ್ಕು",
+    "group_id": "G01"
+  },
+  {
+    "order": 30,
+    "scene_id": "G01-S02",
+    "title": "ಹನ್ನೆರಡು ವರ್ಷದ ಸತ್ರ",
+    "group_id": "G01"
+  },
+  {
+    "order": 31,
+    "scene_id": "G01-S03",
+    "title": "ಅತಿಥಿಯ ಪ್ರಶ್ನೋತ್ತರ",
+    "group_id": "G01"
+  },
+  {
+    "order": 32,
+    "scene_id": "G01-S04",
+    "title": "ಯುದ್ಧದ ನೆಲದಿಂದ ಬಂದ ಸಾಕ್ಷಿ",
+    "group_id": "G01"
+  },
+  {
+    "order": 33,
+    "scene_id": "G01-S05",
+    "title": "ಸೃಷ್ಟಿಯಿಂದ ಮಾನವಕಥೆಗೆ",
+    "group_id": "G01"
+  },
+  {
+    "order": 34,
+    "scene_id": "G01-S06",
+    "title": "ಸಂಗ್ರಹ ಮತ್ತು ವಿಸ್ತಾರ",
+    "group_id": "G01"
+  },
+  {
+    "order": 35,
+    "scene_id": "G01-S07",
+    "title": "ಎರಡು ವೃಕ್ಷಗಳು ಮತ್ತು ಯುದ್ಧದ ಮುನ್ನೋಟ",
+    "group_id": "G01"
+  },
+  {
+    "order": 36,
+    "scene_id": "G01-S08",
+    "title": "ಕೇಳುವ ಬಾಗಿಲು ತೆರೆದಿದೆ",
+    "group_id": "G01"
+  },
+  {
+    "order": 37,
+    "scene_id": "G02-S01",
+    "title": "ಐದು ಸರೋವರಗಳ ನೆನಪು",
+    "group_id": "G02"
+  },
+  {
+    "order": 38,
+    "scene_id": "G02-S02",
+    "title": "ಪಿತೃಗಳ ವರ",
+    "group_id": "G02"
+  },
+  {
+    "order": 39,
+    "scene_id": "G02-S03",
+    "title": "ಅಕ್ಷೌಹಿಣಿ ಎಂದರೆ ಏನು?",
+    "group_id": "G02"
+  },
+  {
+    "order": 40,
+    "scene_id": "G02-S04",
+    "title": "ಯುದ್ಧದ ಹಂತಗಳು",
+    "group_id": "G02"
+  },
+  {
+    "order": 41,
+    "scene_id": "G02-S05",
+    "title": "ಆರಂಭದಿಂದ ಉದ್ಯೋಗದವರೆಗೆ",
+    "group_id": "G02"
+  },
+  {
+    "order": 42,
+    "scene_id": "G02-S06",
+    "title": "ಯುದ್ಧ ಮತ್ತು ಅದರ ಗಾಯಗಳು",
+    "group_id": "G02"
+  },
+  {
+    "order": 43,
+    "scene_id": "G02-S07",
+    "title": "ಯುದ್ಧದ ನಂತರದ ಐದು ಪರ್ವಗಳು",
+    "group_id": "G02"
+  },
+  {
+    "order": 44,
+    "scene_id": "G02-S08",
+    "title": "ಆದಿಪರ್ವದ ಒಳನಕ್ಷೆ",
+    "group_id": "G02"
+  },
+  {
+    "order": 45,
+    "scene_id": "G03-S01",
+    "title": "ಯಜ್ಞಸ್ಥಳಕ್ಕೆ ಬಂದ ಮರಿ",
+    "group_id": "G03"
+  },
+  {
+    "order": 46,
+    "scene_id": "G03-S02",
+    "title": "ತಾಯಿಯ ಮೊದಲ ವಿಚಾರಣೆ",
+    "group_id": "G03"
+  },
+  {
+    "order": 47,
+    "scene_id": "G03-S03",
+    "title": "ಉತ್ತರಿಸದ ರಾಜಕುಮಾರರು",
+    "group_id": "G03"
+  },
+  {
+    "order": 48,
+    "scene_id": "G03-S04",
+    "title": "ಅನಿರೀಕ್ಷಿತ ಭಯದ ಶಾಪ",
+    "group_id": "G03"
+  },
+  {
+    "order": 49,
+    "scene_id": "G03-S05",
+    "title": "ಆಶ್ರಮದಲ್ಲಿ ಕಂಡ ತಂದೆಮಗ",
+    "group_id": "G03"
+  },
+  {
+    "order": 50,
+    "scene_id": "G03-S06",
+    "title": "ಸೋಮಶ್ರವಸ್ಸಿನ ವ್ರತ",
+    "group_id": "G03"
+  },
+  {
+    "order": 51,
+    "scene_id": "G03-S07",
+    "title": "ಷರತ್ತನ್ನು ಒಪ್ಪಿದ ನೇಮಕ",
+    "group_id": "G03"
+  },
+  {
+    "order": 52,
+    "scene_id": "G03-S08",
+    "title": "ಆಯೋದಧೌಮ್ಯರ ಮೂರು ಶಿಷ್ಯರು",
+    "group_id": "G03"
+  },
+  {
+    "order": 53,
+    "scene_id": "G04-S01",
+    "title": "ದೇಹವೇ ಹೊಲದ ಕಟ್ಟೆ",
+    "group_id": "G04"
+  },
+  {
+    "order": 54,
+    "scene_id": "G04-S02",
+    "title": "ಉಪಮನ್ಯುವಿನ ಹಸಿವು",
+    "group_id": "G04"
+  },
+  {
+    "order": 55,
+    "scene_id": "G04-S03",
+    "title": "ಬಾವಿಯಲ್ಲಿ ಅಶ್ವಿನೀ ಸ್ತುತಿ",
+    "group_id": "G04"
+  },
+  {
+    "order": 56,
+    "scene_id": "G04-S04",
+    "title": "ಕಷ್ಟವನ್ನು ಮುಂದಕ್ಕೆ ಕೊಡದ ಗುರು",
+    "group_id": "G04"
+  },
+  {
+    "order": 57,
+    "scene_id": "G04-S05",
+    "title": "ಉದಂಕನ ನಿರಾಕರಣೆ ಮತ್ತು ದಕ್ಷಿಣೆ",
+    "group_id": "G04"
+  },
+  {
+    "order": 58,
+    "scene_id": "G04-S06",
+    "title": "ಎತ್ತಿನ ಬಳಿಯ ವಿಚಿತ್ರ ಪರೀಕ್ಷೆ",
+    "group_id": "G04"
+  },
+  {
+    "order": 59,
+    "scene_id": "G04-S07",
+    "title": "ರಾಣಿ ಕಾಣದ ಕಾರಣ",
+    "group_id": "G04"
+  },
+  {
+    "order": 60,
+    "scene_id": "G04-S08",
+    "title": "ಆತಿಥ್ಯದಲ್ಲಿ ಹುಟ್ಟಿದ ಶಾಪಗಳು",
+    "group_id": "G04"
+  },
+  {
+    "order": 61,
+    "scene_id": "G04-S09",
+    "title": "ತಕ್ಷಕನ ಕಳವು",
+    "group_id": "G04"
+  },
+  {
+    "order": 62,
+    "scene_id": "G04-S10",
+    "title": "ಕಾಲದ ನೇಯ್ಗೆ",
+    "group_id": "G04"
+  },
+  {
+    "order": 63,
+    "scene_id": "G04-S11",
+    "title": "ಅಗ್ನಿಯ ಅಶ್ವ ಮತ್ತು ಕುಂಡಲಗಳ ಮರಳಿಕೆ",
+    "group_id": "G04"
+  },
+  {
+    "order": 64,
+    "scene_id": "G04-S12",
+    "title": "ರಹಸ್ಯದ ಉತ್ತರ ಮತ್ತು ಹೊಸ ವೈರು",
+    "group_id": "G04"
+  },
+  {
+    "order": 65,
+    "scene_id": "G05-S01",
+    "title": "ಶೌನಕರಿಗಾಗಿ ಕಾಯುವ ಸಭೆ",
+    "group_id": "G05"
+  },
+  {
+    "order": 66,
+    "scene_id": "G05-S02",
+    "title": "ಭೃಗುಮನೆಯ ಅತಿಥಿ",
+    "group_id": "G05"
+  },
+  {
+    "order": 67,
+    "scene_id": "G05-S03",
+    "title": "ಅಗ್ನಿಯ ಉತ್ತರ",
+    "group_id": "G05"
+  },
+  {
+    "order": 68,
+    "scene_id": "G05-S04",
+    "title": "ಚ್ಯವನನ ಪ್ರಾದುರ್ಭಾವ",
+    "group_id": "G05"
+  },
+  {
+    "order": 69,
+    "scene_id": "G05-S05",
+    "title": "ಭೃಗುವಿನ ಕೋಪ",
+    "group_id": "G05"
+  },
+  {
+    "order": 70,
+    "scene_id": "G05-S06",
+    "title": "ಅಗ್ನಿಯ ಮರೆಯಾಗುವಿಕೆ",
+    "group_id": "G05"
+  },
+  {
+    "order": 71,
+    "scene_id": "G05-S07",
+    "title": "ಬ್ರಹ್ಮನ ಪರಿಹಾರ",
+    "group_id": "G05"
+  },
+  {
+    "order": 72,
+    "scene_id": "G05-S08",
+    "title": "ಭೃಗುವಂಶದ ಮುಂದಿನ ಕೊಂಡಿ",
+    "group_id": "G05"
+  },
+  {
+    "order": 73,
+    "scene_id": "G06-S01",
+    "title": "ಆಶ್ರಮದಲ್ಲಿ ಬೆಳೆದ ಪ್ರಮದ್ವರೆ",
+    "group_id": "G06"
+  },
+  {
+    "order": 74,
+    "scene_id": "G06-S02",
+    "title": "ಹುಲ್ಲಿನೊಳಗಿನ ಸರ್ಪ",
+    "group_id": "G06"
+  },
+  {
+    "order": 75,
+    "scene_id": "G06-S03",
+    "title": "ಕಾಡಿನಲ್ಲಿ ರುರುವಿನ ವಿಲಾಪ",
+    "group_id": "G06"
+  },
+  {
+    "order": 76,
+    "scene_id": "G06-S04",
+    "title": "ಅರ್ಧಾಯುಷ್ಯದ ದಾನ",
+    "group_id": "G06"
+  },
+  {
+    "order": 77,
+    "scene_id": "G06-S05",
+    "title": "ದೋಷದ ಗಡಿಯನ್ನು ಮೀರುವ ಕೋಪ",
+    "group_id": "G06"
+  },
+  {
+    "order": 78,
+    "scene_id": "G06-S06",
+    "title": "ಹುಲ್ಲಿನ ಸರ್ಪದ ಹಳೆಯ ಆಟ",
+    "group_id": "G06"
+  },
+  {
+    "order": 79,
+    "scene_id": "G06-S07",
+    "title": "ಶಾಪಮೋಚನೆ ಮತ್ತು ಉಪದೇಶ",
+    "group_id": "G06"
+  },
+  {
+    "order": 80,
+    "scene_id": "G06-S08",
+    "title": "ಆಸ್ತೀಕನ ಹೆಸರಿನತ್ತ",
+    "group_id": "G06"
+  },
+  {
+    "order": 81,
+    "scene_id": "G07-S01",
+    "title": "ತೂಗುತ್ತಿರುವ ಪೂರ್ವಜರು",
+    "group_id": "G07"
+  },
+  {
+    "order": 82,
+    "scene_id": "G07-S02",
+    "title": "ಎರಡು ವರಗಳು",
+    "group_id": "G07"
+  },
+  {
+    "order": 83,
+    "scene_id": "G07-S03",
+    "title": "ಅರುಣನ ಅಪೂರ್ಣ ಜನನ",
+    "group_id": "G07"
+  },
+  {
+    "order": 84,
+    "scene_id": "G07-S04",
+    "title": "ಬಿಳಿ ಕುದುರೆಯ ಬಾಲ",
+    "group_id": "G07"
+  },
+  {
+    "order": 85,
+    "scene_id": "G07-S05",
+    "title": "ಅಮೃತದ ಸಲುವಿನ ಒಪ್ಪಂದ",
+    "group_id": "G07"
+  },
+  {
+    "order": 86,
+    "scene_id": "G07-S06",
+    "title": "ಮಂದರ, ವಾಸುಕಿ ಮತ್ತು ಕೂರ್ಮಾಧಾರ",
+    "group_id": "G07"
+  },
+  {
+    "order": 87,
+    "scene_id": "G07-S07",
+    "title": "ಹಾಲಾಹಲ ಮತ್ತು ನೀಲಕಂಠ",
+    "group_id": "G07"
+  },
+  {
+    "order": 88,
+    "scene_id": "G07-S08",
+    "title": "ಈ ಆವೃತ್ತಿಯ ವ್ಯಾಖ್ಯಾನ ವಿರಾಮ",
+    "group_id": "G07"
+  },
+  {
+    "order": 89,
+    "scene_id": "G07-S09",
+    "title": "ಮಥನದ ಬೆಲೆ ಮತ್ತು ಉದ್ಭವಗಳು",
+    "group_id": "G07"
+  },
+  {
+    "order": 90,
+    "scene_id": "G07-S10",
+    "title": "ಮೋಹಿನಿಯ ಕೈಯಲ್ಲಿನ ಅಮೃತ",
+    "group_id": "G07"
+  },
+  {
+    "order": 91,
+    "scene_id": "G07-S11",
+    "title": "ರಾಹು ಮತ್ತು ದೇವಾಸುರ ಸಮರ",
+    "group_id": "G07"
+  },
+  {
+    "order": 92,
+    "scene_id": "G07-S12",
+    "title": "ಕದ್ರುವಿನ ಶಾಪ",
+    "group_id": "G07"
+  },
+  {
+    "order": 93,
+    "scene_id": "G08-S01",
+    "title": "ಸಮುದ್ರದಾಚೆಯ ಪಣ",
+    "group_id": "G08"
+  },
+  {
+    "order": 94,
+    "scene_id": "G08-S02",
+    "title": "ಗರುಡನ ಪ್ರಕಾಶ",
+    "group_id": "G08"
+  },
+  {
+    "order": 95,
+    "scene_id": "G08-S03",
+    "title": "ದಾಸ್ಯದ ಪ್ರಯಾಣ ಮತ್ತು ಮಳೆ",
+    "group_id": "G08"
+  },
+  {
+    "order": 96,
+    "scene_id": "G08-S04",
+    "title": "ಬಿಡುಗಡೆಯ ಬೆಲೆ",
+    "group_id": "G08"
+  },
+  {
+    "order": 97,
+    "scene_id": "G08-S05",
+    "title": "ಹಸಿವಿನ ಕಠಿಣ ಘಟನೆ",
+    "group_id": "G08"
+  },
+  {
+    "order": 98,
+    "scene_id": "G08-S06",
+    "title": "ಸಹೋದರರ ಆಸ್ತಿ ಕಲಹ",
+    "group_id": "G08"
+  },
+  {
+    "order": 99,
+    "scene_id": "G08-S07",
+    "title": "ಆನೆ, ಆಮೆ ಮತ್ತು ಮುರಿಯುವ ಕೊಂಬೆ",
+    "group_id": "G08"
+  },
+  {
+    "order": 100,
+    "scene_id": "G08-S08",
+    "title": "ಋಷಿಗಳ ಸುರಕ್ಷಿತ ಇಳಿಕೆ",
+    "group_id": "G08"
+  },
+  {
+    "order": 101,
+    "scene_id": "G08-S09",
+    "title": "ಹಿಮಾಲಯದ ಆಹಾರ ಮತ್ತು ದೇವತೆಗಳ ಆತಂಕ",
+    "group_id": "G08"
+  },
+  {
+    "order": 102,
+    "scene_id": "G09-S01",
+    "title": "ಸಣ್ಣ ಋಷಿಗಳನ್ನು ನಗಿದ ಇಂದ್ರ",
+    "group_id": "G09"
+  },
+  {
+    "order": 103,
+    "scene_id": "G09-S02",
+    "title": "ಪಕ್ಷಿರಾಜನ ಜನ್ಮಕ್ಕೆ ತಪಸ್ಸಿನ ಫಲ",
+    "group_id": "G09"
+  },
+  {
+    "order": 104,
+    "scene_id": "G09-S03",
+    "title": "ಅಮೃತರಕ್ಷಕರ ಎದುರು",
+    "group_id": "G09"
+  },
+  {
+    "order": 105,
+    "scene_id": "G09-S04",
+    "title": "ಅಗ್ನಿವಲಯ ಮತ್ತು ತಿರುಗುವ ಚಕ್ರ",
+    "group_id": "G09"
+  },
+  {
+    "order": 106,
+    "scene_id": "G09-S05",
+    "title": "ಕುಡಿಯದ ಅಮೃತ ಮತ್ತು ವಿಷ್ಣುವಿನ ವರ",
+    "group_id": "G09"
+  },
+  {
+    "order": 107,
+    "scene_id": "G09-S06",
+    "title": "ವಜ್ರಕ್ಕೆ ಗೌರವ, ಇಂದ್ರನಿಗೆ ಸ್ನೇಹ",
+    "group_id": "G09"
+  },
+  {
+    "order": 108,
+    "scene_id": "G09-S07",
+    "title": "ವಿನತೆಯ ವಿಮೋಚನೆ",
+    "group_id": "G09"
+  },
+  {
+    "order": 109,
+    "scene_id": "G09-S08",
+    "title": "ನಾಗವಂಶದೊಳಗಿನ ವ್ಯತ್ಯಾಸ",
+    "group_id": "G09"
+  },
+  {
+    "order": 110,
+    "scene_id": "G09-S09",
+    "title": "ಶೇಷನ ಭೂಧಾರಣೆ",
+    "group_id": "G09"
+  },
+  {
+    "order": 111,
+    "scene_id": "G09-S10",
+    "title": "ವಾಸುಕಿಯ ಮಂತ್ರಸಭೆ",
+    "group_id": "G09"
+  },
+  {
+    "order": 112,
+    "scene_id": "G09-S11",
+    "title": "ಏಲಾಪತ್ರನ ಆಶಾವಚನ",
+    "group_id": "G09"
+  },
+  {
+    "order": 113,
+    "scene_id": "G10-S01",
+    "title": "ಮೌನವನ್ನು ಅವಮಾನವೆಂದು ತಿಳಿದ ರಾಜ",
+    "group_id": "G10"
+  },
+  {
+    "order": 114,
+    "scene_id": "G10-S02",
+    "title": "ಶೃಂಗಿಯ ಏಳು ದಿನದ ಶಾಪ",
+    "group_id": "G10"
+  },
+  {
+    "order": 115,
+    "scene_id": "G10-S03",
+    "title": "ಶಮೀಕರ ನಿರಾಕರಣೆ",
+    "group_id": "G10"
+  },
+  {
+    "order": 116,
+    "scene_id": "G10-S04",
+    "title": "ಗೌರಮುಖನ ಎಚ್ಚರಿಕೆ",
+    "group_id": "G10"
+  },
+  {
+    "order": 117,
+    "scene_id": "G10-S05",
+    "title": "ಏಕಸ್ತಂಭದ ರಕ್ಷಣಾಗೃಹ",
+    "group_id": "G10"
+  },
+  {
+    "order": 118,
+    "scene_id": "G10-S06",
+    "title": "ತಕ್ಷಕ–ಕಾಶ್ಯಪರ ಪರೀಕ್ಷೆ",
+    "group_id": "G10"
+  },
+  {
+    "order": 119,
+    "scene_id": "G10-S07",
+    "title": "ಹಣ್ಣಿನೊಳಗಿನ ಪ್ರವೇಶ",
+    "group_id": "G10"
+  },
+  {
+    "order": 120,
+    "scene_id": "G10-S08",
+    "title": "ಪರೀಕ್ಷಿತನ ಅಂತ್ಯ, ಮಗನ ರಾಜ್ಯ",
+    "group_id": "G10"
+  },
+  {
+    "order": 121,
+    "scene_id": "G10-S09",
+    "title": "ಪೂರ್ವಜರ ಬೇಡಿಕೆಗೆ ಮರಳಿಕೆ",
+    "group_id": "G10"
+  },
+  {
+    "order": 122,
+    "scene_id": "G10-S10",
+    "title": "ಹೆಸರಿನ ಷರತ್ತು ಮತ್ತು ವಿವಾಹ",
+    "group_id": "G10"
+  },
+  {
+    "order": 123,
+    "scene_id": "G10-S11",
+    "title": "ಸಂಧ್ಯೆಯ ದ್ವಂದ್ವ",
+    "group_id": "G10"
+  },
+  {
+    "order": 124,
+    "scene_id": "G10-S12",
+    "title": "ಅಸ್ತಿ—ಗರ್ಭದಲ್ಲಿರುವ ಭರವಸೆ",
+    "group_id": "G10"
+  },
+  {
+    "order": 125,
+    "scene_id": "G11-S01",
+    "title": "ಆಸ್ತೀಕನ ಜನನ ಮತ್ತು ವಿದ್ಯೆ",
+    "group_id": "G11"
+  },
+  {
+    "order": 126,
+    "scene_id": "G11-S02",
+    "title": "ತಂದೆಯ ಮರಣದ ವಿಚಾರಣೆ",
+    "group_id": "G11"
+  },
+  {
+    "order": 127,
+    "scene_id": "G11-S03",
+    "title": "ಮರದ ಮೇಲಿದ್ದ ಸಾಕ್ಷಿ",
+    "group_id": "G11"
+  },
+  {
+    "order": 128,
+    "scene_id": "G11-S04",
+    "title": "ಪ್ರತೀಕಾರದ ಸಂಕಲ್ಪ",
+    "group_id": "G11"
+  },
+  {
+    "order": 129,
+    "scene_id": "G11-S05",
+    "title": "ಯಜ್ಞಸ್ಥಳದ ಎಚ್ಚರಿಕೆ",
+    "group_id": "G11"
+  },
+  {
+    "order": 130,
+    "scene_id": "G11-S06",
+    "title": "ಅಗ್ನಿಗೆ ಎಳೆಯಲ್ಪಡುವ ನಾಗಗಳು",
+    "group_id": "G11"
+  },
+  {
+    "order": 131,
+    "scene_id": "G11-S07",
+    "title": "ವಾಸುಕಿಯ ಕೊನೆಯ ಆಶೆ",
+    "group_id": "G11"
+  },
+  {
+    "order": 132,
+    "scene_id": "G11-S08",
+    "title": "ದ್ವಾರದಿಂದ ಸಭೆಯವರೆಗೆ",
+    "group_id": "G11"
+  },
+  {
+    "order": 133,
+    "scene_id": "G11-S09",
+    "title": "ವರದ ವಾಗ್ದಾನ",
+    "group_id": "G11"
+  },
+  {
+    "order": 134,
+    "scene_id": "G11-S10",
+    "title": "ಇಂದ್ರನಿಂದ ಬಿಡಲ್ಪಟ್ಟ ತಕ್ಷಕ",
+    "group_id": "G11"
+  },
+  {
+    "order": 135,
+    "scene_id": "G11-S11",
+    "title": "ನಿಲ್ಲು, ನಿಲ್ಲು, ನಿಲ್ಲು",
+    "group_id": "G11"
+  },
+  {
+    "order": 136,
+    "scene_id": "G11-S12",
+    "title": "ನಾಶವಾದ ವಂಶಗಳ ನೆನಪು",
+    "group_id": "G11"
+  },
+  {
+    "order": 137,
+    "scene_id": "G11-S13",
+    "title": "ಮರಳಿಕೆ ಮತ್ತು ಸ್ಮರಣೆಯ ವರ",
+    "group_id": "G11"
+  },
+  {
+    "order": 138,
+    "scene_id": "G12-S01",
+    "title": "ವ್ಯಾಸರಿಂದ ವೈಶಂಪಾಯನರಿಗೆ",
+    "group_id": "G12"
+  },
+  {
+    "order": 139,
+    "scene_id": "G12-S02",
+    "title": "ಸಂಕ್ಷಿಪ್ತ ಭಾರತಕಥೆಯ ಪಾತ್ರ",
+    "group_id": "G12"
+  },
+  {
+    "order": 140,
+    "scene_id": "G12-S03",
+    "title": "ಭಾರತಶ್ರವಣದ ಫಲ ಮತ್ತು ಅಧ್ಯಯನ",
+    "group_id": "G12"
+  },
+  {
+    "order": 141,
+    "scene_id": "G12-S04",
+    "title": "ಮನುವಿನಿಂದ ಯಯಾತಿಗೆ",
+    "group_id": "G12"
+  },
+  {
+    "order": 142,
+    "scene_id": "G12-S05",
+    "title": "ಪೌರವರಿಂದ ಕುರುಗಳಿಗೆ",
+    "group_id": "G12"
+  },
+  {
+    "order": 143,
+    "scene_id": "G12-S06",
+    "title": "ಉಪರಿಚರ ವಸು ಮತ್ತು ಇಂದ್ರ",
+    "group_id": "G12"
+  },
+  {
+    "order": 144,
+    "scene_id": "G12-S07",
+    "title": "ಇಂದ್ರಧ್ವಜದ ಉತ್ಸವ",
+    "group_id": "G12"
+  },
+  {
+    "order": 145,
+    "scene_id": "G12-S08",
+    "title": "ಶುಕ್ತಿಮತೀ, ಕೋಲಾಹಲ ಮತ್ತು ಗಿರಿಕಾ",
+    "group_id": "G12"
+  },
+  {
+    "order": 146,
+    "scene_id": "G12-S09",
+    "title": "ಹಕ್ಕಿಯ ಮೂಲಕ ಹೋದ ಸಂದೇಶ",
+    "group_id": "G12"
+  },
+  {
+    "order": 147,
+    "scene_id": "G12-S10",
+    "title": "ಅದ್ರಿಕೆಯ ಶಾಪಮುಕ್ತಿ",
+    "group_id": "G12"
+  },
+  {
+    "order": 148,
+    "scene_id": "G12-S11",
+    "title": "ದೋಣಿಯಲ್ಲಿನ ಭೇಟಿ",
+    "group_id": "G12"
+  },
+  {
+    "order": 149,
+    "scene_id": "G12-S12",
+    "title": "ಸತ್ಯವತಿಯ ಪೂರ್ವಜನ್ಮದ ವಿವರಣೆ",
+    "group_id": "G12"
+  },
+  {
+    "order": 150,
+    "scene_id": "G12-S13",
+    "title": "ಮಂಜು, ಗೌರವ ಮತ್ತು ವರ",
+    "group_id": "G12"
+  },
+  {
+    "order": 151,
+    "scene_id": "G12-S14",
+    "title": "ಈ ಪಾಠದ ವಿವಾಹವಿವರಣೆ",
+    "group_id": "G12"
+  },
+  {
+    "order": 152,
+    "scene_id": "G12-S15",
+    "title": "ಅಗ್ನಿಸಾಕ್ಷಿಯ ವಿವಾಹ",
+    "group_id": "G12"
+  },
+  {
+    "order": 153,
+    "scene_id": "G12-S16",
+    "title": "ಯಮುನಾದ್ವೀಪದಲ್ಲಿ ವ್ಯಾಸರು",
+    "group_id": "G12"
+  },
+  {
+    "order": 154,
+    "scene_id": "G12-S17",
+    "title": "ತಾಯಿಯ ಗೌರವದ ಪಾಠ",
+    "group_id": "G12"
+  },
+  {
+    "order": 155,
+    "scene_id": "G12-S18",
+    "title": "ಸ್ಮರಿಸಿದಾಗ ಬರುವ ಮಗ",
+    "group_id": "G12"
+  },
+  {
+    "order": 156,
+    "scene_id": "G12-S19",
+    "title": "ಮುಂದಿನ ತಲೆಮಾರಿನ ಸಂಕ್ಷಿಪ್ತ ಪರಿಚಯ",
+    "group_id": "G12"
+  },
+  {
+    "order": 157,
+    "scene_id": "G12-S20",
+    "title": "ಭೂಮಿಯ ಸಂಕಟ ಮತ್ತು ನಾರಾಯಣನ ಆಶ್ರಯ",
+    "group_id": "G12"
+  },
+  {
+    "order": 158,
+    "scene_id": "G12-S21",
+    "title": "ದಕ್ಷಕನ್ಯೆಯರ ವಂಶಜಾಲ",
+    "group_id": "G12"
+  },
+  {
+    "order": 159,
+    "scene_id": "G12-S22",
+    "title": "ರುದ್ರರು, ವಸುಗಳು ಮತ್ತು ಋಷಿಪರಂಪರೆ",
+    "group_id": "G12"
+  },
+  {
+    "order": 160,
+    "scene_id": "G12-S23",
+    "title": "ಅಂಶಾವತರಣದ ಅರ್ಥ",
+    "group_id": "G12"
+  },
+  {
+    "order": 161,
+    "scene_id": "G12-S24",
+    "title": "ಪ್ರಮುಖ ಪಾತ್ರಗಳ ದೇವಸಂಬಂಧ",
+    "group_id": "G12"
+  },
+  {
+    "order": 162,
+    "scene_id": "G12-S25",
+    "title": "ಪೂರುವಂಶಕ್ಕೆ ಸಿಂಹಾವಲೋಕನ",
+    "group_id": "G12"
+  },
+  {
+    "order": 163,
+    "scene_id": "I2-S01",
+    "title": "ಹಿಂದಿನ ಕಥೆಯನ್ನು ಎಲ್ಲಿ ಬಿಟ್ಟಿದ್ದೇವೆ?",
+    "group_id": "I2"
+  },
+  {
+    "order": 164,
+    "scene_id": "I2-S02",
+    "title": "ಆಸೆ, ವಾಗ್ದಾನ ಮತ್ತು ವಾರಸುದಾರರು",
+    "group_id": "I2"
+  },
+  {
+    "order": 165,
+    "scene_id": "I2-S03",
+    "title": "ಒಂದು ಮನೆಯೊಳಗೆ ಮೂಡುವ ಮಹಾಕಥೆ",
+    "group_id": "I2"
+  },
+  {
+    "order": 166,
+    "scene_id": "FF02-S01",
+    "title": "ಎರಡನೆಯ ಸಂಪುಟದ ಪ್ರಕಟಣೆಯ ಪರಿಚಯ",
+    "group_id": "FF02"
+  },
+  {
+    "order": 167,
+    "scene_id": "FF02-S02",
+    "title": "ಎರಡನೆಯ ಸಂಪುಟದ ಕಥಾಕ್ರಮ",
+    "group_id": "FF02"
+  },
+  {
+    "order": 168,
+    "scene_id": "G13-S01",
+    "title": "ಕುರುವಂಶದ ಪ್ರಶ್ನೆ",
+    "group_id": "G13"
+  },
+  {
+    "order": 169,
+    "scene_id": "C64-S01",
+    "title": "ಪ್ರಚೇತಸರ ಮೂಲಕ ದಕ್ಷನ ವಂಶ",
+    "group_id": "C64"
+  },
+  {
+    "order": 170,
+    "scene_id": "C64-S02",
+    "title": "ವಿವಸ್ವಂತ, ಮನು ಮತ್ತು ಇಳೆಯ ಶಾಖೆ",
+    "group_id": "C64"
+  },
+  {
+    "order": 171,
+    "scene_id": "C64-S03",
+    "title": "ಪುರೂರವನಿಂದ ಆಯು ಮತ್ತು ನಹುಷನವರೆಗೆ",
+    "group_id": "C64"
+  },
+  {
+    "order": 172,
+    "scene_id": "C64-S04",
+    "title": "ಯಯಾತಿಯ ಐದು ಶಾಖೆಗಳ ಮೊದಲ ಮುನ್ನೋಟ",
+    "group_id": "C64"
+  },
+  {
+    "order": 173,
+    "scene_id": "G13-S02",
+    "title": "ಗುರುವಿನ ಮನೆಗೆ ಬಂದ ಕಚ",
+    "group_id": "G13"
+  },
+  {
+    "order": 174,
+    "scene_id": "G13-S03",
+    "title": "ಮರಳಿ ಬಂದ ಗೋವುಗಳು",
+    "group_id": "G13"
+  },
+  {
+    "order": 175,
+    "scene_id": "G13-S04",
+    "title": "ಎರಡನೇ ಹಿಂಸೆಯೂ ವಿಫಲ",
+    "group_id": "G13"
+  },
+  {
+    "order": 176,
+    "scene_id": "G13-S05",
+    "title": "ಹೊಟ್ಟೆಯೊಳಗಿನ ಉತ್ತರ",
+    "group_id": "G13"
+  },
+  {
+    "order": 177,
+    "scene_id": "G13-S06",
+    "title": "ಶಿಷ್ಯನು ಗುರುವನ್ನು ಬದುಕಿಸಿದನು",
+    "group_id": "G13"
+  },
+  {
+    "order": 178,
+    "scene_id": "G13-S07",
+    "title": "ದೇವಯಾನಿಯ ಮನವಿ",
+    "group_id": "G13"
+  },
+  {
+    "order": 179,
+    "scene_id": "G13-S08",
+    "title": "ವಿದ್ಯೆಯ ಜಯ, ಸಂಬಂಧದ ಗಾಯ",
+    "group_id": "G13"
+  },
+  {
+    "order": 180,
+    "scene_id": "G14-S01",
+    "title": "ವಸ್ತ್ರದಿಂದ ಆರಂಭವಾದ ಕಲಹ",
+    "group_id": "G14"
+  },
+  {
+    "order": 181,
+    "scene_id": "G14-S02",
+    "title": "ಬಾವಿಯೊಳಗಿನ ಕೈ",
+    "group_id": "G14"
+  },
+  {
+    "order": 182,
+    "scene_id": "G14-S03",
+    "title": "ತಂದೆಗೆ ಹೇಳಿದ ನೋವು",
+    "group_id": "G14"
+  },
+  {
+    "order": 183,
+    "scene_id": "G14-S04",
+    "title": "ಶರ್ಮಿಷ್ಠೆಯ ಒಪ್ಪಿಗೆ",
+    "group_id": "G14"
+  },
+  {
+    "order": 184,
+    "scene_id": "G14-S05",
+    "title": "ವಿವಾಹದೊಂದಿಗೆ ಬಂದ ಷರತ್ತು",
+    "group_id": "G14"
+  },
+  {
+    "order": 185,
+    "scene_id": "G14-S06",
+    "title": "ಗುಪ್ತವಾಗಿ ಬೆಳೆದ ಕುಟುಂಬ",
+    "group_id": "G14"
+  },
+  {
+    "order": 186,
+    "scene_id": "G14-S07",
+    "title": "ಮಕ್ಕಳು ತಿಳಿಸಿದ ಸತ್ಯ",
+    "group_id": "G14"
+  },
+  {
+    "order": 187,
+    "scene_id": "G14-S08",
+    "title": "ಶಾಪದ ಭಾಗಶಃ ಪರಿಹಾರ",
+    "group_id": "G14"
+  },
+  {
+    "order": 188,
+    "scene_id": "G15-S01",
+    "title": "ಪೂರು ನೀಡಿದ ಉತ್ತರ",
+    "group_id": "G15"
+  },
+  {
+    "order": 189,
+    "scene_id": "G15-S02",
+    "title": "ಭೋಗವು ಆಸೆಯನ್ನು ತುಂಬಲಿಲ್ಲ",
+    "group_id": "G15"
+  },
+  {
+    "order": 190,
+    "scene_id": "G15-S03",
+    "title": "ಯೌವನದ ಮರುಪಾವತಿ",
+    "group_id": "G15"
+  },
+  {
+    "order": 191,
+    "scene_id": "G15-S04",
+    "title": "ಕಾಡಿನಿಂದ ಸ್ವರ್ಗಕ್ಕೆ",
+    "group_id": "G15"
+  },
+  {
+    "order": 192,
+    "scene_id": "V2202-S01",
+    "title": "ರಾಜ್ಯದ ಗಡಿ ಮತ್ತು ಅಸೂಯೆಯ ಅಪಾಯ",
+    "group_id": "V2202"
+  },
+  {
+    "order": 193,
+    "scene_id": "V2202-S02",
+    "title": "ಕೋಪಕ್ಕೆ ಕೋಪವೇ ಉತ್ತರವಾಗಬಾರದು",
+    "group_id": "V2202"
+  },
+  {
+    "order": 194,
+    "scene_id": "V2202-S03",
+    "title": "ಮಾತಿನ ಬಾಣ ಮತ್ತು ನಾಲ್ಕು ಸಂಬಂಧದ ಗುಣಗಳು",
+    "group_id": "V2202"
+  },
+  {
+    "order": 195,
+    "scene_id": "G15-S05",
+    "title": "ಅಹಂಕಾರದ ಒಂದು ಉತ್ತರ",
+    "group_id": "G15"
+  },
+  {
+    "order": 196,
+    "scene_id": "V2203-S01",
+    "title": "ಅಷ್ಟಕನ ಅಭಯದ ಮಾತು",
+    "group_id": "V2203"
+  },
+  {
+    "order": 197,
+    "scene_id": "G15-S06",
+    "title": "ಅಷ್ಟಕನ ಪ್ರಶ್ನೆಗಳು",
+    "group_id": "G15"
+  },
+  {
+    "order": 198,
+    "scene_id": "V2204-S01",
+    "title": "ವಯಸ್ಸಿಗಿಂತ ವಿದ್ಯೆಯ ಗೌರವ",
+    "group_id": "V2204"
+  },
+  {
+    "order": 199,
+    "scene_id": "V2204-S02",
+    "title": "ಸುಖದುಃಖಗಳ ಅನಿತ್ಯತೆ",
+    "group_id": "V2204"
+  },
+  {
+    "order": 200,
+    "scene_id": "V2204-S03",
+    "title": "ಲೋಕಗಳಿಂದ ನಂದನವನದವರೆಗೆ",
+    "group_id": "V2204"
+  },
+  {
+    "order": 201,
+    "scene_id": "V2205-S01",
+    "title": "ಪುಣ್ಯ ಕ್ಷೀಣಿಸಿದಾಗ ಬರುವ ಗತಿ",
+    "group_id": "V2205"
+  },
+  {
+    "order": 202,
+    "scene_id": "V2205-S02",
+    "title": "ಗರ್ಭಪ್ರಾಪ್ತಿಯ ಕುರಿತು ಅಷ್ಟಕನ ಪ್ರಶ್ನೆ",
+    "group_id": "V2205"
+  },
+  {
+    "order": 203,
+    "scene_id": "V2205-S03",
+    "title": "ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಮತ್ತೊಂದು ದೇಹ",
+    "group_id": "V2205"
+  },
+  {
+    "order": 204,
+    "scene_id": "V2205-S04",
+    "title": "ಏಳು ದ್ವಾರಗಳನ್ನು ಮುಚ್ಚುವ ಅಹಂಕಾರ",
+    "group_id": "V2205"
+  },
+  {
+    "order": 205,
+    "scene_id": "G15-S07",
+    "title": "ಆಶ್ರಮಧರ್ಮ ಮತ್ತು ದಾನದ ಪರೀಕ್ಷೆ",
+    "group_id": "G15"
+  },
+  {
+    "order": 206,
+    "scene_id": "V2206-S01",
+    "title": "ಶಿಷ್ಯ ಮತ್ತು ಗೃಹಸ್ಥ",
+    "group_id": "V2206"
+  },
+  {
+    "order": 207,
+    "scene_id": "V2206-S02",
+    "title": "ಅರಣ್ಯವಾಸ ಮತ್ತು ಅನಿಕೇತನ ಬದುಕು",
+    "group_id": "V2206"
+  },
+  {
+    "order": 208,
+    "scene_id": "V2206-S03",
+    "title": "ಮೌನದ ಅರ್ಥ ಮತ್ತು ಸಾಮಾನ್ಯ ಧರ್ಮ",
+    "group_id": "V2206"
+  },
+  {
+    "order": 209,
+    "scene_id": "V2207-S01",
+    "title": "ಹೊರಗಿನ ಸ್ಥಿತಿಗಿಂತ ಒಳಗಿನ ಧರ್ಮ",
+    "group_id": "V2207"
+  },
+  {
+    "order": 210,
+    "scene_id": "V2207-S02",
+    "title": "ಅಷ್ಟಕನ ಅಳೆಯಲಾಗದ ಲೋಕಗಳು",
+    "group_id": "V2207"
+  },
+  {
+    "order": 211,
+    "scene_id": "V2207-S03",
+    "title": "ಪ್ರತರ್ದನನ ಕೊಡುಗೆ ಮತ್ತು ಧರ್ಮದ ಆದ್ಯತೆ",
+    "group_id": "V2207"
+  },
+  {
+    "order": 212,
+    "scene_id": "V2208-S01",
+    "title": "ಹುಲ್ಲುಕಡ್ಡಿಯಿಂದ ಖರೀದಿಸು ಎಂಬ ಪ್ರಸ್ತಾವ",
+    "group_id": "V2208"
+  },
+  {
+    "order": 213,
+    "scene_id": "V2208-S02",
+    "title": "ಶಿಬಿಯ ಪ್ರಸ್ತಾವ ಮತ್ತು ಎಲ್ಲರ ಒಕ್ಕೂಟ",
+    "group_id": "V2208"
+  },
+  {
+    "order": 214,
+    "scene_id": "V2208-S03",
+    "title": "ಅಶ್ವಮೇಧದ ಸಮಾಪ್ತಿ ಮತ್ತು ಮಾಧವಿಯ ಆಗಮನ",
+    "group_id": "V2208"
+  },
+  {
+    "order": 215,
+    "scene_id": "V2208-S04",
+    "title": "ಮಗಳು ನೀಡಿದ ಧರ್ಮದ ಕಾರಣ",
+    "group_id": "V2208"
+  },
+  {
+    "order": 216,
+    "scene_id": "V2208-S05",
+    "title": "ಶ್ರಾದ್ಧದ ಪವಿತ್ರತೆ ಕುರಿತು ಮಧ್ಯವಿವರಣೆ",
+    "group_id": "V2208"
+  },
+  {
+    "order": 217,
+    "scene_id": "G15-S08",
+    "title": "ಒಟ್ಟಾಗಿ ಮರಳಿದ ದಾರಿ",
+    "group_id": "G15"
+  },
+  {
+    "order": 218,
+    "scene_id": "V2209-S01",
+    "title": "ಶಿಬಿಯ ರಥವು ಮುಂದೆ ಹೋದ ಕಾರಣ",
+    "group_id": "V2209"
+  },
+  {
+    "order": 219,
+    "scene_id": "V2209-S02",
+    "title": "ಸತ್ಯದ ಸ್ಮರಣೆ ಮತ್ತು ಆಖ್ಯಾನದ ಫಲವಚನ",
+    "group_id": "V2209"
+  },
+  {
+    "order": 220,
+    "scene_id": "G16-S01",
+    "title": "ಪೂರುವಿನಿಂದ ದುಷ್ಯಂತನವರೆಗೆ",
+    "group_id": "G16"
+  },
+  {
+    "order": 221,
+    "scene_id": "C83-S01",
+    "title": "ಪೂರುವಿನ ಮಕ್ಕಳು ಮತ್ತು ನಮಸ್ಕುವಿನ ಶಾಖೆ",
+    "group_id": "C83"
+  },
+  {
+    "order": 222,
+    "scene_id": "C83-S02",
+    "title": "ಯವೀಯಾನ್ ಮತ್ತು ರುದ್ರಾಶ್ವನ ಹತ್ತು ಪುತ್ರರು",
+    "group_id": "C83"
+  },
+  {
+    "order": 223,
+    "scene_id": "C83-S03",
+    "title": "ಅಂತಿನಾರ, ತ್ರಸ್ನು ಮತ್ತು ಇಲಿಲನ ಶಾಖೆ",
+    "group_id": "C83"
+  },
+  {
+    "order": 224,
+    "scene_id": "C83-S04",
+    "title": "ಎರಡು ತಾಯಂದಿರು, ಎರಡು ಶಾಖೆಗಳು; ಹಳೆಯ ಜನಮೇಜಯ",
+    "group_id": "C83"
+  },
+  {
+    "order": 225,
+    "scene_id": "G16-S02",
+    "title": "ಬೇಟೆಯ ಸದ್ದು",
+    "group_id": "G16"
+  },
+  {
+    "order": 226,
+    "scene_id": "G16-S03",
+    "title": "ಕಣ್ವರ ಆಶ್ರಮದ ಅಂಚು",
+    "group_id": "G16"
+  },
+  {
+    "order": 227,
+    "scene_id": "G16-S04",
+    "title": "ಅತಿಥಿಯನ್ನು ಸ್ವಾಗತಿಸಿದ ಶಕುಂತಲೆ",
+    "group_id": "G16"
+  },
+  {
+    "order": 228,
+    "scene_id": "G16-S05",
+    "title": "ಮೇನಕೆ, ವಿಶ್ವಾಮಿತ್ರ ಮತ್ತು ಪಕ್ಷಿಗಳು",
+    "group_id": "G16"
+  },
+  {
+    "order": 229,
+    "scene_id": "G16-S06",
+    "title": "ಸಮ್ಮತಿಯೊಳಗಿನ ಷರತ್ತು",
+    "group_id": "G16"
+  },
+  {
+    "order": 230,
+    "scene_id": "G16-S07",
+    "title": "ಕಣ್ವರ ಅನುಮೋದನೆ",
+    "group_id": "G16"
+  },
+  {
+    "order": 231,
+    "scene_id": "G16-S08",
+    "title": "ದೀರ್ಘ ಕಾಯುವಿಕೆ ಮತ್ತು ಸರ್ವದಮನ",
+    "group_id": "G16"
+  },
+  {
+    "order": 232,
+    "scene_id": "G16-S09",
+    "title": "ತಾಯಿ ಮಗನ ಹೊರಟ ದಾರಿ",
+    "group_id": "G16"
+  },
+  {
+    "order": 233,
+    "scene_id": "G17-S01",
+    "title": "ಸಭೆಯ ನಿರಾಕರಣೆ",
+    "group_id": "G17"
+  },
+  {
+    "order": 234,
+    "scene_id": "G17-S02",
+    "title": "ಪತ್ನಿ, ಪುತ್ರ ಮತ್ತು ಸಾಕ್ಷಿ",
+    "group_id": "G17"
+  },
+  {
+    "order": 235,
+    "scene_id": "G17-S03",
+    "title": "ಸತ್ಯವನ್ನು ಬಿಟ್ಟು ಹೊರಡುವುದಿಲ್ಲ",
+    "group_id": "G17"
+  },
+  {
+    "order": 236,
+    "scene_id": "G17-S04",
+    "title": "ಅಶರೀರವಾಣಿಯ ದೃಢೀಕರಣ",
+    "group_id": "G17"
+  },
+  {
+    "order": 237,
+    "scene_id": "G17-S05",
+    "title": "ಭರತನ ರಾಜ್ಯ ಮತ್ತು ವಂಶದ ಸವಾಲು",
+    "group_id": "G17"
+  },
+  {
+    "order": 238,
+    "scene_id": "C93-S01",
+    "title": "ಭುಮನ್ಯು, ವಿತಥ ಮತ್ತು ಸುಹೋತ್ರನ ಶಾಖೆಗಳು",
+    "group_id": "C93"
+  },
+  {
+    "order": 239,
+    "scene_id": "C93-S02",
+    "title": "ಅಜಮೀಢನ ಪತ್ನಿಯರು ಮತ್ತು ಪಾಂಚಾಲ ಕೌಶಿಕ ಶಾಖೆಗಳು",
+    "group_id": "C93"
+  },
+  {
+    "order": 240,
+    "scene_id": "C93-S03",
+    "title": "ಕುರು, ಮನಸಿನಿ ಮತ್ತು ಅಭೀಷ್ಟಂತನ ಸಂತತಿ",
+    "group_id": "C93"
+  },
+  {
+    "order": 241,
+    "scene_id": "C93-S04",
+    "title": "ಹಳೆಯ ಪರೀಕ್ಷಿತನ ಪುತ್ರರು; ಹಳೆಯ ಧೃತರಾಷ್ಟ್ರನ ಬೇರೆ ಕುಟುಂಬ",
+    "group_id": "C93"
+  },
+  {
+    "order": 242,
+    "scene_id": "C93-S05",
+    "title": "ಭೀಮಸೇನನಿಂದ ಪ್ರತೀಪ; ಬಾಹ್ಲೀಕನ ಇನ್ನೊಂದು ಶಾಖೆ",
+    "group_id": "C93"
+  },
+  {
+    "order": 243,
+    "scene_id": "G17-S06",
+    "title": "ಸಂವರಣ, ಕುರು ಮತ್ತು ಪ್ರತೀಪ",
+    "group_id": "G17"
+  },
+  {
+    "order": 244,
+    "scene_id": "G17-S07",
+    "title": "ಆವೃತ್ತಿಯ ತಾತ್ಪರ್ಯಕ್ಕೆ ಪ್ರತ್ಯೇಕ ಸ್ಥಾನ",
+    "group_id": "G17"
+  },
+  {
+    "order": 245,
+    "scene_id": "G17-S08",
+    "title": "ಮಹಾಭಿಷ ಮತ್ತು ಗಂಗೆ",
+    "group_id": "G17"
+  },
+  {
+    "order": 246,
+    "scene_id": "G17-S09",
+    "title": "ಪ್ರತೀಪನ ಮಾತು ಮತ್ತು ಶಂತನುವಿನ ಷರತ್ತು",
+    "group_id": "G17"
+  },
+  {
+    "order": 247,
+    "scene_id": "G17-S10",
+    "title": "ಎಂಟನೆಯ ಮಗುವಿನ ಮುಂದೆ ಮುರಿದ ಮೌನ",
+    "group_id": "G17"
+  },
+  {
+    "order": 248,
+    "scene_id": "G17-S11",
+    "title": "ನಂದಿನಿಯ ಕಳವು ಮತ್ತು ದೀರ್ಘ ಮಾನವಜೀವನ",
+    "group_id": "G17"
+  },
+  {
+    "order": 249,
+    "scene_id": "G18-S01",
+    "title": "ಮರಳಿದ ಗಂಗಾದತ್ತ",
+    "group_id": "G18"
+  },
+  {
+    "order": 250,
+    "scene_id": "G18-S02",
+    "title": "ಯಮುನೆಯ ದೋಣಿ",
+    "group_id": "G18"
+  },
+  {
+    "order": 251,
+    "scene_id": "G18-S03",
+    "title": "ತಂದೆಯ ಮೌನವನ್ನು ಅರಿತ ಮಗ",
+    "group_id": "G18"
+  },
+  {
+    "order": 252,
+    "scene_id": "G18-S04",
+    "title": "ಭೀಷಣ ಪ್ರತಿಜ್ಞೆ",
+    "group_id": "G18"
+  },
+  {
+    "order": 253,
+    "scene_id": "G18-S05",
+    "title": "ವರ ಮತ್ತು ಹೊಸ ರಾಜಕುಟುಂಬ",
+    "group_id": "G18"
+  },
+  {
+    "order": 254,
+    "scene_id": "G18-S06",
+    "title": "ಕಾಶಿಯ ಮೂವರು ಕನ್ಯೆಯರು",
+    "group_id": "G18"
+  },
+  {
+    "order": 255,
+    "scene_id": "G18-S07",
+    "title": "ಅಂಬೆ ಹೇಳಿದ ಆಯ್ಕೆ",
+    "group_id": "G18"
+  },
+  {
+    "order": 256,
+    "scene_id": "G18-S08",
+    "title": "ಮಾಲೆಯೊಂದಿಗೆ ಅಲೆದ ಅಂಬೆ",
+    "group_id": "G18"
+  },
+  {
+    "order": 257,
+    "scene_id": "G18-S09",
+    "title": "ಶಿಖಂಡಿಯ ಹೊಸ ಸ್ಥಿತಿ",
+    "group_id": "G18"
+  },
+  {
+    "order": 258,
+    "scene_id": "G18-S10",
+    "title": "ತಾತ್ಪರ್ಯದ ಮತ್ತೊಂದು ನಿರೂಪಣೆ",
+    "group_id": "G18"
+  },
+  {
+    "order": 259,
+    "scene_id": "G18-S11",
+    "title": "ಸಂತಾನವಿಲ್ಲದ ಅರಮನೆ",
+    "group_id": "G18"
+  },
+  {
+    "order": 260,
+    "scene_id": "G18-S12",
+    "title": "ದೀರ್ಘತಮಸರ ಪೂರ್ವಕಥೆ",
+    "group_id": "G18"
+  },
+  {
+    "order": 261,
+    "scene_id": "V2201-S01",
+    "title": "ಭೀಷ್ಮನು ಹೇಳಿದ ಆಪತ್ತಿನ ಪೂರ್ವನಿದರ್ಶನ",
+    "group_id": "V2201"
+  },
+  {
+    "order": 262,
+    "scene_id": "V2201-S02",
+    "title": "ಮಮತೆಯ ನಿರಾಕರಣೆ ಮತ್ತು ಮಗುವಿನ ಶಾಪ",
+    "group_id": "V2201"
+  },
+  {
+    "order": 263,
+    "scene_id": "V2201-S03",
+    "title": "ವಿದ್ಯೆ, ವಿವಾಹ ಮತ್ತು ಮನೆಯ ಭಾರ",
+    "group_id": "V2201"
+  },
+  {
+    "order": 264,
+    "scene_id": "V2201-S04",
+    "title": "ಕೋಪದ ಮಾತಿನಿಂದ ಕಟ್ಟಿದ ನಿಯಮ",
+    "group_id": "V2201"
+  },
+  {
+    "order": 265,
+    "scene_id": "V2201-S05",
+    "title": "ತೆಪ್ಪದಲ್ಲಿ ತೊರೆದ ತಂದೆ",
+    "group_id": "V2201"
+  },
+  {
+    "order": 266,
+    "scene_id": "V2201-S06",
+    "title": "ಬಲಿ ರಾಜನ ಆಶ್ರಯ",
+    "group_id": "V2201"
+  },
+  {
+    "order": 267,
+    "scene_id": "V2201-S07",
+    "title": "ರಾಣಿಯ ಬದಲು ಬಂದ ದಾಸಿಯ ಮಗಳು",
+    "group_id": "V2201"
+  },
+  {
+    "order": 268,
+    "scene_id": "V2201-S08",
+    "title": "ಸುದೇಷ್ಣೆಯಿಂದ ಅಂಗನ ಜನ್ಮ",
+    "group_id": "V2201"
+  },
+  {
+    "order": 269,
+    "scene_id": "V2201-S09",
+    "title": "ಸತ್ಯವತಿಯ ನಿರ್ಧಾರಕ್ಕೆ ಮರಳಿದ ಕಥೆ",
+    "group_id": "V2201"
+  },
+  {
+    "order": 270,
+    "scene_id": "G19-S01",
+    "title": "ಸತ್ಯವತಿಯ ರಹಸ್ಯ",
+    "group_id": "G19"
+  },
+  {
+    "order": 271,
+    "scene_id": "G19-S02",
+    "title": "ವ್ಯಾಸರ ಷರತ್ತು",
+    "group_id": "G19"
+  },
+  {
+    "order": 272,
+    "scene_id": "G19-S03",
+    "title": "ಧೃತರಾಷ್ಟ್ರ ಮತ್ತು ಪಾಂಡು",
+    "group_id": "G19"
+  },
+  {
+    "order": 273,
+    "scene_id": "G19-S04",
+    "title": "ವಿದುರನ ತಾಯಿ",
+    "group_id": "G19"
+  },
+  {
+    "order": 274,
+    "scene_id": "G19-S05",
+    "title": "ಮಾಂಡವ್ಯನಿಗೆ ತಪ್ಪಾದ ಶಿಕ್ಷೆ",
+    "group_id": "G19"
+  },
+  {
+    "order": 275,
+    "scene_id": "G19-S06",
+    "title": "ಧರ್ಮನನ್ನೇ ಪ್ರಶ್ನಿಸಿದ ಋಷಿ",
+    "group_id": "G19"
+  },
+  {
+    "order": 276,
+    "scene_id": "G19-S07",
+    "title": "ಮೂರು ಸಹೋದರರ ಬೆಳವಣಿಗೆ",
+    "group_id": "G19"
+  },
+  {
+    "order": 277,
+    "scene_id": "G19-S08",
+    "title": "ಪೃಥೆಗೆ ದೊರೆತ ಮಂತ್ರ",
+    "group_id": "G19"
+  },
+  {
+    "order": 278,
+    "scene_id": "G19-S09",
+    "title": "ಸೂರ್ಯನ ಮುಂದೆ ಕುಂತಿಯ ಭಯ",
+    "group_id": "G19"
+  },
+  {
+    "order": 279,
+    "scene_id": "G19-S10",
+    "title": "ನದಿಯಲ್ಲಿ ಬಿಟ್ಟ ಮಗು, ಹೊಸ ಮನೆ",
+    "group_id": "G19"
+  },
+  {
+    "order": 280,
+    "scene_id": "G19-S11",
+    "title": "ಕರ್ಣನ ಭವಿಷ್ಯದ ಒಂದು ಮುನ್ನೋಟ",
+    "group_id": "G19"
+  },
+  {
+    "order": 281,
+    "scene_id": "G19-S12",
+    "title": "ಪಾಂಡುವಿನ ವಿವಾಹ ಮತ್ತು ದಿಗ್ವಿಜಯ",
+    "group_id": "G19"
+  },
+  {
+    "order": 282,
+    "scene_id": "G19-S13",
+    "title": "ಕಿಂದಮನ ಶಾಪ",
+    "group_id": "G19"
+  },
+  {
+    "order": 283,
+    "scene_id": "G20-S01",
+    "title": "ಸಂನ್ಯಾಸವಲ್ಲ, ಕುಟುಂಬದೊಂದಿಗೆ ವನಜೀವನ",
+    "group_id": "G20"
+  },
+  {
+    "order": 284,
+    "scene_id": "G20-S02",
+    "title": "ಸಂತಾನದ ಚಿಂತೆ",
+    "group_id": "G20"
+  },
+  {
+    "order": 285,
+    "scene_id": "G20-S03",
+    "title": "ವ್ಯುಷಿತಾಶ್ವ ಮತ್ತು ಭದ್ರೆಯ ಕಥೆ",
+    "group_id": "G20"
+  },
+  {
+    "order": 286,
+    "scene_id": "G20-S04",
+    "title": "ಉದ್ದಾಲಕ ಮತ್ತು ಶ್ವೇತಕೇತುವಿನ ವಾದ",
+    "group_id": "G20"
+  },
+  {
+    "order": 287,
+    "scene_id": "G20-S05",
+    "title": "ಮಂತ್ರದ ರಹಸ್ಯ ತೆರೆದಿತು",
+    "group_id": "G20"
+  },
+  {
+    "order": 288,
+    "scene_id": "G20-S06",
+    "title": "ಗಾಂಧಾರಿಯ ದೀರ್ಘ ನಿರೀಕ್ಷೆ",
+    "group_id": "G20"
+  },
+  {
+    "order": 289,
+    "scene_id": "G20-S07",
+    "title": "ಭೀಮನ ಜನನ ಮತ್ತು ಮೊದಲ ಬಲ",
+    "group_id": "G20"
+  },
+  {
+    "order": 290,
+    "scene_id": "G20-S08",
+    "title": "ದುರ್ಯೋಧನನ ಜನನದ ಎಚ್ಚರಿಕೆ",
+    "group_id": "G20"
+  },
+  {
+    "order": 291,
+    "scene_id": "G20-S09",
+    "title": "ದುಃಶಲೆ ಮತ್ತು ಯುಯುತ್ಸು",
+    "group_id": "G20"
+  },
+  {
+    "order": 292,
+    "scene_id": "C117-S01",
+    "title": "ನೂರು ಪುತ್ರರು, ಯುಯುತ್ಸು ಮತ್ತು ದುಃಶಲೆ",
+    "group_id": "C117"
+  },
+  {
+    "order": 293,
+    "scene_id": "C117-S02",
+    "title": "ಗಾಂಧಾರಿಯ ಪುತ್ರರ ಹೆಸರುಗಳು: 1–10",
+    "group_id": "C117"
+  },
+  {
+    "order": 294,
+    "scene_id": "C117-S03",
+    "title": "ಗಾಂಧಾರಿಯ ಪುತ್ರರ ಹೆಸರುಗಳು: 11–20",
+    "group_id": "C117"
+  },
+  {
+    "order": 295,
+    "scene_id": "C117-S04",
+    "title": "ಗಾಂಧಾರಿಯ ಪುತ್ರರ ಹೆಸರುಗಳು: 21–30",
+    "group_id": "C117"
+  },
+  {
+    "order": 296,
+    "scene_id": "C117-S05",
+    "title": "ಗಾಂಧಾರಿಯ ಪುತ್ರರ ಹೆಸರುಗಳು: 31–40",
+    "group_id": "C117"
+  },
+  {
+    "order": 297,
+    "scene_id": "C117-S06",
+    "title": "ಗಾಂಧಾರಿಯ ಪುತ್ರರ ಹೆಸರುಗಳು: 41–50",
+    "group_id": "C117"
+  },
+  {
+    "order": 298,
+    "scene_id": "C117-S07",
+    "title": "ಗಾಂಧಾರಿಯ ಪುತ್ರರ ಹೆಸರುಗಳು: 51–60",
+    "group_id": "C117"
+  },
+  {
+    "order": 299,
+    "scene_id": "C117-S08",
+    "title": "ಗಾಂಧಾರಿಯ ಪುತ್ರರ ಹೆಸರುಗಳು: 61–70",
+    "group_id": "C117"
+  },
+  {
+    "order": 300,
+    "scene_id": "C117-S09",
+    "title": "ಗಾಂಧಾರಿಯ ಪುತ್ರರ ಹೆಸರುಗಳು: 71–80",
+    "group_id": "C117"
+  },
+  {
+    "order": 301,
+    "scene_id": "C117-S10",
+    "title": "ಗಾಂಧಾರಿಯ ಪುತ್ರರ ಹೆಸರುಗಳು: 81–90",
+    "group_id": "C117"
+  },
+  {
+    "order": 302,
+    "scene_id": "C117-S11",
+    "title": "ಗಾಂಧಾರಿಯ ಪುತ್ರರ ಹೆಸರುಗಳು: 91–100",
+    "group_id": "C117"
+  },
+  {
+    "order": 303,
+    "scene_id": "C117-S12",
+    "title": "ಒಂದೇ ಹೆಸರು, ಬೇರೆ ವ್ಯಕ್ತಿಗಳು",
+    "group_id": "C117"
+  },
+  {
+    "order": 304,
+    "scene_id": "C117-S13",
+    "title": "ದುಃಶಲೆಯ ವಿವಾಹ ಮತ್ತು ಕುಟುಂಬದ ಮುಂದುವರಿಕೆ",
+    "group_id": "C117"
+  },
+  {
+    "order": 305,
+    "scene_id": "G20-S10",
+    "title": "ಅರ್ಜುನನಿಗಾಗಿ ತಪಸ್ಸು",
+    "group_id": "G20"
+  },
+  {
+    "order": 306,
+    "scene_id": "G20-S11",
+    "title": "ಮಾದ್ರಿಯ ಮನವಿ ಮತ್ತು ಅವಳಿ ಮಕ್ಕಳು",
+    "group_id": "G20"
+  },
+  {
+    "order": 307,
+    "scene_id": "G20-S12",
+    "title": "ದ್ರೋಣರಿಗಿಂತ ಮೊದಲಿನ ಗುರು",
+    "group_id": "G20"
+  },
+  {
+    "order": 308,
+    "scene_id": "G21-S01",
+    "title": "ಆಯುಷ್ಯದ ಮುನ್ನೋಟ",
+    "group_id": "G21"
+  },
+  {
+    "order": 309,
+    "scene_id": "G21-S02",
+    "title": "ಮರೆಯಲಾದ ಶಾಪ",
+    "group_id": "G21"
+  },
+  {
+    "order": 310,
+    "scene_id": "G21-S03",
+    "title": "ಬದುಕಿ ಮಕ್ಕಳನ್ನು ಕಾಪಾಡುವ ಮಾತು",
+    "group_id": "G21"
+  },
+  {
+    "order": 311,
+    "scene_id": "G21-S04",
+    "title": "ಪಾಂಡು ಮಾದ್ರಿಯ ಅಂತ್ಯಕ್ರಿಯೆ",
+    "group_id": "G21"
+  },
+  {
+    "order": 312,
+    "scene_id": "G21-S05",
+    "title": "ಹಸ್ತಿನಪುರದ ಸ್ವಾಗತ",
+    "group_id": "G21"
+  },
+  {
+    "order": 313,
+    "scene_id": "G21-S06",
+    "title": "ಆವೃತ್ತಿಯ ಸ್ವೀಕಾರವಿವರಣೆ",
+    "group_id": "G21"
+  },
+  {
+    "order": 314,
+    "scene_id": "G21-S07",
+    "title": "ನಗರದ ಶೋಕ ಮತ್ತು ಸತ್ಯವತಿಯ ನಿರ್ಗಮನ",
+    "group_id": "G21"
+  },
+  {
+    "order": 315,
+    "scene_id": "G21-S08",
+    "title": "ಆಟದ ಬಲದಿಂದ ಅಸೂಯೆಗೆ",
+    "group_id": "G21"
+  },
+  {
+    "order": 316,
+    "scene_id": "G21-S09",
+    "title": "ಮೊದಲ ಜಲದಾಳಿ",
+    "group_id": "G21"
+  },
+  {
+    "order": 317,
+    "scene_id": "G21-S10",
+    "title": "ಸರ್ಪಗಳು ಮತ್ತು ಯುಯುತ್ಸುವಿನ ಎಚ್ಚರಿಕೆ",
+    "group_id": "G21"
+  },
+  {
+    "order": 318,
+    "scene_id": "G21-S11",
+    "title": "ಮತ್ತೊಂದು ವಿಹಾರ, ಮತ್ತೊಂದು ಮೋಸ",
+    "group_id": "G21"
+  },
+  {
+    "order": 319,
+    "scene_id": "G21-S12",
+    "title": "ನಾಗಭವನದಲ್ಲಿ ಎಚ್ಚರ",
+    "group_id": "G21"
+  },
+  {
+    "order": 320,
+    "scene_id": "G21-S13",
+    "title": "ಎಂಟು ಕುಂಡಗಳು, ಎಂಟು ದಿನಗಳು",
+    "group_id": "G21"
+  },
+  {
+    "order": 321,
+    "scene_id": "G21-S14",
+    "title": "ಮರಳಿದ ಅಣ್ಣ, ಬದಲಾಗಿದ ವಿಶ್ವಾಸ",
+    "group_id": "G21"
+  },
+  {
+    "order": 322,
+    "scene_id": "G21-S15",
+    "title": "ಕೃಪ ಮತ್ತು ಕೃಪಿಯ ಪೂರ್ವಕಥೆ",
+    "group_id": "G21"
+  },
+  {
+    "order": 323,
+    "scene_id": "G22-S01",
+    "title": "ಭರದ್ವಾಜರ ಮಗ ದ್ರೋಣ",
+    "group_id": "G22"
+  },
+  {
+    "order": 324,
+    "scene_id": "G22-S02",
+    "title": "ಗುರುಕುಲದ ಸ್ನೇಹಿತರು",
+    "group_id": "G22"
+  },
+  {
+    "order": 325,
+    "scene_id": "G22-S03",
+    "title": "ಕೃಪಿ ಮತ್ತು ಅಶ್ವತ್ಥಾಮ",
+    "group_id": "G22"
+  },
+  {
+    "order": 326,
+    "scene_id": "G22-S04",
+    "title": "ಹಾಲೆಂದು ನಂಬಿದ ನೀರು",
+    "group_id": "G22"
+  },
+  {
+    "order": 327,
+    "scene_id": "G22-S05",
+    "title": "ಪರಶುರಾಮರ ಉಳಿದ ಧನ",
+    "group_id": "G22"
+  },
+  {
+    "order": 328,
+    "scene_id": "G22-S06",
+    "title": "ರಾಜನಾದ ಸ್ನೇಹಿತ",
+    "group_id": "G22"
+  },
+  {
+    "order": 329,
+    "scene_id": "G22-S07",
+    "title": "ಬಾವಿಯಲ್ಲಿ ಬಿದ್ದ ಚೆಂಡು ಮತ್ತು ಉಂಗುರ",
+    "group_id": "G22"
+  },
+  {
+    "order": 330,
+    "scene_id": "G22-S08",
+    "title": "ಕಡ್ಡಿಗಳ ಸರಪಳಿ",
+    "group_id": "G22"
+  },
+  {
+    "order": 331,
+    "scene_id": "G22-S09",
+    "title": "ಗುರುದಕ್ಷಿಣೆಯ ಮುಂಚಿನ ಮಾತು",
+    "group_id": "G22"
+  },
+  {
+    "order": 332,
+    "scene_id": "G22-S10",
+    "title": "ರಾತ್ರಿಯ ಅಭ್ಯಾಸ",
+    "group_id": "G22"
+  },
+  {
+    "order": 333,
+    "scene_id": "G22-S11",
+    "title": "ಏಕಲವ್ಯನಿಗೆ ಸಿಗದ ಪ್ರವೇಶ",
+    "group_id": "G22"
+  },
+  {
+    "order": 334,
+    "scene_id": "G22-S12",
+    "title": "ಏಳು ಬಾಣಗಳ ಪ್ರಶ್ನೆ",
+    "group_id": "G22"
+  },
+  {
+    "order": 335,
+    "scene_id": "G22-S13",
+    "title": "ಬಲಗೈಯ ಅಂಗುಷ್ಠ",
+    "group_id": "G22"
+  },
+  {
+    "order": 336,
+    "scene_id": "I3-S01",
+    "title": "ಶಿಕ್ಷಣದ ಕೊನೆಯಿಂದ ಹೊಸ ಆರಂಭ",
+    "group_id": "I3"
+  },
+  {
+    "order": 337,
+    "scene_id": "I3-S02",
+    "title": "ಕೀರ್ತಿಯ ಜೊತೆಗೆ ನೆರಳು",
+    "group_id": "I3"
+  },
+  {
+    "order": 338,
+    "scene_id": "I3-S03",
+    "title": "ಪಂಚಾಲದ ಕಡೆಗೆ",
+    "group_id": "I3"
+  },
+  {
+    "order": 339,
+    "scene_id": "FF03-S01",
+    "title": "ಮೂರನೆಯ ಸಂಪುಟದ ಪರಿಚಯ",
+    "group_id": "FF03"
+  },
+  {
+    "order": 340,
+    "scene_id": "FF03-S02",
+    "title": "ಪರೀಕ್ಷೆಯಿಂದ ದ್ರೌಪದಿಯ ವಿವಾಹದವರೆಗೆ",
+    "group_id": "FF03"
+  },
+  {
+    "order": 341,
+    "scene_id": "FF03-S03",
+    "title": "ದ್ರೋಣರ ವಾಗ್ದಾನ ಮತ್ತು ಅರ್ಜುನನ ಸಿದ್ಧತೆ",
+    "group_id": "FF03"
+  },
+  {
+    "order": 342,
+    "scene_id": "G23-S01",
+    "title": "ಒಂದೇ ಗುರಿ",
+    "group_id": "G23"
+  },
+  {
+    "order": 343,
+    "scene_id": "G23-S02",
+    "title": "ನದಿಯಲ್ಲಿನ ಪರೀಕ್ಷೆ",
+    "group_id": "G23"
+  },
+  {
+    "order": 344,
+    "scene_id": "G23-S03",
+    "title": "ಹಸ್ತಿನಾಪುರದ ರಂಗಭೂಮಿ",
+    "group_id": "G23"
+  },
+  {
+    "order": 345,
+    "scene_id": "G23-S04",
+    "title": "ಪ್ರದರ್ಶನವು ವೈರವಾಯಿತೆ",
+    "group_id": "G23"
+  },
+  {
+    "order": 346,
+    "scene_id": "G23-S05",
+    "title": "ಅಪರಿಚಿತನ ಸವಾಲು",
+    "group_id": "G23"
+  },
+  {
+    "order": 347,
+    "scene_id": "G23-S06",
+    "title": "ಯೋಗ್ಯತೆಯ ಪ್ರಶ್ನೆ",
+    "group_id": "G23"
+  },
+  {
+    "order": 348,
+    "scene_id": "G23-S07",
+    "title": "ಅಂಗರಾಜ ಮತ್ತು ತಂದೆ",
+    "group_id": "G23"
+  },
+  {
+    "order": 349,
+    "scene_id": "G23-S08",
+    "title": "ಸೂರ್ಯಾಸ್ತದ ಒಡಂಬಡಿಕೆ",
+    "group_id": "G23"
+  },
+  {
+    "order": 350,
+    "scene_id": "G24-S01",
+    "title": "ದ್ರುಪದನನ್ನು ಹಿಡಿದು ತನ್ನಿರಿ",
+    "group_id": "G24"
+  },
+  {
+    "order": 351,
+    "scene_id": "G24-S02",
+    "title": "ಭೀಮನ ದಾರಿ ಅರ್ಜುನನ ಗುರಿ",
+    "group_id": "G24"
+  },
+  {
+    "order": 352,
+    "scene_id": "G24-S03",
+    "title": "ಅರ್ಧ ರಾಜ್ಯದ ಸ್ನೇಹ",
+    "group_id": "G24"
+  },
+  {
+    "order": 353,
+    "scene_id": "G24-S04",
+    "title": "ಯಜ್ಞದಿಂದ ಬಂದ ಮಕ್ಕಳು",
+    "group_id": "G24"
+  },
+  {
+    "order": 354,
+    "scene_id": "A101-S01",
+    "title": "ಪೃಷತನ ತಪಸ್ಸು",
+    "group_id": "A101"
+  },
+  {
+    "order": 355,
+    "scene_id": "A101-S02",
+    "title": "ದ್ರುಪದ ಎಂಬ ಹೆಸರು",
+    "group_id": "A101"
+  },
+  {
+    "order": 356,
+    "scene_id": "A101-S03",
+    "title": "ಒಟ್ಟಿಗೆ ಬೆಳೆದ ಇಬ್ಬರು",
+    "group_id": "A101"
+  },
+  {
+    "order": 357,
+    "scene_id": "G24-S05",
+    "title": "ಯುವರಾಜ ಮತ್ತು ಅಸೂಯೆ",
+    "group_id": "G24"
+  },
+  {
+    "order": 358,
+    "scene_id": "G24-S06",
+    "title": "ತಂದೆಯ ಮನಸ್ಸನ್ನು ತಿರುಗಿಸುವ ಮಾತು",
+    "group_id": "G24"
+  },
+  {
+    "order": 359,
+    "scene_id": "G24-S07",
+    "title": "ಕಣಿಕನ ನೀತಿ",
+    "group_id": "G24"
+  },
+  {
+    "order": 360,
+    "scene_id": "G24-S08",
+    "title": "ಕಣಿಕ ಹೇಳಿದ ನರಿಯ ಕಥೆ",
+    "group_id": "G24"
+  },
+  {
+    "order": 361,
+    "scene_id": "G24-S09",
+    "title": "ಹೆಮ್ಮೆ ಮತ್ತು ಭಯವನ್ನು ಬಳಸಿದ ನರಿ",
+    "group_id": "G24"
+  },
+  {
+    "order": 362,
+    "scene_id": "G24-S10",
+    "title": "ಒಡೆದ ಸ್ನೇಹದ ಲಾಭ",
+    "group_id": "G24"
+  },
+  {
+    "order": 363,
+    "scene_id": "G24-S11",
+    "title": "ಆಹ್ವಾನದ ಒಳಗಿನ ಬಲೆ",
+    "group_id": "G24"
+  },
+  {
+    "order": 364,
+    "scene_id": "G25-S01",
+    "title": "ಪುರೋಚನನ ಮನೆ",
+    "group_id": "G25"
+  },
+  {
+    "order": 365,
+    "scene_id": "G25-S02",
+    "title": "ವಿದುರನ ಸಂಕೇತ",
+    "group_id": "G25"
+  },
+  {
+    "order": 366,
+    "scene_id": "G25-S03",
+    "title": "ಸುಂದರ ಮನೆಯ ವಾಸನೆ",
+    "group_id": "G25"
+  },
+  {
+    "order": 367,
+    "scene_id": "G25-S04",
+    "title": "ಭೂಮಿಯ ಕೆಳಗಿನ ದಾರಿ",
+    "group_id": "G25"
+  },
+  {
+    "order": 368,
+    "scene_id": "G25-S05",
+    "title": "ಆ ರಾತ್ರಿ ಉಳಿದ ಅತಿಥಿಗಳು",
+    "group_id": "G25"
+  },
+  {
+    "order": 369,
+    "scene_id": "G25-S06",
+    "title": "ಬೆಂಕಿ ಮತ್ತು ಪಲಾಯನ",
+    "group_id": "G25"
+  },
+  {
+    "order": 370,
+    "scene_id": "G25-S07",
+    "title": "ಸತ್ತವರಿಗಾಗಿ ಶೋಕ",
+    "group_id": "G25"
+  },
+  {
+    "order": 371,
+    "scene_id": "G25-S08",
+    "title": "ನೀರಿಗಾಗಿ ಹೋದ ಭೀಮ",
+    "group_id": "G25"
+  },
+  {
+    "order": 372,
+    "scene_id": "G26-S01",
+    "title": "ಹಿಡಿಂಬೆಯ ಆಯ್ಕೆ",
+    "group_id": "G26"
+  },
+  {
+    "order": 373,
+    "scene_id": "G26-S02",
+    "title": "ಅಣ್ಣನ ಆಗಮನ",
+    "group_id": "G26"
+  },
+  {
+    "order": 374,
+    "scene_id": "G26-S03",
+    "title": "ಹಿಡಿಂಬನ ಅಂತ್ಯ",
+    "group_id": "G26"
+  },
+  {
+    "order": 375,
+    "scene_id": "G26-S04",
+    "title": "ಕುಂತಿಯ ಮುಂದೆ ಮನವಿ",
+    "group_id": "G26"
+  },
+  {
+    "order": 376,
+    "scene_id": "G26-S05",
+    "title": "ಆಶ್ರಯ ಮತ್ತು ಆಶ್ವಾಸನೆ",
+    "group_id": "G26"
+  },
+  {
+    "order": 377,
+    "scene_id": "G26-S06",
+    "title": "ಘಟೋತ್ಕಚನ ಜನನ",
+    "group_id": "G26"
+  },
+  {
+    "order": 378,
+    "scene_id": "G26-S07",
+    "title": "ಕರೆದಾಗ ಬರುತ್ತೇನೆ",
+    "group_id": "G26"
+  },
+  {
+    "order": 379,
+    "scene_id": "G26-S08",
+    "title": "ಹೆಸರನ್ನು ಮರೆಮಾಡಿದ ಪ್ರಯಾಣ",
+    "group_id": "G26"
+  },
+  {
+    "order": 380,
+    "scene_id": "G27-S01",
+    "title": "ಭಿಕ್ಷೆಯ ಬದುಕು",
+    "group_id": "G27"
+  },
+  {
+    "order": 381,
+    "scene_id": "G27-S02",
+    "title": "ಯಾರು ಹೋಗಬೇಕು",
+    "group_id": "G27"
+  },
+  {
+    "order": 382,
+    "scene_id": "G27-S03",
+    "title": "ಮಕ್ಕಳ ಮಾತು ಮತ್ತು ಬಕನ ನಿಯಮ",
+    "group_id": "G27"
+  },
+  {
+    "order": 383,
+    "scene_id": "G27-S04",
+    "title": "ಕುಂತಿಯ ನಿರ್ಧಾರ",
+    "group_id": "G27"
+  },
+  {
+    "order": 384,
+    "scene_id": "G27-S05",
+    "title": "ಅಣ್ಣನ ಆತಂಕ",
+    "group_id": "G27"
+  },
+  {
+    "order": 385,
+    "scene_id": "G27-S06",
+    "title": "ಬಕನ ಊಟವನ್ನು ಭೀಮನೇ ತಿನ್ನುತ್ತಾನೆ",
+    "group_id": "G27"
+  },
+  {
+    "order": 386,
+    "scene_id": "G27-S07",
+    "title": "ನಗರವನ್ನು ಬಿಟ್ಟ ಭಯ",
+    "group_id": "G27"
+  },
+  {
+    "order": 387,
+    "scene_id": "G27-S08",
+    "title": "ಹೆಸರು ಹೇಳದ ರಕ್ಷಕ",
+    "group_id": "G27"
+  },
+  {
+    "order": 388,
+    "scene_id": "G28-S01",
+    "title": "ಮತ್ತೊಮ್ಮೆ ಕೇಳಿಬಂದ ಅಗ್ನಿಜನ್ಮ",
+    "group_id": "G28"
+  },
+  {
+    "order": 389,
+    "scene_id": "G28-S02",
+    "title": "ದ್ರುಪದನ ಆಶೆ",
+    "group_id": "G28"
+  },
+  {
+    "order": 390,
+    "scene_id": "G28-S03",
+    "title": "ಪಾಂಚಾಲದತ್ತ ಪ್ರಯಾಣ",
+    "group_id": "G28"
+  },
+  {
+    "order": 391,
+    "scene_id": "G28-S04",
+    "title": "ಅರ್ಧರಾತ್ರಿಯ ತಡೆ",
+    "group_id": "G28"
+  },
+  {
+    "order": 392,
+    "scene_id": "G28-S05",
+    "title": "ಶತ್ರುವಿನಿಂದ ಸ್ನೇಹಿತ",
+    "group_id": "G28"
+  },
+  {
+    "order": 393,
+    "scene_id": "G28-S06",
+    "title": "ಪುರೋಹಿತನ ಅಗತ್ಯ",
+    "group_id": "G28"
+  },
+  {
+    "order": 394,
+    "scene_id": "G28-S07",
+    "title": "ಸಂವರಣನು ಕಂಡ ತಪತಿ",
+    "group_id": "G28"
+  },
+  {
+    "order": 395,
+    "scene_id": "G28-S08",
+    "title": "ಪ್ರೀತಿಯ ಷರತ್ತು",
+    "group_id": "G28"
+  },
+  {
+    "order": 396,
+    "scene_id": "G29-S01",
+    "title": "ಪ್ರೀತಿಯ ನಂತರ ರಾಜ್ಯದ ಹೊಣೆ",
+    "group_id": "G29"
+  },
+  {
+    "order": 397,
+    "scene_id": "G29-S02",
+    "title": "ನಂದಿನಿಯನ್ನು ಕಸಿಯಲು ಯತ್ನ",
+    "group_id": "G29"
+  },
+  {
+    "order": 398,
+    "scene_id": "G29-S03",
+    "title": "ಶಕ್ತಿಯ ಶಾಪ",
+    "group_id": "G29"
+  },
+  {
+    "order": 399,
+    "scene_id": "G29-S04",
+    "title": "ಬದುಕಲು ಕಾರಣ ಕಳೆದುಕೊಂಡ ಋಷಿ",
+    "group_id": "G29"
+  },
+  {
+    "order": 400,
+    "scene_id": "G29-S05",
+    "title": "ಪರಾಶರ ಮತ್ತು ಔರ್ವ",
+    "group_id": "G29"
+  },
+  {
+    "order": 401,
+    "scene_id": "A103-S01",
+    "title": "ನಿಧಿಯಿಂದ ಹುಟ್ಟಿದ ದುರಂತ",
+    "group_id": "A103"
+  },
+  {
+    "order": 402,
+    "scene_id": "A103-S02",
+    "title": "ಪಿತೃಗಳು ನೀಡಿದ ಅಸಾಮಾನ್ಯ ಕಾರಣ",
+    "group_id": "A103"
+  },
+  {
+    "order": 403,
+    "scene_id": "A103-S03",
+    "title": "ಕೋಪಕ್ಕೂ ನ್ಯಾಯದ ಪ್ರಶ್ನೆ",
+    "group_id": "A103"
+  },
+  {
+    "order": 404,
+    "scene_id": "G29-S06",
+    "title": "ಸಮುದ್ರಕ್ಕೆ ಹೋದ ಕ್ರೋಧಾಗ್ನಿ",
+    "group_id": "G29"
+  },
+  {
+    "order": 405,
+    "scene_id": "G29-S07",
+    "title": "ಪರಾಶರರ ಸತ್ರ ನಿಂತಿತು",
+    "group_id": "G29"
+  },
+  {
+    "order": 406,
+    "scene_id": "G29-S08",
+    "title": "ಮದಯಂತಿಯ ಸಂತತಿ ಮತ್ತು ಹಿಂದಿರುಗುವ ಕಥೆ",
+    "group_id": "G29"
+  },
+  {
+    "order": 407,
+    "scene_id": "G30-S01",
+    "title": "ಧೌಮ್ಯರ ವರಣ",
+    "group_id": "G30"
+  },
+  {
+    "order": 408,
+    "scene_id": "G30-S02",
+    "title": "ಪಾಂಚಾಲದ ಮಹಾಸಭೆ",
+    "group_id": "G30"
+  },
+  {
+    "order": 409,
+    "scene_id": "G30-S03",
+    "title": "ರಾಜರ ಪರಿಚಯ",
+    "group_id": "G30"
+  },
+  {
+    "order": 410,
+    "scene_id": "G30-S04",
+    "title": "ಕೃಷ್ಣನ ಗುರುತಿಸುವಿಕೆ",
+    "group_id": "G30"
+  },
+  {
+    "order": 411,
+    "scene_id": "G30-S05",
+    "title": "ಗುರಿಭೇದ ಮತ್ತು ಮಾಲಾರ್ಪಣೆ",
+    "group_id": "G30"
+  },
+  {
+    "order": 412,
+    "scene_id": "G30-S06",
+    "title": "ಸಭೆಯ ಕೋಪ",
+    "group_id": "G30"
+  },
+  {
+    "order": 413,
+    "scene_id": "G30-S07",
+    "title": "ವೇಷದೊಳಗಿನ ಯೋಧರು",
+    "group_id": "G30"
+  },
+  {
+    "order": 414,
+    "scene_id": "G30-S08",
+    "title": "ಕಾಣದೆ ಹೇಳಿದ ಮಾತು",
+    "group_id": "G30"
+  },
+  {
+    "order": 415,
+    "scene_id": "G30-S09",
+    "title": "ರಹಸ್ಯವಾಗಿ ಕೇಳಿದ ರಾತ್ರಿ",
+    "group_id": "G30"
+  },
+  {
+    "order": 416,
+    "scene_id": "G31-S01",
+    "title": "ಪುರೋಹಿತನ ಸಂದೇಶ",
+    "group_id": "G31"
+  },
+  {
+    "order": 417,
+    "scene_id": "G31-S02",
+    "title": "ಆಯ್ಕೆಗಳಿಂದ ಸಿಕ್ಕ ಪರಿಚಯ",
+    "group_id": "G31"
+  },
+  {
+    "order": 418,
+    "scene_id": "G31-S03",
+    "title": "ಒಪ್ಪದ ತಂದೆಯ ಪ್ರಶ್ನೆ",
+    "group_id": "G31"
+  },
+  {
+    "order": 419,
+    "scene_id": "A102-S01",
+    "title": "ಯುಧಿಷ್ಠಿರನು ಕೊಟ್ಟ ಉದಾಹರಣೆಗಳು",
+    "group_id": "A102"
+  },
+  {
+    "order": 420,
+    "scene_id": "G31-S04",
+    "title": "ವ್ಯಾಸರು ನೀಡುವ ದಿಕ್ಕು",
+    "group_id": "G31"
+  },
+  {
+    "order": 421,
+    "scene_id": "G31-S05",
+    "title": "ನಾಳಾಯನಿ ಮತ್ತು ಇಂದ್ರಸೇನೆ",
+    "group_id": "G31"
+  },
+  {
+    "order": 422,
+    "scene_id": "A102-S02",
+    "title": "ನಾಳಾಯನಿಯ ಸೇವೆ",
+    "group_id": "A102"
+  },
+  {
+    "order": 423,
+    "scene_id": "A102-S03",
+    "title": "ಐದು ರೂಪಗಳ ವರ",
+    "group_id": "A102"
+  },
+  {
+    "order": 424,
+    "scene_id": "A102-S04",
+    "title": "ಇಂದ್ರಸೇನೆಯ ತಪಸ್ಸು",
+    "group_id": "A102"
+  },
+  {
+    "order": 425,
+    "scene_id": "A102-S05",
+    "title": "ವರದ ತಾತ್ತ್ವಿಕ ವಿವರಣೆ",
+    "group_id": "A102"
+  },
+  {
+    "order": 426,
+    "scene_id": "G31-S06",
+    "title": "ಐದು ಇಂದ್ರರ ಪೂರ್ವಕಥೆ",
+    "group_id": "G31"
+  },
+  {
+    "order": 427,
+    "scene_id": "G31-S07",
+    "title": "ಕಥೆ ಮತ್ತು ಭಾಷ್ಯದ ವ್ಯತ್ಯಾಸ",
+    "group_id": "G31"
+  },
+  {
+    "order": 428,
+    "scene_id": "G31-S08",
+    "title": "ಸಮ್ಮತಿ ಮತ್ತು ವಿವಾಹ",
+    "group_id": "G31"
+  },
+  {
+    "order": 429,
+    "scene_id": "G31-S09",
+    "title": "ಕುಂತಿಯ ಆಶೀರ್ವಾದ",
+    "group_id": "G31"
+  },
+  {
+    "order": 430,
+    "scene_id": "I4-S01",
+    "title": "ಒಂದೇ ಸಂಪುಟದಲ್ಲಿ ಎರಡು ಪರ್ವಗಳು",
+    "group_id": "I4"
+  },
+  {
+    "order": 431,
+    "scene_id": "I4-S02",
+    "title": "ಮುನ್ನುಡಿಯ ಒಂದು ಮಹತ್ವದ ಎಚ್ಚರಿಕೆ",
+    "group_id": "I4"
+  },
+  {
+    "order": 432,
+    "scene_id": "I4-S03",
+    "title": "ಸಭೆಯ ವೈಭವದೊಳಗಿನ ಪ್ರಶ್ನೆ",
+    "group_id": "I4"
+  },
+  {
+    "order": 433,
+    "scene_id": "FF04-S01",
+    "title": "ನಾಲ್ಕನೆಯ ಸಂಪುಟದಲ್ಲಿ ಎರಡು ಪರ್ವಗಳು",
+    "group_id": "FF04"
+  },
+  {
+    "order": 434,
+    "scene_id": "FF04-S02",
+    "title": "ಸಭಾಪರ್ವದ ಮುನ್ನುಡಿ: ಸಂಖ್ಯೆಯೂ ಕ್ರಮವೂ",
+    "group_id": "FF04"
+  },
+  {
+    "order": 435,
+    "scene_id": "FF04-S03",
+    "title": "ನಾಲ್ಕನೆಯ ಸಂಪುಟದ ಅಂತ್ಯದ ಗಡಿ",
+    "group_id": "FF04"
+  },
+  {
+    "order": 436,
+    "scene_id": "G32-S01",
+    "title": "ಸುದ್ದಿಗೆ ಎರಡು ಪ್ರತಿಕ್ರಿಯೆಗಳು",
+    "group_id": "G32"
+  },
+  {
+    "order": 437,
+    "scene_id": "G32-S02",
+    "title": "ಅಭಿಯಾನದ ವೈಫಲ್ಯ",
+    "group_id": "G32"
+  },
+  {
+    "order": 438,
+    "scene_id": "G32-S03",
+    "title": "ಧೃತರಾಷ್ಟ್ರನ ತಪ್ಪು ಸಂತೋಷ",
+    "group_id": "G32"
+  },
+  {
+    "order": 439,
+    "scene_id": "G32-S04",
+    "title": "ಕರ್ಣನ ವಾದ",
+    "group_id": "G32"
+  },
+  {
+    "order": 440,
+    "scene_id": "G32-S05",
+    "title": "ಭೀಷ್ಮರ ಪಾಲಿನ ಮಾತು",
+    "group_id": "G32"
+  },
+  {
+    "order": 441,
+    "scene_id": "G32-S06",
+    "title": "ದ್ರೋಣ ಮತ್ತು ಕರ್ಣರ ಭಿನ್ನಾಭಿಪ್ರಾಯ",
+    "group_id": "G32"
+  },
+  {
+    "order": 442,
+    "scene_id": "G32-S07",
+    "title": "ವಿದುರನ ಎಚ್ಚರಿಕೆ",
+    "group_id": "G32"
+  },
+  {
+    "order": 443,
+    "scene_id": "G32-S08",
+    "title": "ಪಾಂಚಾಲದ ಆಹ್ವಾನ",
+    "group_id": "G32"
+  },
+  {
+    "order": 444,
+    "scene_id": "G32-S09",
+    "title": "ಮರಳಿ ಬಂದ ಕುಟುಂಬ",
+    "group_id": "G32"
+  },
+  {
+    "order": 445,
+    "scene_id": "G33-S01",
+    "title": "ಖಾಂಡವಪ್ರಸ್ಥಕ್ಕೆ ಹೊರಟವರು",
+    "group_id": "G33"
+  },
+  {
+    "order": 446,
+    "scene_id": "G33-S02",
+    "title": "ವಿಶ್ವಕರ್ಮನ ನಗರ",
+    "group_id": "G33"
+  },
+  {
+    "order": 447,
+    "scene_id": "G33-S03",
+    "title": "ನಾರದರು ಕೇಳಿದ ಒಗ್ಗಟ್ಟು",
+    "group_id": "G33"
+  },
+  {
+    "order": 448,
+    "scene_id": "G33-S04",
+    "title": "ಸುಂದ ಉಪಸುಂದರ ವರ",
+    "group_id": "G33"
+  },
+  {
+    "order": 449,
+    "scene_id": "G33-S05",
+    "title": "ವರದಿಂದ ಬಂದ ದೌರ್ಜನ್ಯ",
+    "group_id": "G33"
+  },
+  {
+    "order": 450,
+    "scene_id": "G33-S06",
+    "title": "ತಿಲೋತ್ತಮೆಯ ಆಗಮನ",
+    "group_id": "G33"
+  },
+  {
+    "order": 451,
+    "scene_id": "G33-S07",
+    "title": "ಒಗ್ಗಟ್ಟಿನ ಅಂತ್ಯ",
+    "group_id": "G33"
+  },
+  {
+    "order": 452,
+    "scene_id": "G33-S08",
+    "title": "ಕುಟುಂಬದ ಸಮಯಬಂಧ",
+    "group_id": "G33"
+  },
+  {
+    "order": 453,
+    "scene_id": "G34-S01",
+    "title": "ಎರಡು ಕರ್ತವ್ಯಗಳ ನಡುವೆ",
+    "group_id": "G34"
+  },
+  {
+    "order": 454,
+    "scene_id": "G34-S02",
+    "title": "ತಾನೇ ಸ್ವೀಕರಿಸಿದ ವನವಾಸ",
+    "group_id": "G34"
+  },
+  {
+    "order": 455,
+    "scene_id": "G34-S03",
+    "title": "ಉಲೂಪಿಯ ಲೋಕ",
+    "group_id": "G34"
+  },
+  {
+    "order": 456,
+    "scene_id": "G34-S04",
+    "title": "ತೀರ್ಥಗಳ ದಾರಿಯಲ್ಲಿ",
+    "group_id": "G34"
+  },
+  {
+    "order": 457,
+    "scene_id": "G34-S05",
+    "title": "ಚಿತ್ರಾಂಗದೆಯ ವಿವಾಹದ ಷರತ್ತು",
+    "group_id": "G34"
+  },
+  {
+    "order": 458,
+    "scene_id": "G34-S06",
+    "title": "ಮೊಸಳೆ ರೂಪದಲ್ಲಿದ್ದ ಅಪ್ಸರೆಯರು",
+    "group_id": "G34"
+  },
+  {
+    "order": 459,
+    "scene_id": "G34-S07",
+    "title": "ಮಗನನ್ನು ವಂಶಕ್ಕೆ ಒಪ್ಪಿಸಿದ ವಿದಾಯ",
+    "group_id": "G34"
+  },
+  {
+    "order": 460,
+    "scene_id": "G34-S08",
+    "title": "ಪ್ರಭಾಸದಲ್ಲಿ ಕೃಷ್ಣ",
+    "group_id": "G34"
+  },
+  {
+    "order": 461,
+    "scene_id": "G35-S01",
+    "title": "ರೈವತಕದ ಉತ್ಸವ",
+    "group_id": "G35"
+  },
+  {
+    "order": 462,
+    "scene_id": "G35-S02",
+    "title": "ಚಾತುರ್ಮಾಸ್ಯದ ಆಹ್ವಾನ",
+    "group_id": "G35"
+  },
+  {
+    "order": 463,
+    "scene_id": "G35-S03",
+    "title": "ಸುಭದ್ರೆಯ ಪ್ರಶ್ನೆಗಳು",
+    "group_id": "G35"
+  },
+  {
+    "order": 464,
+    "scene_id": "G35-S04",
+    "title": "ಗುರುತಿನ ಅರಿವು",
+    "group_id": "G35"
+  },
+  {
+    "order": 465,
+    "scene_id": "G35-S05",
+    "title": "ಈ ಪಾಠದಲ್ಲಿರುವ ವಿವಾಹ",
+    "group_id": "G35"
+  },
+  {
+    "order": 466,
+    "scene_id": "G35-S06",
+    "title": "ರಥದ ಪ್ರಯಾಣ",
+    "group_id": "G35"
+  },
+  {
+    "order": 467,
+    "scene_id": "G35-S07",
+    "title": "ವಿಪೃಥುವಿನ ತಡೆ",
+    "group_id": "G35"
+  },
+  {
+    "order": 468,
+    "scene_id": "G35-S08",
+    "title": "ವಿಪೃಥುವಿಗೆ ಮೊದಲೇ ತಿಳಿದಿದ್ದ ಸತ್ಯ",
+    "group_id": "G35"
+  },
+  {
+    "order": 469,
+    "scene_id": "G35-S09",
+    "title": "ಬಲರಾಮನ ಪ್ರಶ್ನೆ",
+    "group_id": "G35"
+  },
+  {
+    "order": 470,
+    "scene_id": "G36-S01",
+    "title": "ಕೃಷ್ಣನ ಸಮಾಧಾನ",
+    "group_id": "G36"
+  },
+  {
+    "order": 471,
+    "scene_id": "G36-S02",
+    "title": "ಇಂದ್ರಪ್ರಸ್ಥದ ಅಂಚಿನಲ್ಲಿ",
+    "group_id": "G36"
+  },
+  {
+    "order": 472,
+    "scene_id": "G36-S03",
+    "title": "ದ್ರೌಪದಿ ಮತ್ತು ಸುಭದ್ರೆ",
+    "group_id": "G36"
+  },
+  {
+    "order": 473,
+    "scene_id": "G36-S04",
+    "title": "ಯಾದವರ ಉಡುಗೊರೆಗಳು",
+    "group_id": "G36"
+  },
+  {
+    "order": 474,
+    "scene_id": "G36-S05",
+    "title": "ಸಾರ್ವಜನಿಕ ವಿವಾಹೋತ್ಸವ",
+    "group_id": "G36"
+  },
+  {
+    "order": 475,
+    "scene_id": "G36-S06",
+    "title": "ಅಭಿಮನ್ಯುವಿನ ಜನನ",
+    "group_id": "G36"
+  },
+  {
+    "order": 476,
+    "scene_id": "G36-S07",
+    "title": "ದ್ರೌಪದಿಯ ಐವರು ಪುತ್ರರು",
+    "group_id": "G36"
+  },
+  {
+    "order": 477,
+    "scene_id": "G36-S08",
+    "title": "ಕಥೆಯ ಕಾಲವನ್ನು ತಿಳಿಯುವುದು",
+    "group_id": "G36"
+  },
+  {
+    "order": 478,
+    "scene_id": "G37-S01",
+    "title": "ಯಮುನೆಯ ಹಸಿರು ತೀರ",
+    "group_id": "G37"
+  },
+  {
+    "order": 479,
+    "scene_id": "G37-S02",
+    "title": "ಅತಿಥಿಯ ನಿಜಪರಿಚಯ",
+    "group_id": "G37"
+  },
+  {
+    "order": 480,
+    "scene_id": "G37-S03",
+    "title": "ಶ್ವೇತಕಿಯ ನಿಲ್ಲದ ಯಜ್ಞಗಳು",
+    "group_id": "G37"
+  },
+  {
+    "order": 481,
+    "scene_id": "G37-S04",
+    "title": "ರುದ್ರನ ಪರೀಕ್ಷೆ ಮತ್ತು ದುರ್ವಾಸರ ಯಾಗ",
+    "group_id": "G37"
+  },
+  {
+    "order": 482,
+    "scene_id": "G37-S05",
+    "title": "ಕಾಡಿನ ಪ್ರತಿರೋಧ",
+    "group_id": "G37"
+  },
+  {
+    "order": 483,
+    "scene_id": "G37-S06",
+    "title": "ಅಸ್ತ್ರ ಮತ್ತು ರಥದ ಅಗತ್ಯ",
+    "group_id": "G37"
+  },
+  {
+    "order": 484,
+    "scene_id": "G37-S07",
+    "title": "ಹೊತ್ತಿಕೊಂಡ ಖಾಂಡವ",
+    "group_id": "G37"
+  },
+  {
+    "order": 485,
+    "scene_id": "G37-S08",
+    "title": "ಅಶ್ವಸೇನನ ಪಾರಾಗುವಿಕೆ",
+    "group_id": "G37"
+  },
+  {
+    "order": 486,
+    "scene_id": "G37-S09",
+    "title": "ಇಂದ್ರನ ಮಳೆ ಮತ್ತು ಸಮರ",
+    "group_id": "G37"
+  },
+  {
+    "order": 487,
+    "scene_id": "G38-S01",
+    "title": "ದೇವತೆಗಳ ಹಿಂತಿರುಗುವಿಕೆ",
+    "group_id": "G38"
+  },
+  {
+    "order": 488,
+    "scene_id": "G38-S02",
+    "title": "ಮಯನ ಕೂಗು",
+    "group_id": "G38"
+  },
+  {
+    "order": 489,
+    "scene_id": "G38-S03",
+    "title": "ಆರು ಜೀವಗಳ ಉಲ್ಲೇಖ",
+    "group_id": "G38"
+  },
+  {
+    "order": 490,
+    "scene_id": "G38-S04",
+    "title": "ಮಂದಪಾಲನ ಅಪೂರ್ಣತೆ",
+    "group_id": "G38"
+  },
+  {
+    "order": 491,
+    "scene_id": "G38-S05",
+    "title": "ಜರಿತೆಯ ನಾಲ್ಕು ಮಕ್ಕಳು",
+    "group_id": "G38"
+  },
+  {
+    "order": 492,
+    "scene_id": "G38-S06",
+    "title": "ಅಗ್ನಿಯಿಂದ ಪಡೆದ ಮಾತು",
+    "group_id": "G38"
+  },
+  {
+    "order": 493,
+    "scene_id": "G38-S07",
+    "title": "ತಾಯಿಯ ಮುಂದೆ ಅಸಾಧ್ಯ ಆಯ್ಕೆ",
+    "group_id": "G38"
+  },
+  {
+    "order": 494,
+    "scene_id": "G38-S08",
+    "title": "ಮಕ್ಕಳ ಮನವಿ",
+    "group_id": "G38"
+  },
+  {
+    "order": 495,
+    "scene_id": "G39-S01",
+    "title": "ಬಿಲದ ಬಗ್ಗೆ ವಾದ",
+    "group_id": "G39"
+  },
+  {
+    "order": 496,
+    "scene_id": "G39-S02",
+    "title": "ಜರಿತಾರಿಯ ಚಿಂತನೆ",
+    "group_id": "G39"
+  },
+  {
+    "order": 497,
+    "scene_id": "G39-S03",
+    "title": "ನಾಲ್ಕು ಧ್ವನಿಗಳ ಸ್ತೋತ್ರ",
+    "group_id": "G39"
+  },
+  {
+    "order": 498,
+    "scene_id": "G39-S04",
+    "title": "ಅಗ್ನಿಯ ಅಭಯ",
+    "group_id": "G39"
+  },
+  {
+    "order": 499,
+    "scene_id": "G39-S05",
+    "title": "ಲಪಿತೆಯ ಪ್ರಶ್ನೆ",
+    "group_id": "G39"
+  },
+  {
+    "order": 500,
+    "scene_id": "G39-S06",
+    "title": "ಜರಿತೆಯ ಬಳಿಗೆ ಮರಳಿದ ತಂದೆ",
+    "group_id": "G39"
+  },
+  {
+    "order": 501,
+    "scene_id": "G39-S07",
+    "title": "ಇಂದ್ರನ ವರದ ಷರತ್ತು",
+    "group_id": "G39"
+  },
+  {
+    "order": 502,
+    "scene_id": "G39-S08",
+    "title": "ನದೀತೀರದ ಮೂರು ವ್ಯಕ್ತಿಗಳು",
+    "group_id": "G39"
+  },
+  {
+    "order": 503,
+    "scene_id": "G39-S09",
+    "title": "ದಹನದ ಅವಧಿಯ ಪಾಠಭೇದ",
+    "group_id": "G39"
+  },
+  {
+    "order": 504,
+    "scene_id": "G40-S01",
+    "title": "ಉಪಕಾರಕ್ಕೆ ಬೆಲೆ ಕಟ್ಟದ ಅರ್ಜುನ",
+    "group_id": "G40"
+  },
+  {
+    "order": 505,
+    "scene_id": "G40-S02",
+    "title": "ಕೃಷ್ಣನ ನಿರ್ಮಾಣಸಂಕಲ್ಪ",
+    "group_id": "G40"
+  },
+  {
+    "order": 506,
+    "scene_id": "G40-S03",
+    "title": "ಪ್ರೀತಿಯಿಂದ ಬೀಳ್ಕೊಡುವ ಸಹೋದರರು",
+    "group_id": "G40"
+  },
+  {
+    "order": 507,
+    "scene_id": "G40-S04",
+    "title": "ಬಿಂದುಸರೋವರದ ಹಳೆಯ ಸಂಪತ್ತು",
+    "group_id": "G40"
+  },
+  {
+    "order": 508,
+    "scene_id": "SFSF01-S01",
+    "title": "ಗದೆಯೂ ಶಂಖವೂ ಬಂದ ಹಳೆಯ ತಾಣ",
+    "group_id": "SFSF01"
+  },
+  {
+    "order": 509,
+    "scene_id": "SFSF01-S02",
+    "title": "ಭಗೀರಥನ ನೆನಪಿನ ಸರೋವರ",
+    "group_id": "SFSF01"
+  },
+  {
+    "order": 510,
+    "scene_id": "SFSF01-S03",
+    "title": "ನಾರಾಯಣನ ಯಾಗಗಳ ಕ್ಷೇತ್ರ",
+    "group_id": "SFSF01"
+  },
+  {
+    "order": 511,
+    "scene_id": "SFSF01-S04",
+    "title": "ಕಿಂಕರರು, ಸ್ಫಟಿಕ ಮತ್ತು ಸರೋವರದ ನೆಲ",
+    "group_id": "SFSF01"
+  },
+  {
+    "order": 512,
+    "scene_id": "G40-S05",
+    "title": "ಹದಿನಾಲ್ಕು ತಿಂಗಳ ಶಿಲ್ಪ",
+    "group_id": "G40"
+  },
+  {
+    "order": 513,
+    "scene_id": "V4C01-S01",
+    "title": "ಧ್ವಜದ ಕುರಿತು ಮಯನ ಮಾತು",
+    "group_id": "V4C01"
+  },
+  {
+    "order": 514,
+    "scene_id": "G40-S06",
+    "title": "ಸಭಾಪ್ರವೇಶ ಮತ್ತು ಅತಿಥಿಸತ್ಕಾರ",
+    "group_id": "G40"
+  },
+  {
+    "order": 515,
+    "scene_id": "V4C02-S01",
+    "title": "ಹತ್ತು ಸಾವಿರ ಅತಿಥಿಗಳ ಭೋಜನ",
+    "group_id": "V4C02"
+  },
+  {
+    "order": 516,
+    "scene_id": "V4C02-S02",
+    "title": "ಋಷಿಗಳ ಹೆಸರುಗಳು: ಮೊದಲ ಸಾಲು",
+    "group_id": "V4C02"
+  },
+  {
+    "order": 517,
+    "scene_id": "V4C02-S03",
+    "title": "ಋಷಿಗಳ ಹೆಸರುಗಳು: ಮುಂದಿನ ಸಾಲು",
+    "group_id": "V4C02"
+  },
+  {
+    "order": 518,
+    "scene_id": "V4C02-S04",
+    "title": "ರಾಜರ ಹೆಸರುಗಳು: ಮೊದಲ ಬಳಗ",
+    "group_id": "V4C02"
+  },
+  {
+    "order": 519,
+    "scene_id": "V4C02-S05",
+    "title": "ರಾಜರು ಮತ್ತು ವೃಷ್ಣಿಕುಮಾರರ ಮುಂದಿನ ಬಳಗ",
+    "group_id": "V4C02"
+  },
+  {
+    "order": 520,
+    "scene_id": "V4C02-S06",
+    "title": "ಅರ್ಜುನನ ಬಳಿ ವಿದ್ಯೆ ಕಲಿಯುವ ರಾಜಕುಮಾರರು",
+    "group_id": "V4C02"
+  },
+  {
+    "order": 521,
+    "scene_id": "V4C02-S07",
+    "title": "ತುಂಬುರು ಮತ್ತು ಸಭೆಯ ಸಂಗೀತ",
+    "group_id": "V4C02"
+  },
+  {
+    "order": 522,
+    "scene_id": "G40-S07",
+    "title": "ನಾರದನ ಪ್ರಶ್ನೆಗಳೊಳಗಿನ ರಾಜನೀತಿ",
+    "group_id": "G40"
+  },
+  {
+    "order": 523,
+    "scene_id": "BS01-S01",
+    "title": "ಧರ್ಮ, ಅರ್ಥ ಮತ್ತು ಆಸೆಯ ನಡುವೆ ಸಮತೋಲನ",
+    "group_id": "BS01"
+  },
+  {
+    "order": 524,
+    "scene_id": "BS01-S02",
+    "title": "ಸಂಧಿ ಮತ್ತು ಸಂಘರ್ಷದ ಆರು ಮಾರ್ಗಗಳು",
+    "group_id": "BS01"
+  },
+  {
+    "order": 525,
+    "scene_id": "BS01-S03",
+    "title": "ಸಲಹೆಗಾರರ ಯೋಗ್ಯತೆ ಮತ್ತು ರಹಸ್ಯ",
+    "group_id": "BS01"
+  },
+  {
+    "order": 526,
+    "scene_id": "BS01-S04",
+    "title": "ನಿಯೋಜನೆ, ವರದಿ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಗೌರವ",
+    "group_id": "BS01"
+  },
+  {
+    "order": 527,
+    "scene_id": "BS01-S05",
+    "title": "ಸೈನಿಕರ ವೇತನ ಮತ್ತು ಅವರ ಕುಟುಂಬಗಳು",
+    "group_id": "BS01"
+  },
+  {
+    "order": 528,
+    "scene_id": "BS01-S06",
+    "title": "ಲೆಕ್ಕಪತ್ರ ಮತ್ತು ಅಧಿಕಾರಿಗಳ ಪರಿಶೀಲನೆ",
+    "group_id": "BS01"
+  },
+  {
+    "order": 529,
+    "scene_id": "BS01-S07",
+    "title": "ಮಳೆಯನ್ನೇ ಕಾಯದ ಕೃಷಿ",
+    "group_id": "BS01"
+  },
+  {
+    "order": 530,
+    "scene_id": "BS01-S08",
+    "title": "ಆರೋಗ್ಯ, ಸುರಕ್ಷತೆ ಮತ್ತು ಜೀವನೋಪಾಯ",
+    "group_id": "BS01"
+  },
+  {
+    "order": 531,
+    "scene_id": "BS01-S09",
+    "title": "ಬಡವ–ಶ್ರೀಮಂತ ಇಬ್ಬರಿಗೂ ನ್ಯಾಯ",
+    "group_id": "BS01"
+  },
+  {
+    "order": 532,
+    "scene_id": "BS01-S10",
+    "title": "ಹದಿನಾಲ್ಕು ರಾಜದೋಷಗಳು",
+    "group_id": "BS01"
+  },
+  {
+    "order": 533,
+    "scene_id": "BS01-S11",
+    "title": "ಕಲಿತ ವಿದ್ಯೆಯ ಫಲ ನಡೆನುಡಿಯಲ್ಲಿ",
+    "group_id": "BS01"
+  },
+  {
+    "order": 534,
+    "scene_id": "BS01-S12",
+    "title": "ವ್ಯಾಪಾರಿಗಳಿಗೆ ತೆರಿಗೆ, ಕೆಲಸಗಾರರಿಗೆ ಉಪಕರಣ",
+    "group_id": "BS01"
+  },
+  {
+    "order": 535,
+    "scene_id": "BS01-S13",
+    "title": "ಅಪಾಯಗಳಿಂದ ರಕ್ಷಣೆ ಮತ್ತು ವಿಶೇಷ ನೆರವು",
+    "group_id": "BS01"
+  },
+  {
+    "order": 536,
+    "scene_id": "G40-S08",
+    "title": "ಪ್ರಜೆಗಳ ಬದುಕೇ ರಾಜನ ಪರೀಕ್ಷೆ",
+    "group_id": "G40"
+  },
+  {
+    "order": 537,
+    "scene_id": "G41-S01",
+    "title": "ಇನ್ನೂ ಯಾವ ಸಭೆಗಳನ್ನು ಕಂಡಿದ್ದೀರಿ?",
+    "group_id": "G41"
+  },
+  {
+    "order": 538,
+    "scene_id": "G41-S02",
+    "title": "ಇಂದ್ರನ ಪ್ರಕಾಶಮಾನ ಸಭೆ",
+    "group_id": "G41"
+  },
+  {
+    "order": 539,
+    "scene_id": "BS02-S01",
+    "title": "ಇಂದ್ರಸಭೆಯ ಋಷಿಗಳ ಹೆಸರುಗಳು",
+    "group_id": "BS02"
+  },
+  {
+    "order": 540,
+    "scene_id": "V4C03-S01",
+    "title": "ಪುಷ್ಕರಮಾಲಿನಿಯ ಅಳತೆ ಮತ್ತು ಸ್ವರೂಪ",
+    "group_id": "V4C03"
+  },
+  {
+    "order": 541,
+    "scene_id": "V4C03-S02",
+    "title": "ಇಂದ್ರನ ಸುತ್ತಲಿನ ಋಷಿಗಳು: ಮೊದಲ ಬಳಗ",
+    "group_id": "V4C03"
+  },
+  {
+    "order": 542,
+    "scene_id": "V4C03-S03",
+    "title": "ಇಂದ್ರನ ಸುತ್ತಲಿನ ಋಷಿಗಳು: ಎರಡನೆಯ ಬಳಗ",
+    "group_id": "V4C03"
+  },
+  {
+    "order": 543,
+    "scene_id": "V4C03-S04",
+    "title": "ತತ್ತ್ವಗಳು ಮತ್ತು ಯಜ್ಞದ ಅಭಿಮಾನಿದೇವತೆಗಳು",
+    "group_id": "V4C03"
+  },
+  {
+    "order": 544,
+    "scene_id": "V4C03-S05",
+    "title": "ಅಪ್ಸರೆಯರು, ಗಂಧರ್ವರು ಮತ್ತು ನಿತ್ಯ ಅತಿಥಿಗಳು",
+    "group_id": "V4C03"
+  },
+  {
+    "order": 545,
+    "scene_id": "G41-S03",
+    "title": "ಯಮನ ಸಭೆ: ಭಯಕ್ಕಿಂತ ಶಾಂತಿ",
+    "group_id": "G41"
+  },
+  {
+    "order": 546,
+    "scene_id": "BS02-S02",
+    "title": "ಒಂದೇ ಹೆಸರು ಎಂದರೆ ಒಂದೇ ವ್ಯಕ್ತಿಯಲ್ಲ",
+    "group_id": "BS02"
+  },
+  {
+    "order": 547,
+    "scene_id": "V4C04-S01",
+    "title": "ಯಮಸಭೆಯ ಪ್ರಕಾಶ ಮತ್ತು ಸಮತೋಲನ",
+    "group_id": "V4C04"
+  },
+  {
+    "order": 548,
+    "scene_id": "V4C04-S02",
+    "title": "ಯಮಸಭೆಯ ರಾಜರು: ಮೊದಲ ನಾಮಸಾಲು",
+    "group_id": "V4C04"
+  },
+  {
+    "order": 549,
+    "scene_id": "V4C04-S03",
+    "title": "ಯಮಸಭೆಯ ರಾಜರು: ಎರಡನೆಯ ನಾಮಸಾಲು",
+    "group_id": "V4C04"
+  },
+  {
+    "order": 550,
+    "scene_id": "V4C04-S04",
+    "title": "ಯಮಸಭೆಯ ರಾಜರು: ಮೂರನೆಯ ನಾಮಸಾಲು",
+    "group_id": "V4C04"
+  },
+  {
+    "order": 551,
+    "scene_id": "V4C04-S05",
+    "title": "ಮತ್ತೆ ಮತ್ತೆ ಬರುವ ರಾಜನಾಮಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳು",
+    "group_id": "V4C04"
+  },
+  {
+    "order": 552,
+    "scene_id": "V4C04-S06",
+    "title": "ಪಿತೃಗಣಗಳು ಮತ್ತು ಕಾಲದ ಉಪಸ್ಥಿತಿ",
+    "group_id": "V4C04"
+  },
+  {
+    "order": 553,
+    "scene_id": "V4C04-S07",
+    "title": "ತಪಸ್ಸಿನಿಂದ ಕಟ್ಟಿದ ಸಭೆಯ ಅಂತಿಮ ನೋಟ",
+    "group_id": "V4C04"
+  },
+  {
+    "order": 554,
+    "scene_id": "G41-S04",
+    "title": "ವರುಣನ ಜಲಮಯ ಸಭೆ",
+    "group_id": "G41"
+  },
+  {
+    "order": 555,
+    "scene_id": "BS02-S03",
+    "title": "ವರುಣನ ಸಭೆಯಲ್ಲಿ ನಾಗರು ಮತ್ತು ನದಿಗಳು",
+    "group_id": "BS02"
+  },
+  {
+    "order": 556,
+    "scene_id": "V4C05-S01",
+    "title": "ನೀರಿನ ಮಧ್ಯದ ಶುಭ್ರ ಸಭೆ",
+    "group_id": "V4C05"
+  },
+  {
+    "order": 557,
+    "scene_id": "V4C05-S02",
+    "title": "ವರುಣಸಭೆಯ ನಾಗರು: ಮೊದಲ ನಾಮಸಾಲು",
+    "group_id": "V4C05"
+  },
+  {
+    "order": 558,
+    "scene_id": "V4C05-S03",
+    "title": "ವರುಣಸಭೆಯ ನಾಗರು: ಎರಡನೆಯ ನಾಮಸಾಲು",
+    "group_id": "V4C05"
+  },
+  {
+    "order": 559,
+    "scene_id": "V4C05-S04",
+    "title": "ಶೇಷನಿಗೆ ಗೌರವ ಮತ್ತು ಗರುಡನ ಉಪಸ್ಥಿತಿ",
+    "group_id": "V4C05"
+  },
+  {
+    "order": 560,
+    "scene_id": "V4C05-S05",
+    "title": "ದೈತ್ಯದಾನವರ ಹೆಸರುಗಳು",
+    "group_id": "V4C05"
+  },
+  {
+    "order": 561,
+    "scene_id": "V4C05-S06",
+    "title": "ನದಿಗಳು ಮತ್ತು ಸಮುದ್ರಗಳ ಪೂರ್ಣ ಪಟ್ಟಿ",
+    "group_id": "V4C05"
+  },
+  {
+    "order": 562,
+    "scene_id": "V4C05-S07",
+    "title": "ಜಲಮೂಲಗಳು, ದಿಕ್ಕುಗಳು ಮತ್ತು ಸುನಾಭನ ಸೇವೆ",
+    "group_id": "V4C05"
+  },
+  {
+    "order": 563,
+    "scene_id": "G41-S05",
+    "title": "ಕುಬೇರನ ಸಭೆಯ ಐಶ್ವರ್ಯ",
+    "group_id": "G41"
+  },
+  {
+    "order": 564,
+    "scene_id": "BS02-S04",
+    "title": "ಕುಬೇರನ ಸಭೆಯ ಕಲಾಸಮೂಹ",
+    "group_id": "BS02"
+  },
+  {
+    "order": 565,
+    "scene_id": "V4C06-S01",
+    "title": "ಚಂದ್ರಕಾಂತಿಯ ಸಭೆ ಮತ್ತು ಋದ್ಧಿ",
+    "group_id": "V4C06"
+  },
+  {
+    "order": 566,
+    "scene_id": "V4C06-S02",
+    "title": "ಅಪ್ಸರೆಯರ ಸಂಪೂರ್ಣ ನಾಮಸಾಲು",
+    "group_id": "V4C06"
+  },
+  {
+    "order": 567,
+    "scene_id": "V4C06-S03",
+    "title": "ಗಂಧರ್ವರು, ವಿದ್ಯಾಧರರು ಮತ್ತು ನಿಧಿಗಳು",
+    "group_id": "V4C06"
+  },
+  {
+    "order": 568,
+    "scene_id": "V4C06-S04",
+    "title": "ಯಕ್ಷರ ಪೂರ್ಣ ನಾಮಸಾಲು",
+    "group_id": "V4C06"
+  },
+  {
+    "order": 569,
+    "scene_id": "V4C06-S05",
+    "title": "ಪರ್ವತಗಳು ಮತ್ತು ರುದ್ರನ ಪರಿವಾರ",
+    "group_id": "V4C06"
+  },
+  {
+    "order": 570,
+    "scene_id": "V4C06-S06",
+    "title": "ಮಿತ್ರನಿಗೆ ಕುಬೇರನ ಗೌರವ",
+    "group_id": "V4C06"
+  },
+  {
+    "order": 571,
+    "scene_id": "G41-S06",
+    "title": "ವರ್ಣನೆಗೆ ಸಿಗದ ಬ್ರಹ್ಮಸಭೆ",
+    "group_id": "G41"
+  },
+  {
+    "order": 572,
+    "scene_id": "BS02-S05",
+    "title": "ಬ್ರಹ್ಮಸಭೆಯಲ್ಲಿ ಜ್ಞಾನಕ್ಕೂ ವ್ಯಕ್ತಿರೂಪ",
+    "group_id": "BS02"
+  },
+  {
+    "order": 573,
+    "scene_id": "BS02-S06",
+    "title": "ಪಟ್ಟಿ ಮತ್ತು ಕಥೆಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸ",
+    "group_id": "BS02"
+  },
+  {
+    "order": 574,
+    "scene_id": "V4C07-S01",
+    "title": "ಸೂರ್ಯನು ತೋರಿಸಿದ ದಾರಿ",
+    "group_id": "V4C07"
+  },
+  {
+    "order": 575,
+    "scene_id": "V4C07-S02",
+    "title": "ರೂಪ ಬದಲಿಸುವ, ಕಂಬವಿಲ್ಲದ ಸಭೆ",
+    "group_id": "V4C07"
+  },
+  {
+    "order": 576,
+    "scene_id": "V4C07-S03",
+    "title": "ಪ್ರಜಾಪತಿಗಳು ಮತ್ತು ಋಷಿಗಳ ಹೆಸರುಗಳು",
+    "group_id": "V4C07"
+  },
+  {
+    "order": 577,
+    "scene_id": "V4C07-S04",
+    "title": "ಮನಸ್ಸಿನಿಂದ ಪಂಚಭೂತಗಳವರೆಗೆ",
+    "group_id": "V4C07"
+  },
+  {
+    "order": 578,
+    "scene_id": "V4C07-S05",
+    "title": "ವೇದಗಳು, ಭಾಷ್ಯಗಳು ಮತ್ತು ಕಾಲದ ಅಳತೆಗಳು",
+    "group_id": "V4C07"
+  },
+  {
+    "order": 579,
+    "scene_id": "V4C07-S06",
+    "title": "ದೇವಮಾತೆಯರು ಮತ್ತು ದೇವಿಯರ ಪೂರ್ಣ ನಾಮಪಟ್ಟಿ",
+    "group_id": "V4C07"
+  },
+  {
+    "order": 580,
+    "scene_id": "V4C07-S07",
+    "title": "ಏಳು ಪಿತೃಗಣಗಳು ಮತ್ತು ಸಕಲ ಜೀವವರ್ಗಗಳು",
+    "group_id": "V4C07"
+  },
+  {
+    "order": 581,
+    "scene_id": "V4C07-S08",
+    "title": "ಬರುವ ಅತಿಥಿಗಳಿಗೆ ಬ್ರಹ್ಮನ ಸತ್ಕಾರ",
+    "group_id": "V4C07"
+  },
+  {
+    "order": 582,
+    "scene_id": "V4C08-S01",
+    "title": "ಮಾಧ್ವ ವ್ಯಾಖ್ಯಾನದ ಲೋಕಕ್ರಮ ಮತ್ತು ಅಳತೆ",
+    "group_id": "V4C08"
+  },
+  {
+    "order": 583,
+    "scene_id": "V4C08-S02",
+    "title": "ಯಾವ ಸಭೆಯಲ್ಲಿ ಹರಿಯ ಯಾವ ರೂಪ?",
+    "group_id": "V4C08"
+  },
+  {
+    "order": 584,
+    "scene_id": "G41-S07",
+    "title": "ಹರಿಶ್ಚಂದ್ರನ ಸ್ಥಾನ ಏಕೆ ವಿಶೇಷ?",
+    "group_id": "G41"
+  },
+  {
+    "order": 585,
+    "scene_id": "G41-S08",
+    "title": "ಪಾಂಡುವಿನ ಸಂದೇಶ",
+    "group_id": "G41"
+  },
+  {
+    "order": 586,
+    "scene_id": "G42-S01",
+    "title": "ಒಳ್ಳೆಯ ರಾಜ್ಯದಿಂದ ದೊಡ್ಡ ಸಂಕಲ್ಪದವರೆಗೆ",
+    "group_id": "G42"
+  },
+  {
+    "order": 587,
+    "scene_id": "G42-S02",
+    "title": "ಪ್ರಿಯವಾದ ಮಾತೇ ಹಿತವಾದ ಮಾತೇ?",
+    "group_id": "G42"
+  },
+  {
+    "order": 588,
+    "scene_id": "G42-S03",
+    "title": "ಇಂದ್ರಪ್ರಸ್ಥಕ್ಕೆ ಕೃಷ್ಣನ ಆಗಮನ",
+    "group_id": "G42"
+  },
+  {
+    "order": 589,
+    "scene_id": "G42-S04",
+    "title": "ಒಬ್ಬ ರಾಜನ ಹಿಂದೆ ನಿಂತಿರುವ ಅನೇಕ ರಾಜ್ಯಗಳು",
+    "group_id": "G42"
+  },
+  {
+    "order": 590,
+    "scene_id": "G42-S05",
+    "title": "ಮಥುರೆಯಿಂದ ದ್ವಾರಕೆಗೆ: ಹಳೆಯ ವೈರವಿನ ನೆರಳು",
+    "group_id": "G42"
+  },
+  {
+    "order": 591,
+    "scene_id": "BS03-S01",
+    "title": "ಹಂಸ ಎಂಬ ಹೆಸರಿನ ಇಬ್ಬರು",
+    "group_id": "BS03"
+  },
+  {
+    "order": 592,
+    "scene_id": "BS03-S02",
+    "title": "ತಪ್ಪು ಸುದ್ದಿಯ ಪರಿಣಾಮ",
+    "group_id": "BS03"
+  },
+  {
+    "order": 593,
+    "scene_id": "G42-S06",
+    "title": "ಜರಾಸಂಧನ ಬಂಧನದಲ್ಲಿರುವ ರಾಜರು",
+    "group_id": "G42"
+  },
+  {
+    "order": 594,
+    "scene_id": "G42-S07",
+    "title": "ಧರ್ಮರಾಜನ ಹಿಂಜರಿಕೆ",
+    "group_id": "G42"
+  },
+  {
+    "order": 595,
+    "scene_id": "G42-S08",
+    "title": "ಭೀಮನ ಉತ್ತರ: ಬಲಕ್ಕೆ ನೀತಿಯ ಜೊತೆಯಾಗಬೇಕು",
+    "group_id": "G42"
+  },
+  {
+    "order": 596,
+    "scene_id": "G42-S09",
+    "title": "ಕಣ್ಣುಗಳು ಮತ್ತು ಮನಸ್ಸು",
+    "group_id": "G42"
+  },
+  {
+    "order": 597,
+    "scene_id": "G43-S01",
+    "title": "ಬೃಹದ್ರಥನ ಸಂತಾನದುಃಖ",
+    "group_id": "G43"
+  },
+  {
+    "order": 598,
+    "scene_id": "G43-S02",
+    "title": "ಒಂದು ಹಣ್ಣು, ಎರಡು ಪಾಲು",
+    "group_id": "G43"
+  },
+  {
+    "order": 599,
+    "scene_id": "G43-S03",
+    "title": "ಜರೆಯ ಕೈಯಲ್ಲಿ ಪೂರ್ಣವಾದ ಮಗು",
+    "group_id": "G43"
+  },
+  {
+    "order": 600,
+    "scene_id": "SFSF02-S01",
+    "title": "ಮನೆಯ ಪೂಜೆಗೆ ಮರಳಿದ ಉಪಕಾರ",
+    "group_id": "SFSF02"
+  },
+  {
+    "order": 601,
+    "scene_id": "G43-S04",
+    "title": "ಜರಾಸಂಧ ಎಂಬ ಹೆಸರಿನ ಅರ್ಥ",
+    "group_id": "G43"
+  },
+  {
+    "order": 602,
+    "scene_id": "SFSF03-S01",
+    "title": "ಮುನಿಯ ಮರಳಿಕೆ ಮತ್ತು ಶಸ್ತ್ರದ ಮಿತಿ",
+    "group_id": "SFSF03"
+  },
+  {
+    "order": 603,
+    "scene_id": "SFSF03-S02",
+    "title": "ಸಂಪತ್ತು, ಆಡಳಿತ ಮತ್ತು ರುದ್ರನ ದರ್ಶನ",
+    "group_id": "SFSF03"
+  },
+  {
+    "order": 604,
+    "scene_id": "G43-S05",
+    "title": "ಬೆಳೆದ ಶಕ್ತಿ ಮತ್ತು ಕಂಸನ ಸಂಬಂಧ",
+    "group_id": "G43"
+  },
+  {
+    "order": 605,
+    "scene_id": "SFSF04-S01",
+    "title": "ಗದಾವಸಾನ ಎಂಬ ಸ್ಥಳದ ಹೆಸರು",
+    "group_id": "SFSF04"
+  },
+  {
+    "order": 606,
+    "scene_id": "SFSF04-S02",
+    "title": "ನೀತಿ, ಬಲ ಮತ್ತು ರಕ್ಷಣೆಯ ಮೂರು ಪಾತ್ರಗಳು",
+    "group_id": "SFSF04"
+  },
+  {
+    "order": 607,
+    "scene_id": "G43-S06",
+    "title": "ಮೂರು ಮಂದಿ, ದೊಡ್ಡ ಕಾರ್ಯ",
+    "group_id": "G43"
+  },
+  {
+    "order": 608,
+    "scene_id": "SFSF05-S01",
+    "title": "ಕುರುಜಾಂಗಲದಿಂದ ಮಿಥಿಲೆಯವರೆಗೆ",
+    "group_id": "SFSF05"
+  },
+  {
+    "order": 609,
+    "scene_id": "SFSF05-S02",
+    "title": "ಗಂಗಾ, ಶೋಣ ಮತ್ತು ಗೋರಥದ ನೋಟ",
+    "group_id": "SFSF05"
+  },
+  {
+    "order": 610,
+    "scene_id": "SFSF05-S03",
+    "title": "ಐದು ಬೆಟ್ಟಗಳ ರಕ್ಷಣೆ",
+    "group_id": "SFSF05"
+  },
+  {
+    "order": 611,
+    "scene_id": "SFSF05-S04",
+    "title": "ಗೌತಮರ ವಾಸಸ್ಥಾನ ಮತ್ತು ಕಕ್ಷೀವಂತರ ತಪಸ್ಸು",
+    "group_id": "SFSF05"
+  },
+  {
+    "order": 612,
+    "scene_id": "SFSF05-S05",
+    "title": "ನಾಗಸ್ಥಾನಗಳು ಮತ್ತು ಪರ್ವತಗಳ ಮತ್ತೊಂದು ಪರಿಚಯ",
+    "group_id": "SFSF05"
+  },
+  {
+    "order": 613,
+    "scene_id": "G43-S07",
+    "title": "ಗಿರಿವ್ರಜದ ಬೆಟ್ಟಗಳು ಮತ್ತು ಭೇರಿಗಳು",
+    "group_id": "G43"
+  },
+  {
+    "order": 614,
+    "scene_id": "BS03-S03",
+    "title": "ಭೇರಿಗಳ ಹಿಂದಿನ ಬೃಹದ್ರಥನ ಕಥೆ",
+    "group_id": "BS03"
+  },
+  {
+    "order": 615,
+    "scene_id": "SFSF06-S01",
+    "title": "ಅಪಶಕುನ ಮತ್ತು ಬಲಾತ್ಕಾರವಾಗಿ ಪಡೆದ ಅಲಂಕಾರ",
+    "group_id": "SFSF06"
+  },
+  {
+    "order": 616,
+    "scene_id": "G43-S08",
+    "title": "ಮಧ್ಯರಾತ್ರಿಯ ಅತಿಥಿಗಳು",
+    "group_id": "G43"
+  },
+  {
+    "order": 617,
+    "scene_id": "BS03-S04",
+    "title": "ಹೂಮಾಲೆ ಮತ್ತು ಬಾಹುಗಳ ಗುರುತುಗಳು",
+    "group_id": "BS03"
+  },
+  {
+    "order": 618,
+    "scene_id": "G43-S09",
+    "title": "ಹೆಸರುಗಳೂ ಉದ್ದೇಶವೂ ಬಹಿರಂಗ",
+    "group_id": "G43"
+  },
+  {
+    "order": 619,
+    "scene_id": "BS03-S05",
+    "title": "ಬಂಧನದ ಧರ್ಮವಿವಾದ",
+    "group_id": "BS03"
+  },
+  {
+    "order": 620,
+    "scene_id": "G44-S01",
+    "title": "ಜನಮೇಜಯನ ಪ್ರಶ್ನೆ: ಕಂಸನ ಸಂಬಂಧವೇನು?",
+    "group_id": "G44"
+  },
+  {
+    "order": 621,
+    "scene_id": "G44-S02",
+    "title": "ದೇವಕಿಯ ವಿವಾಹದಲ್ಲಿ ಕೇಳಿದ ಭವಿಷ್ಯವಾಣಿ",
+    "group_id": "G44"
+  },
+  {
+    "order": 622,
+    "scene_id": "G44-S03",
+    "title": "ಬಲರಾಮ ಮತ್ತು ಕೃಷ್ಣರ ರಕ್ಷಣೆ",
+    "group_id": "G44"
+  },
+  {
+    "order": 623,
+    "scene_id": "G44-S04",
+    "title": "ಕಂಸನ ಅಂತ್ಯ, ಜರಾಸಂಧನ ಪ್ರತೀಕಾರ",
+    "group_id": "G44"
+  },
+  {
+    "order": 624,
+    "scene_id": "G44-S05",
+    "title": "ಭೀಮನನ್ನು ಆರಿಸಿಕೊಂಡ ಜರಾಸಂಧ",
+    "group_id": "G44"
+  },
+  {
+    "order": 625,
+    "scene_id": "G44-S06",
+    "title": "ಗದೆಯಿಂದ ಮುಷ್ಟಿಯುದ್ಧಕ್ಕೆ: ವ್ಯಾಖ್ಯಾನದ ಹೆಚ್ಚುವರಿ ವಿವರ",
+    "group_id": "G44"
+  },
+  {
+    "order": 626,
+    "scene_id": "G44-S07",
+    "title": "ದೀರ್ಘವಾದ ಮಲ್ಲಯುದ್ಧ",
+    "group_id": "G44"
+  },
+  {
+    "order": 627,
+    "scene_id": "BS03-S06",
+    "title": "ಹದಿನೈದು ದಿನಗಳ ಕಾಲಮಾನ",
+    "group_id": "BS03"
+  },
+  {
+    "order": 628,
+    "scene_id": "G44-S08",
+    "title": "ವಾಯುಬಲವನ್ನು ನೆನಪಿಸಿದ ಕೃಷ್ಣ",
+    "group_id": "G44"
+  },
+  {
+    "order": 629,
+    "scene_id": "G44-S09",
+    "title": "ಮುಚ್ಚಿದ್ದ ಬಾಗಿಲು ತೆರೆಯಿತು",
+    "group_id": "G44"
+  },
+  {
+    "order": 630,
+    "scene_id": "G44-S10",
+    "title": "ಮಗಧದ ಸಹದೇವ ಮತ್ತು ಹೊಸ ಆಡಳಿತ",
+    "group_id": "G44"
+  },
+  {
+    "order": 631,
+    "scene_id": "G44-S11",
+    "title": "ವ್ಯಾಖ್ಯಾನದಲ್ಲಿ ಬರುವ ವಿವಾಹಸಂಬಂಧ",
+    "group_id": "G44"
+  },
+  {
+    "order": 632,
+    "scene_id": "BS03-S07",
+    "title": "ನಕುಲ–ಸಹದೇವ ಮತ್ತು ಉಷೆಯ ವ್ಯಾಖ್ಯಾನ",
+    "group_id": "BS03"
+  },
+  {
+    "order": 633,
+    "scene_id": "G44-S12",
+    "title": "ರಥದ ಹಿಂದಿನ ವಂಶಪರಂಪರೆ",
+    "group_id": "G44"
+  },
+  {
+    "order": 634,
+    "scene_id": "BS03-S08",
+    "title": "ಜಯದ ಧಾರ್ಮಿಕ ಅರ್ಥ ಮತ್ತು ರಾಜಕೀಯ ಫಲ",
+    "group_id": "BS03"
+  },
+  {
+    "order": 635,
+    "scene_id": "G44-S13",
+    "title": "ಇಂದ್ರಪ್ರಸ್ಥಕ್ಕೆ ಮರಳಿದ ಶುಭಸುದ್ದಿ",
+    "group_id": "G44"
+  }
+]

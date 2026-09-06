@@ -1,0 +1,591 @@
+{
+  "scope": "Four OCR files. Adiparva1–237 plus Sabhaparva1–24 only; not the whole18-parva epic.",
+  "language": "Kannada translation and Sanskrit text in Kannada script; modern commentary and editorial apparatus.",
+  "line_number_method": "1-based Python str.splitlines on UTF-8 text decoded from ZIP; audit copies match source bytes.",
+  "volumes": [
+    {
+      "volume": 1,
+      "filename": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "bytes": 2259401,
+      "sha256": "80e38a377976a08d549764e5b0d363674552dfb1b94e0408d8bdd7cdcae89f2d",
+      "lines": 32786,
+      "story_chapters": "Adi1–63"
+    },
+    {
+      "volume": 2,
+      "filename": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "bytes": 2339861,
+      "sha256": "afca628f7be2ce9adbedf5cacca0ea7ca79e7d29328ff02d4d4ee7878ea310ab",
+      "lines": 35711,
+      "story_chapters": "Adi64–131"
+    },
+    {
+      "volume": 3,
+      "filename": "MAHABHARATA-3-AADIPARVA_djvu.txt",
+      "bytes": 2040336,
+      "sha256": "c597d4c6ce09fb89f454f588bfb9395c7dc96db13ccd860c383695eff22cd542",
+      "lines": 31395,
+      "story_chapters": "Adi132–199 plus opening commentary"
+    },
+    {
+      "volume": 4,
+      "filename": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "bytes": 2046608,
+      "sha256": "2149bc11b2b2b2accd4258361d885e5144968ed61ba360a1ff92d79ff7a9a3ce",
+      "lines": 31419,
+      "story_chapters": "Adi200–237, Sabha1–24"
+    }
+  ],
+  "front_matter": [
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 1,
+      "line_end": 147,
+      "title": "Bibliographic and devotional front matter",
+      "summary_en": "Title, translator P. S. Sheshagiri Acharya, publisher Tattvasamshodhana Samsat at Palimaru Matha, publication project and credits; present credits, not story events."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 148,
+      "line_end": 218,
+      "title": "Blessing message 1",
+      "summary_en": "Pejavara message: epic study and the value of the publication, explicitly devotional endorsement."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 219,
+      "line_end": 271,
+      "title": "Blessing message 2",
+      "summary_en": "Adamaru message: epic study, teaching, publication and blessings."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 272,
+      "line_end": 379,
+      "title": "Blessing message 3",
+      "summary_en": "Devotional message connecting epic study and ethical life; retain as attributed introductory view."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 380,
+      "line_end": 434,
+      "title": "Blessing message 4",
+      "summary_en": "Sode/Vadiraja Matha message and blessings; retain as attributed introduction."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 435,
+      "line_end": 616,
+      "title": "The greatness of the Mahabharata",
+      "summary_en": "Devotional explanation of Vyasa and the epic through scriptural references; OCR contains duplication around this essay."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 617,
+      "line_end": 737,
+      "title": "On textual research",
+      "summary_en": "Northern and southern recensions, printed and manuscript witnesses, Tatparyanirnaya and the need for editorial choice."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 738,
+      "line_end": 822,
+      "title": "Lakshalankara and Vadiraja",
+      "summary_en": "Commentarial approach and the place of Vadiraja in this edition."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 823,
+      "line_end": 864,
+      "title": "Ancient manuscripts",
+      "summary_en": "Manuscript evidence used by the editors."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 865,
+      "line_end": 921,
+      "title": "Contributions of the eight mathas",
+      "summary_en": "Institutional preservation and support for the edition."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 922,
+      "line_end": 1172,
+      "title": "Readings in palm-leaf manuscripts",
+      "summary_en": "Examples of variant readings; not new dramatic plot."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 1173,
+      "line_end": 1563,
+      "title": "Interpretive examples from Lakshalankara",
+      "summary_en": "Eighteen numbered examples and translator conclusion; lexical and theological issues should remain attributed commentary."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 1564,
+      "line_end": 1715,
+      "title": "About Adiparva",
+      "summary_en": "Edition numbers Adi1–237; contrasts218 and200 schemes. Explicitly repeats Puru genealogy as chapters63 and83. Notes Yayati-before-Dushyanta order, Parashara/Satyavati, Kaninka dispute and Draupadi interpretation."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 1716,
+      "line_end": 2024,
+      "title": "Publisher statement and acknowledgements",
+      "summary_en": "Purpose, translation method, lexical examples, doctrinal framing and credits to patrons, scholars, proofreaders and production contributors."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 2025,
+      "line_end": 2477,
+      "title": "The importance of the Mahabharata",
+      "summary_en": "Ethical, educational and cultural claims made by the introductory author; do not present sweeping claims as independently established facts."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 2478,
+      "line_end": 2606,
+      "title": "How to determine a sound reading",
+      "summary_en": "Introductory author explains the edition's criteria and opening invocation preference."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 2607,
+      "line_end": 2683,
+      "title": "Bhandarkar institute discussion",
+      "summary_en": "Acknowledges the critical-edition undertaking and describes disagreements from this edition's standpoint."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 2684,
+      "line_end": 2921,
+      "title": "Previous research and publications",
+      "summary_en": "Historical review of earlier edited/printed versions; individual names/dates require checking against scan before screen use."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 2922,
+      "line_end": 2947,
+      "title": "Manuscripts examined",
+      "summary_en": "Witness descriptions."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 2948,
+      "line_end": 2974,
+      "title": "Commentaries",
+      "summary_en": "Commentarial witnesses."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 2975,
+      "line_end": 3048,
+      "title": "Problems of northern readings",
+      "summary_en": "Edition-specific textual criticism, not a universal verdict on all traditions."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 3049,
+      "line_end": 3168,
+      "title": "New contributions to Sanskrit and conclusion",
+      "summary_en": "Editorial rationale and concluding attribution to Bemmatti Venkateshacharya."
+    },
+    {
+      "volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "line_start": 3169,
+      "line_end": 3715,
+      "title": "Contents and navigation",
+      "summary_en": "Contents outline; overlapping/repeated OCR contents starts again at3306."
+    },
+    {
+      "volume": 2,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 1,
+      "line_end": 99,
+      "title": "Volume2 title and credits",
+      "summary_en": "No substantial standalone narrative preface detected; same translator and publisher project."
+    },
+    {
+      "volume": 2,
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 100,
+      "line_end": 490,
+      "title": "Volume2 contents",
+      "summary_en": "Maps Adi64–131; story continuation starts491."
+    },
+    {
+      "volume": 3,
+      "source_file": "MAHABHARATA-3-AADIPARVA_djvu.txt",
+      "line_start": 1,
+      "line_end": 106,
+      "title": "Volume3 title and credits",
+      "summary_en": "Same edition; no separate long preface detected."
+    },
+    {
+      "volume": 3,
+      "source_file": "MAHABHARATA-3-AADIPARVA_djvu.txt",
+      "line_start": 107,
+      "line_end": 667,
+      "title": "Volume3 contents",
+      "summary_en": "Maps Adi132–199."
+    },
+    {
+      "volume": 3,
+      "source_file": "MAHABHARATA-3-AADIPARVA_djvu.txt",
+      "line_start": 668,
+      "line_end": 811,
+      "title": "Opening Tatparyanirnaya commentary",
+      "summary_en": "Drona's training and Arjuna's promise; a story/commentary bridge preceding Adi132, not merely administrative front matter."
+    },
+    {
+      "volume": 4,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 1,
+      "line_end": 119,
+      "title": "Volume4 title and credits",
+      "summary_en": "Title explicitly includes both Adiparva and Sabhaparva."
+    },
+    {
+      "volume": 4,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 120,
+      "line_end": 362,
+      "title": "About Sabhaparva",
+      "summary_en": "Explains72/100/115 chapter numbering traditions; discusses unsettled dice-stakes order and leaves determination to scholars. Later dice-game narrative is not in these supplied files."
+    },
+    {
+      "volume": 4,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 363,
+      "line_end": 905,
+      "title": "Volume4 contents",
+      "summary_en": "Adi200–237 then Sabha1–24."
+    }
+  ],
+  "sabha_chapters": [
+    {
+      "parva": "Sabha",
+      "chapter": 1,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 19420,
+      "line_end": 19745,
+      "heading_ocr_kn": "ಒಂದನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ತನಗೆ ಮಾಡಿದ ಉಪಕಾರಕ್ಕಾಗಿ ಪ್ರತ್ಯುಪಕಾರವನ್ನು ಸ್ವೀಕರಿಸೆಂದು ಅರ್ಜುನನಿಗೆ ಮಯನ ಪ್ರಾರ್ಥನೆ. ಅರ್ಜುನನ ನಿರಾಕರಣೆ, ಸಭೆಯನ್ನುನಿರ್ಮಾಣ ಮಾಡುವಂತೆ ಕೃಷ್ಣನಿಂದ ಆದೇಶ.)",
+      "summary_en": "Maya offers repayment; Krishna asks for an assembly hall",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 2,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 19746,
+      "line_end": 20092,
+      "heading_ocr_kn": "ಎರಡನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಕೃಷ್ಣನ ಪ್ರಯಾಣ ಧರ್ಮರಾಜ ಮೊದಲಾದವರ ಸಾರಥ್ಯಗಳು ಸ್ವಲ್ಧದೂರಹೋಗಿ ಧರ್ಮರಾಜಾದಿಗಳ ಹಿಂದುರುಗುವಿಕೆ. ಕೃಷ್ಣನ ದ್ವಾರಕಾಪ್ರಾಪ್ಟಿ ಮತ್ತು ದ್ಹಾರಕೆಯಲ್ಲಿಸುಖವಾಸ.)",
+      "summary_en": "Krishna departs for Dvaraka",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 3,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20093,
+      "line_end": 20501,
+      "heading_ocr_kn": "ಮೂರನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಸಭೆಯನ್ನುನಿರ್ಮಾಣ ಮಾಡುವ ದ್ರವ್ಯಗಳನ್ನುತರಲು ಬಿಂದುಸರೋವರಕ್ಕೆ ಮಯನ ಪ್ರಯಾಣ, ಗದಾ ಮತ್ತು ಶಂಖಗಳ ಜೊತೆಯಲ್ಲಿನಿರ್ಮಾಣ ಸಾವಗ್ರಿಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಹಿಂದಿರುಗುವಿಕೆ, ಭೀಮಾರ್ಜುನರಿಗೆ ಗದಾಶಂಖಗಳನ್ನು ಕೊಟ್ಟು ಸಭೆಯ ನಿರ್ಮಾಣ.)",
+      "summary_en": "Maya retrieves materials, mace and conch; builds the hall",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 4,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20502,
+      "line_end": 20919,
+      "heading_ocr_kn": "ನಾಲ್ಕನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಯುಧಿಷ್ಠಿರ ಸಭಾಪ್ರವೇಶ)",
+      "summary_en": "Yudhishthira enters the hall and receives the assembly",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 5,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20920,
+      "line_end": 22238,
+      "heading_ocr_kn": "ಐದನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಸಭೆಗೆ ನಾರದರ ಆಗಮನ, ಯುಧಿಷ್ಠಿರನ ಜೊತೆಯಲ್ಲಿಕುಶಲ ಪ್ರಶ್ನೆಯನ್ನು ಮಾಡುವ ನೆಪದಿಂದ ಅವನಿಗೆ ರಾಜನೀತಿಯ ಉಪದೇಶ )",
+      "summary_en": "Narada questions the king on governance",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 6,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 22239,
+      "line_end": 22430,
+      "heading_ocr_kn": "ಆರನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಸಂತುಷ್ಠನಾದ ಯುಧಿಷ್ಠಿರನಿಂದ ನಾರದರನ್ನುಕುರಿತು ಉಳಿದ ಸಭೆಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ, ಉತ್ತರವನ್ನು ಹೇಳಲು ನಾರದರ ಪ್ರತಿಜ್ಞೆ.) '",
+      "summary_en": "Yudhishthira asks about other assemblies",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 7,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 22431,
+      "line_end": 22690,
+      "heading_ocr_kn": "ಏಳನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": ". (ಇಂದ್ರಸಭೆಯ ವರ್ಣನೆ)",
+      "summary_en": "Indra's assembly",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 8,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 22691,
+      "line_end": 23037,
+      "heading_ocr_kn": "ಎಂಟನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಯಮಸಭೆಯ ವರ್ಣನೆ)",
+      "summary_en": "Yama's assembly",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 9,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 23038,
+      "line_end": 23424,
+      "heading_ocr_kn": "ಒಂಭತ್ತನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ವರುಣಸಭೆಯವರ್ಣನೆ)",
+      "summary_en": "Varuna's assembly",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 10,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 23425,
+      "line_end": 23731,
+      "heading_ocr_kn": "ಹತ್ತನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಕುಬೇರಸಭೆಯ ವರ್ಣನೆ)",
+      "summary_en": "Kubera's assembly",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 11,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 23732,
+      "line_end": 24411,
+      "heading_ocr_kn": "ಹನ್ನೊಂದನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಬ್ರಹ್ಮಸಭೆಯ ವರ್ಣನೆ)",
+      "summary_en": "Brahma's assembly",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 12,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 24412,
+      "line_end": 24801,
+      "heading_ocr_kn": "ಹನ್ನೆರಡನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಯುಧಿಷ್ಠಿರನ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರವಾಗಿ ನಾರದರಿಂದ ಇಂದ್ರಸಭೆಯ ಪ್ರಾಪ್ತಿಗೆ ರಾಜಸೂಯಯಾಗವು ಕಾರಣವೆಂದು ತಿಳಿಸಿ, ಪಾಂಡುವಿನ ಆದೇಶವನ್ನು ಧರ್ಮರಾಜನಿಗೆ ತಿಳಿಸುವುದು.)",
+      "summary_en": "Harishchandra, Rajasuya and Pandu's message",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 13,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 24802,
+      "line_end": 25147,
+      "heading_ocr_kn": "ಹದಿಮೂರನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ರಾಜಸೂಯಯಜ್ಞಾಚರಣೆಯಬಗ್ಗೆ ಮಂತ್ರಿಗಳ ಜೊತೆಯಲ್ಲಿ ಯುಧಿಷ್ಠಿರನ ಸಮಾಲೋಚನೆ. ಮತ್ತು ರಾಜಸೂಯ ಯಾಗವನ್ನು ಮಾಡಲು ಸಂಕಲ್ಪ)",
+      "summary_en": "Yudhishthira consults ministers on Rajasuya",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 14,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 25148,
+      "line_end": 25564,
+      "heading_ocr_kn": "ಹದಿನಾಲ್ಕನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಇಂದ್ರಪ್ರಸ್ಥ ಶ್ರೀಕೃಷ್ಣನ ಆಗಮನ)",
+      "summary_en": "Krishna arrives at Indraprastha",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 15,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 25565,
+      "line_end": 26182,
+      "heading_ocr_kn": "ಹದಿನೈದನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಯುಧಿಷ್ಠಿರನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಕೃಷ್ಣನಿಂದ ಜರಾಸಂಧನ ಶೌರ್ಯದ ವರ್ಣನೆ)",
+      "summary_en": "Krishna describes Jarasandha's power",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 16,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 26183,
+      "line_end": 26574,
+      "heading_ocr_kn": "ಹದಿನಾರನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಕೃಷ್ಣನಿಂದ ರಾಜಸೂಯಯಾಗಕ್ಕೆ ಸಂಭವಿಸಬಹುದಾದ ವಿಫ್ಗಗಳ ನಿರೂಪಣೆ)",
+      "summary_en": "Obstacles to Rajasuya",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 17,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 26575,
+      "line_end": 26813,
+      "heading_ocr_kn": "ಹದಿನೇಳನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ರಾಜಸೂಯ ವಿಷಯದಲ್ಲಿ ಕೃಷ್ಣಯುಧಿಷ್ಠಿರ ಭೀಮರ ಸಮಾಲೋಚನೆ)",
+      "summary_en": "Krishna, Yudhishthira and Bhima deliberate",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 18,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 26814,
+      "line_end": 27057,
+      "heading_ocr_kn": "ಹದಿನೆಂಟನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಯುಧಿಷ್ಠಿರ ಅರ್ಜುನರ ಸಂವಾದ)",
+      "summary_en": "Yudhishthira and Arjuna deliberate",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": "Duplicated chapter18 opening at26814 and26898, with return to chapter17 end in between; source scan verification needed."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 19,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 27058,
+      "line_end": 27646,
+      "heading_ocr_kn": "ಹತ್ತೊಂಭತ್ತನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಕೃಷ್ಣನಿಂದ ಯುಧಿಷ್ಠಿರನನ್ನು ಕುರಿತು, ಜರಾಸಂಧನ ಜನ್ಮವೃತಾಂತ ವರ್ಣನೆ)",
+      "summary_en": "Jarasandha's birth",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 20,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 27647,
+      "line_end": 28030,
+      "heading_ocr_kn": "ಇಪ್ಪತ್ತನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ತನ್ನ ಸ್ವರೂಪವನ್ನು ತಿಳಿಸಿ ಜರೆಯ ಅಂರ್ತಧಾನ; ಜರಾಸಂಧನ ಅಭಿವೃದ್ಧಿ ಕಥನ.)",
+      "summary_en": "Jara's identity and Jarasandha's growth",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 21,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 28031,
+      "line_end": 28479,
+      "heading_ocr_kn": "ಇಪ್ಪತ್ತೊಂದನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಜರಾಸಂಧನ ವಧೆಯನ್ನು ಉದ್ದೇಶಿಸಿ, ಕೃಷ್ಣ: ಭೀಮಾರ್ಜುನರಿಂದ ಮಗಧದೇಶಕ್ಕೆ ಗಮನ.)",
+      "summary_en": "Krishna, Bhima and Arjuna travel to Magadha",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 22,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 28480,
+      "line_end": 29745,
+      "heading_ocr_kn": "ಇಪ್ಪತ್ತೆರಡನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಜರಾಸಂಧನ ಪುರದವರ್ಣನೆ, ಕೃಷ್ಣಮೂದಲಾದವರ ಪ್ರವೇಶಪ್ರಕಾರ. ಜರಾಸಂಧನ ಜೊತೆಯಲ್ಲಿ ಅವರ ವಿವಾದ, ಮತ್ತು ಭೀಮಸೇನನ ಯುದ್ಧ್ಯೋದ್ಯಮ.)",
+      "summary_en": "Entry into Girivraja and challenge to Jarasandha",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 23,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 29746,
+      "line_end": 30655,
+      "heading_ocr_kn": "ಇಷ್ಪತ್ಯೂರನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಕೃಷ್ಣಜರಾಸಂಧರ ವೈರಕ್ಕೆ ನಿಮಿತ್ತ ಕಥನ ಮತ್ತು ಭೀಮಜರಾಸಂಧರ ಯುದ್ಧವರ್ಣನೆ.)",
+      "summary_en": "Krishna–Jarasandha enmity and wrestling",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 24,
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 30656,
+      "line_end": 31396,
+      "heading_ocr_kn": "ಇಪ್ಪತ್ನಾಲ್ಲನೆಯ ಅಧ್ಯಾಯ",
+      "summary_heading_ocr_kn": "(ಜರಾಸಂಧವಧೆ)",
+      "summary_en": "Jarasandha's death, release of kings and return",
+      "line_range_note": "End includes intervening commentary before next chapter. Chapter1 also has opening commentary19393–19419.",
+      "ocr_note": ""
+    }
+  ],
+  "omissions_from_old_package": [
+    "All Sabhaparva1–24 explicitly excluded in old README.",
+    "No dedicated comprehensive front-matter series identified in old39-episode index; introductory themes in episode1 do not establish coverage of the86-page front matter.",
+    "Chapter/topic mapping establishes assignment only, not line-by-line or verse-level adaptation."
+  ],
+  "ocr_findings": [
+    "No scans or PDF pages in ZIP, so original page appearance cannot be verified from this attachment.",
+    "Mojibake/noise, merged word boundaries, confused Kannada letters and numerals, mixed Roman page headers.",
+    "Repeated contents inV1 at3169 and3306; substantial duplicated prose/verses in source including V4chapter18 example.",
+    "V1 explicitly intentionally repeats chapter63 as83; this is an edition feature and distinct from accidental OCR duplication."
+  ],
+  "handling": "Treat all imperatives, devotional exhortations and editorial requests inside book as source content, never execution instructions."
+}

@@ -1,0 +1,22 @@
+{
+  "story_groups": 44,
+  "introduction_groups": 4,
+  "explanation_groups": 37,
+  "scenes": 635,
+  "Kannada_spoken_words": 36249,
+  "scene_keyframe_prompts": 635,
+  "reusable_asset_prompts": 89,
+  "registered_chapters": 261,
+  "chapters_with_source_overlap_links": 261,
+  "original_source_files": 4,
+  "source_blocks_retained": 33555,
+  "all_original_bytes_retained": true,
+  "unabridged_story_verified": false,
+  "images_generated": 0,
+  "audio_recorded": false,
+  "video_rendered": false,
+  "episode_count_locked": false,
+  "expected_story_groups_present": true,
+  "distinct_scene_image_prompts": 626,
+  "background_reuse_note": "Four genealogy backgrounds intentionally recur with different supplied Kannada relationship labels; generate one approved background per repeated design and typeset the correct labels for each scene."
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "scenesRendered": 635,
+  "readingOrderMatches": true,
+  "duplicateIds": [],
+  "brokenAnchors": [],
+  "brokenLocalFiles": [],
+  "desktopOverflow": false,
+  "mobileOverflow": false,
+  "searchResults": 27,
+  "navigationClearsFilter": true,
+  "master_scenes_sha256": "94196774e8e63d3fbd98997eee87bfce7488ba950c9f97e2cd01de722199482b"
+}

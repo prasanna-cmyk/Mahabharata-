@@ -1,0 +1,116 @@
+{
+  "archive_url": "https://archive.org/details/mahabharata-palimaru-mutt-kannada",
+  "local_ocr_matching_archive": [
+    {
+      "local_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "archive_member": "MAHABHARATA-1-AADIPARVA-_djvu.txt",
+      "md5": "7720635347bddafcaf45f16f94e6c58c",
+      "byte_identical_by_archive_md5": true
+    },
+    {
+      "local_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "archive_member": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "md5": "5108d7a174ae526dad62f7f31676624c",
+      "byte_identical_by_archive_md5": true
+    },
+    {
+      "local_file": "MAHABHARATA-3-AADIPARVA_djvu.txt",
+      "archive_member": "MAHABHARATA-3-AADIPARVA_djvu.txt",
+      "md5": "3f1348d5c7032cd1f7e4710c1efbc564",
+      "byte_identical_by_archive_md5": true
+    },
+    {
+      "local_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "archive_member": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "md5": "0b06cfb14e79a04dd00dfcdc0678b886",
+      "byte_identical_by_archive_md5": true
+    }
+  ],
+  "downloaded_files": [
+    {
+      "file": "MAHABHARATA-1-AADIPARVA-.pdf",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-1-AADIPARVA-.pdf",
+      "status": "downloaded_checksum_verified",
+      "bytes": 18481513,
+      "md5": "cf60441460926aeef063f465a20050ea"
+    },
+    {
+      "file": "MAHABHARATA-1-AADIPARVA-_djvu.xml",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-1-AADIPARVA-_djvu.xml",
+      "status": "downloaded_checksum_verified",
+      "bytes": 10086721,
+      "md5": "64bd88977a2f5396986f8da918d5ee73"
+    },
+    {
+      "file": "MAHABHARATA-1-AADIPARVA-_page_numbers.json",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-1-AADIPARVA-_page_numbers.json",
+      "status": "downloaded_checksum_verified",
+      "bytes": 106220,
+      "md5": "cf2815c80b202a217d3aca80c39c13a9"
+    },
+    {
+      "file": "MAHABHARATA-2-AADIPARVA.pdf",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-2-AADIPARVA.pdf",
+      "status": "downloaded_checksum_verified",
+      "bytes": 18692751,
+      "md5": "76efb28964e411028672242201687344"
+    },
+    {
+      "file": "MAHABHARATA-2-AADIPARVA_djvu.xml",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-2-AADIPARVA_djvu.xml",
+      "status": "downloaded_checksum_verified",
+      "bytes": 10682192,
+      "md5": "23c87a7de29a9398a08157c334581f8f"
+    },
+    {
+      "file": "MAHABHARATA-2-AADIPARVA_page_numbers.json",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-2-AADIPARVA_page_numbers.json",
+      "status": "downloaded_checksum_verified",
+      "bytes": 111302,
+      "md5": "db112c2d068d2761ed7cc73d1aa36309"
+    },
+    {
+      "file": "MAHABHARATA-3-AADIPARVA.pdf",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-3-AADIPARVA.pdf",
+      "status": "downloaded_checksum_verified",
+      "bytes": 17756582,
+      "md5": "a096c45ff89216aa06ef4cc274406718"
+    },
+    {
+      "file": "MAHABHARATA-3-AADIPARVA_djvu.xml",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-3-AADIPARVA_djvu.xml",
+      "status": "downloaded_checksum_verified",
+      "bytes": 9331989,
+      "md5": "92dab42d4d83eb12d9c4e1406d40f536"
+    },
+    {
+      "file": "MAHABHARATA-3-AADIPARVA_page_numbers.json",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-3-AADIPARVA_page_numbers.json",
+      "status": "downloaded_checksum_verified",
+      "bytes": 102788,
+      "md5": "51e4f26f00bf50ba000b1df81bea5b26"
+    },
+    {
+      "file": "MAHABHARATA-4-AADIPARVA.pdf",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-4-AADIPARVA.pdf",
+      "status": "downloaded_checksum_verified",
+      "bytes": 16236972,
+      "md5": "7ab4c1106643c96957f283886327dc45"
+    },
+    {
+      "file": "MAHABHARATA-4-AADIPARVA_djvu.xml",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-4-AADIPARVA_djvu.xml",
+      "status": "downloaded_checksum_verified",
+      "bytes": 9189281,
+      "md5": "b17ae3c575fbdd31dcbefc178ae7f03d"
+    },
+    {
+      "file": "MAHABHARATA-4-AADIPARVA_page_numbers.json",
+      "url": "https://archive.org/download/mahabharata-palimaru-mutt-kannada/MAHABHARATA-4-AADIPARVA_page_numbers.json",
+      "status": "downloaded_checksum_verified",
+      "bytes": 101196,
+      "md5": "96436c572d3c5463a8948ec8e7b30d8d"
+    }
+  ],
+  "scope": "Only four volumes from the user ZIP, not the later37-volume collection. Scans downloaded and checksummed; individual page readings still require visual review."
+}

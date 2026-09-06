@@ -1,0 +1,12 @@
+# Applied source corrections
+
+Applied 2026-09-06 to the three root-authored builders and regenerated their JSON outputs. This closes the six findings in `root_script_review.md`; it is not an unabridged completeness certification.
+
+1. **Viprithu encounter:** Group 35 scene 7 now narrates the source's nonlethal weapons encounter before the blessing. A new scene 8 covers Viprithu's prior knowledge, Krishna's appointment of the interception, blessing and departure. Balarama's assembly scene moves from 8 to 9. References: Volume 4 lines 12105–12294 and 12295–12440.
+2. **Lacquer-house agency and casualties:** Group 25 scenes 5–6 now state Yudhishthira's deliberate plan and Bhima's ignition after sending his family into the tunnel. The Nishada woman's established friendship with Kunti and the edition's description of her as Purochana's sister/appointed watcher are attributed to the edition. No conspiracy role is imputed to her five children. The seven deaths remain explicit. References: Volume 3 lines 9457–9566 and 9567–9883; directly rechecked 9489–9505, 9529–9551 and 9560–9595.
+3. **Subhadra's driving:** Group 35 scene 6 and both encounter prompts keep Subhadra visibly holding the reins and controlling the same two-horse team. Arjuna handles the bow. The later named horses, Shaibya and Sugriva, remain consistent with the source.
+4. **Aurva's ancestors:** Group 29 scene 6 and supplement 103 scene 2 now preserve the ancestors' claim that they deliberately provoked the Kshatriyas, their stated weariness with prolonged life and their stated religious reason for seeking death through others. These are attributed speeches within the myth, with no narrator endorsement. The supplementary citation now reaches line 23338. Directly rechecked Volume 3 lines 23275–23339.
+5. **Source citations:** Group 39 scene 6 extends through Volume 4 line 19252; scene 7 now cites 19274–19335 for Indra's boon and Shiva condition.
+6. **Spoken production language:** The reported instructions in Groups 30 scene 2 and 31 scene 5 are replaced by direct story statements. Group 34 scene 5 directly identifies Iravant and Babhruvahana as distinct sons of Ulupi and Chitrangada. Group 35's production aside is replaced by the actual encounter.
+
+Regenerated outputs: `episodes_23_39.json` (groups 23–31, 77 scenes), `episodes_32_39.json` (groups 32–39, 68 scenes), and `supplementary_adiparva.json` (3 supplements, 11 scenes). All targeted serialized-content checks and source-line bounds passed. The master package must be reassembled to incorporate these files.

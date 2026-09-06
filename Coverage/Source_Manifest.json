@@ -1,0 +1,30 @@
+[
+  {
+    "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+    "bytes": 2259401,
+    "lines": 32786,
+    "sha256": "80e38a377976a08d549764e5b0d363674552dfb1b94e0408d8bdd7cdcae89f2d",
+    "retention": "all bytes retained; original OCR, not corrected/recording-ready"
+  },
+  {
+    "file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+    "bytes": 2339861,
+    "lines": 35711,
+    "sha256": "afca628f7be2ce9adbedf5cacca0ea7ca79e7d29328ff02d4d4ee7878ea310ab",
+    "retention": "all bytes retained; original OCR, not corrected/recording-ready"
+  },
+  {
+    "file": "MAHABHARATA-3-AADIPARVA_djvu.txt",
+    "bytes": 2040336,
+    "lines": 31395,
+    "sha256": "c597d4c6ce09fb89f454f588bfb9395c7dc96db13ccd860c383695eff22cd542",
+    "retention": "all bytes retained; original OCR, not corrected/recording-ready"
+  },
+  {
+    "file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+    "bytes": 2046608,
+    "lines": 31419,
+    "sha256": "2149bc11b2b2b2accd4258361d885e5144968ed61ba360a1ff92d79ff7a9a3ce",
+    "retention": "all bytes retained; original OCR, not corrected/recording-ready"
+  }
+]

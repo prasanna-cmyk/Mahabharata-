@@ -1,0 +1,109 @@
+{
+  "status": "CHAPTER_GAPS_NARROWED_NOT_CLOSED_EXHAUSTIVELY",
+  "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+  "chapters": [
+    {
+      "parva": "Sabha",
+      "chapter": 3,
+      "added_group_ids": [
+        "SF01"
+      ],
+      "added_scene_ids": [
+        "SFSF01-S01",
+        "SFSF01-S02",
+        "SFSF01-S03",
+        "SFSF01-S04"
+      ],
+      "newly_adapted": [
+        "Bindu-sarovara location and Bhagiratha tradition",
+        "Narayana sacrifice and theological field history",
+        "Old ownership of the mace and conch; Kinkara role and count",
+        "Hall dimensions in source units, specific lotus-pool materials and general falling-visitors description"
+      ],
+      "remaining_gap": "Exact Sanskrit/Kannada measurement and weight correspondence, full numerical expression of the sacrifice/donation passage, lexical notes and all source wording still require scan-assisted review. Broad narrative excursus is now voiced."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 19,
+      "added_group_ids": [
+        "SF02"
+      ],
+      "added_scene_ids": [
+        "SFSF02-S01"
+      ],
+      "newly_adapted": [
+        "Jara’s explicit reason for returning the infant and Brihadratha’s request for her identity"
+      ],
+      "remaining_gap": "Brihadratha praise, exact initial boon language and every pregnancy/birth detail remain condensed. Central cause and aftermath are voiced without graphic birth imagery."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 20,
+      "added_group_ids": [
+        "SF02",
+        "SF03",
+        "SF04"
+      ],
+      "added_scene_ids": [
+        "SFSF02-S01",
+        "SFSF03-S01",
+        "SFSF03-S02",
+        "SFSF04-S01",
+        "SFSF04-S02"
+      ],
+      "newly_adapted": [
+        "Jara’s own household-worship and gratitude explanation",
+        "Chandakaushika’s specific weapon, power, wealth, social-order and Rudra predictions",
+        "Brihadratha and both queens’ retreat and reported later end",
+        "Thrown-mace story and Gadavasana place-name origin"
+      ],
+      "remaining_gap": "Exact numerical/metrical expressions and all praise similes remain paraphrased. The source note distinguishing the popular Narada distance story is recorded editorially; modern geographical identification and unit conversion are unverified. No broader Jara wall-painting origin myth was added because it is absent from this supplied passage."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 21,
+      "added_group_ids": [
+        "SF04",
+        "SF05"
+      ],
+      "added_scene_ids": [
+        "SFSF04-S01",
+        "SFSF04-S02",
+        "SFSF05-S01",
+        "SFSF05-S02",
+        "SFSF05-S03",
+        "SFSF05-S04",
+        "SFSF05-S05"
+      ],
+      "newly_adapted": [
+        "Why three men and why hand-to-hand combat",
+        "Departure blessings and named route through Kurujangala, Padma lake, Kalakuta, Sarayu, eastern Kosala, Gandaki, Anuraga, Sadanira and Mithila",
+        "Ganga/Shona crossings and Goratha viewpoint"
+      ],
+      "remaining_gap": "Anuraga spelling and route-identification need scan review; every council metaphor and Tatparya sentence is not separately voiced. No modern-map equivalence asserted."
+    },
+    {
+      "parva": "Sabha",
+      "chapter": 22,
+      "added_group_ids": [
+        "SF05",
+        "SF06"
+      ],
+      "added_scene_ids": [
+        "SFSF05-S01",
+        "SFSF05-S02",
+        "SFSF05-S03",
+        "SFSF05-S04",
+        "SFSF05-S05",
+        "SFSF06-S01"
+      ],
+      "newly_adapted": [
+        "Both source hill-name lists retained without silent conflation",
+        "Gautama/Dirghatamas–Ushinari–Kakshivant local tradition and Tapoda",
+        "Named naga habitats and forest/sacred-place descriptions",
+        "Specific ominous destruction, protective rite for the king, forcible garland/perfume taking and three palace courts"
+      ],
+      "remaining_gap": "Dirghatamas birth/begetting wording and divergent hill lists require scan review. Exact debate repetitions, every civic descriptive detail and full cult/theological commentary remain condensed."
+    }
+  ]
+}

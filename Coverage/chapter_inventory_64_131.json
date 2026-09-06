@@ -1,0 +1,1277 @@
+{
+  "scope": "Volume2 Adiparva chapters64–131",
+  "status": "All68 chapters indexed and linked to at least a substantive scene or summary; not an unabridged passage-completeness certification.",
+  "method": "Chapter headings/endings checked against extracted OCR. Scene links use actual line-span overlap plus authored narrative; line coverage does not prove every verse or sentence was adapted. Printed page images were not supplied/visually verified in this work.",
+  "source_language": "Kannada with Sanskrit verses and embedded commentary",
+  "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+  "chapter_count": 68,
+  "source_layer_policy": "Following material may contain Madhva Tatparya commentary, duplicated OCR or headings. Preserve it in the raw companion and label separately; never silently attach every following line to the chapter's main narrative.",
+  "chapters": [
+    {
+      "chapter": 64,
+      "title": "ಕುರುವಂಶದ ಪರಿಚಯ ಮತ್ತು ಯಯಾತಿಯ ಸಂಕ್ಷೇಪ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 491,
+      "line_end": 1000,
+      "following_material_until_next_chapter_line": 1006,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G13-S01"
+      ],
+      "remaining_gap": "A narrated genealogy companion is now integrated. Missing named positions, variant relationships and damaged spellings remain explicitly provisional; see the catalogue appendix. Every lexical gloss and wording of the extended speeches has not been certified.",
+      "following_material_scene_ids": [],
+      "final_catalogue_scene_ids": [
+        "C64-S01",
+        "C64-S02",
+        "C64-S03",
+        "C64-S04"
+      ],
+      "catalogue_addition_status": "Narrated source catalogue added. Adi117 names now visually checked; other genealogies retain separate uncertainties. See Catalogues_Kannada_Source_Checked.md and KAURAVA_SCAN_CORRECTIONS.json.",
+      "gap_before_catalogue_additions": "Complete royal genealogy, wives/offspring and phalashruti are summarized by EP13 opening, not individually spoken."
+    },
+    {
+      "chapter": 65,
+      "title": "ಕಚನ ಶಿಷ್ಯತ್ವ, ಮರಣಗಳು ಮತ್ತು ಸಂಜೀವಿನಿ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 1007,
+      "line_end": 1880,
+      "following_material_until_next_chapter_line": 1886,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G13-S02",
+        "G13-S03",
+        "G13-S04",
+        "G13-S05",
+        "G13-S06"
+      ],
+      "remaining_gap": "Long guru-service timescales, individual attack speeches and Shukra's alcohol prohibition are abbreviated. OCR repeats attack/revival paragraphs around1398–1505; do not count duplicates as new attacks.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 66,
+      "title": "ದೇವಯಾನಿಯ ಪ್ರೀತಿ ಮತ್ತು ಪರಸ್ಪರ ಶಾಪ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 1887,
+      "line_end": 2120,
+      "following_material_until_next_chapter_line": 2125,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G13-S07",
+        "G13-S08"
+      ],
+      "remaining_gap": "Core refusal, kinship reasoning and curse/transmission condition scripted. Full honorific debate and gods' reception of Kacha remain summarized.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 67,
+      "title": "ಶರ್ಮಿಷ್ಠೆಯ ಕಲಹ ಮತ್ತು ಯಯಾತಿಯ ರಕ್ಷಣೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 2126,
+      "line_end": 2729,
+      "following_material_until_next_chapter_line": 2736,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G14-S01",
+        "G14-S02",
+        "G14-S03"
+      ],
+      "remaining_gap": "Quarrel, right-hand rescue, marriage interpretation and attendant message scripted in summary. Duplicate chapter ending2641/2729 needs print-page comparison; full status-insult exchanges not voiced.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 68,
+      "title": "ಶುಕ್ರ ಮತ್ತು ದೇವಯಾನಿಯ ಕ್ಷಮಾಚರ್ಚೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 2737,
+      "line_end": 2991,
+      "following_material_until_next_chapter_line": 3000,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G14-S03"
+      ],
+      "remaining_gap": "Father's counsel on anger/forbearance compressed to one scene; individual maxims and Devayani's full replies not separately adapted.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 69,
+      "title": "ವೃಷಪರ್ವನ ಕ್ಷಮೆ ಮತ್ತು ಶರ್ಮಿಷ್ಠೆಯ ಸೇವೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 3001,
+      "line_end": 3346,
+      "following_material_until_next_chapter_line": 3353,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G14-S04"
+      ],
+      "remaining_gap": "Political stakes and service acceptance retained. Exact entourage count and full king/guru/daughter negotiation not spoken.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 70,
+      "title": "ದೇವಯಾನಿಯ ವಿವಾಹ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 3354,
+      "line_end": 3861,
+      "following_material_until_next_chapter_line": 3867,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G14-S05"
+      ],
+      "remaining_gap": "Second garden encounter, parental consent and prohibition concerning Sharmishtha retained. Detailed marriage/social-order argument condensed.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 71,
+      "title": "ದೇವಯಾನಿ ಮತ್ತು ಶರ್ಮಿಷ್ಠೆಯ ಸಂತಾನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 3868,
+      "line_end": 4299,
+      "following_material_until_next_chapter_line": 4306,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G14-S06"
+      ],
+      "remaining_gap": "Births and concealed relationship retained. Sharmishtha's full arguments about motherhood, dependence and obligations require expanded dialogue.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 72,
+      "title": "ಗುಪ್ತ ಸಂಬಂಧದ ಬಹಿರಂಗ ಮತ್ತು ಮುಪ್ಪಿನ ಶಾಪ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 4307,
+      "line_end": 4994,
+      "following_material_until_next_chapter_line": 4997,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G14-S06",
+        "G14-S07",
+        "G14-S08"
+      ],
+      "remaining_gap": "Disclosure through children, complaint, curse and Yayati's defense included in compressed form. His full legal/religious defense and Shukra's rebuttal not individually voiced.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 73,
+      "title": "ಮಕ್ಕಳ ನಿರಾಕರಣೆ ಮತ್ತು ಪೂರುವಿನ ಒಪ್ಪಿಗೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 4998,
+      "line_end": 5347,
+      "following_material_until_next_chapter_line": 5350,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G14-S08",
+        "G15-S01"
+      ],
+      "remaining_gap": "Four refusals and Puru's assent covered across EP14 ending/EP15 recap. Each son's distinct reason, individual curse and precise grant need full companion reading.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 74,
+      "title": "ಯಯಾತಿಯ ವೈರಾಗ್ಯ ಮತ್ತು ಪೂರುವಿನ ಪಟ್ಟ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 5351,
+      "line_end": 5678,
+      "following_material_until_next_chapter_line": 5684,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G15-S01",
+        "G15-S02",
+        "G15-S03"
+      ],
+      "remaining_gap": "Youth return, succession objection and forest departure scripted. Desire teaching, long reign descriptions and territorial allocations abbreviated.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 75,
+      "title": "ಯಯಾತಿಯ ತಪಸ್ಸು ಮತ್ತು ಸ್ವರ್ಗಗತಿಯ ಸಂಕ್ಷೇಪ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 5685,
+      "line_end": 5860,
+      "following_material_until_next_chapter_line": 5866,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G15-S04"
+      ],
+      "remaining_gap": "Forest austerity and heaven transition retained. Source's own overview and Janamejaya's follow-up not fully dramatized.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 76,
+      "title": "ಇಂದ್ರನ ಪ್ರಶ್ನೆ ಮತ್ತು ರಾಜನೀತಿ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 5867,
+      "line_end": 6111,
+      "following_material_until_next_chapter_line": 6117,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G15-S04"
+      ],
+      "remaining_gap": "All principal maxims in the selected chapter now have spoken paraphrase. Literary wording, some repeated address phrases and literal verse recitation remain in the source companion, not verbatim in narration. Page-image verification outstanding.",
+      "following_material_scene_ids": [],
+      "gap_before_final_additions": "Puru's received counsel summarized. Individual maxims on anger, speech, friendship and conduct are not all recordable lines yet.",
+      "final_addition_review": {
+        "chapter": 76,
+        "base_inventory_file": "chapter_inventory_64_131.json",
+        "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+        "added_group_ids": [
+          202
+        ],
+        "added_scene_ids": [
+          "V2202-S01",
+          "V2202-S02",
+          "V2202-S03"
+        ],
+        "insert_after_scenes": [
+          "G15-S04"
+        ],
+        "newly_adapted": [
+          "ರಾಜ್ಯದ ಗಡಿ ಮತ್ತು ಅಸೂಯೆಯ ಅಪಾಯ",
+          "ಕೋಪಕ್ಕೆ ಕೋಪವೇ ಉತ್ತರವಾಗಬಾರದು",
+          "ಮಾತಿನ ಬಾಣ ಮತ್ತು ನಾಲ್ಕು ಸಂಬಂಧದ ಗುಣಗಳು"
+        ],
+        "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+        "remaining_gap": "All principal maxims in the selected chapter now have spoken paraphrase. Literary wording, some repeated address phrases and literal verse recitation remain in the source companion, not verbatim in narration. Page-image verification outstanding."
+      }
+    },
+    {
+      "chapter": 77,
+      "title": "ಅಹಂಕಾರ ಮತ್ತು ಸ್ವರ್ಗಪತನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 6118,
+      "line_end": 6296,
+      "following_material_until_next_chapter_line": 6299,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G15-S05"
+      ],
+      "remaining_gap": "Existing main scene covers Indra/pride/fall; new scene adds the omitted welcome, identity questions and guest analogy. Chapter now substantively represented; exact verse recitation and OCR verification outstanding.",
+      "following_material_scene_ids": [],
+      "gap_before_final_additions": "Core pride answer, consequence and request to fall among good people scripted; full heavenly dialogue abbreviated.",
+      "final_addition_review": {
+        "chapter": 77,
+        "base_inventory_file": "chapter_inventory_64_131.json",
+        "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+        "added_group_ids": [
+          203
+        ],
+        "added_scene_ids": [
+          "V2203-S01"
+        ],
+        "insert_after_scenes": [
+          "G15-S05"
+        ],
+        "newly_adapted": [
+          "ಅಷ್ಟಕನ ಅಭಯದ ಮಾತು"
+        ],
+        "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+        "remaining_gap": "Existing main scene covers Indra/pride/fall; new scene adds the omitted welcome, identity questions and guest analogy. Chapter now substantively represented; exact verse recitation and OCR verification outstanding."
+      }
+    },
+    {
+      "chapter": 78,
+      "title": "ಅಷ್ಟಕನೊಂದಿಗೆ ಯಯಾತಿಯ ಪರಿಚಯ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 6300,
+      "line_end": 6630,
+      "following_material_until_next_chapter_line": 6633,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G15-S06"
+      ],
+      "remaining_gap": "Age/learning exchange, separate Ashtaka counsel, equanimity, source-specific realms/durations, messenger call and smoke-guided arrival now narrated. Extra theological gloss wording is condensed; no verse-by-verse certification.",
+      "following_material_scene_ids": [],
+      "gap_before_final_additions": "Identity and equanimity explanation summarized. Exact sequence of former worlds, durations and philosophical answers not all voiced.",
+      "final_addition_review": {
+        "chapter": 78,
+        "base_inventory_file": "chapter_inventory_64_131.json",
+        "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+        "added_group_ids": [
+          204
+        ],
+        "added_scene_ids": [
+          "V2204-S01",
+          "V2204-S02",
+          "V2204-S03"
+        ],
+        "insert_after_scenes": [
+          "G15-S06"
+        ],
+        "newly_adapted": [
+          "ವಯಸ್ಸಿಗಿಂತ ವಿದ್ಯೆಯ ಗೌರವ",
+          "ಸುಖದುಃಖಗಳ ಅನಿತ್ಯತೆ",
+          "ಲೋಕಗಳಿಂದ ನಂದನವನದವರೆಗೆ"
+        ],
+        "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+        "remaining_gap": "Age/learning exchange, separate Ashtaka counsel, equanimity, source-specific realms/durations, messenger call and smoke-guided arrival now narrated. Extra theological gloss wording is condensed; no verse-by-verse certification."
+      }
+    },
+    {
+      "chapter": 79,
+      "title": "ಮರಣಾನಂತರದ ಗತಿ ಮತ್ತು ಪುನರ್ಜನ್ಮ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 6634,
+      "line_end": 7065,
+      "following_material_until_next_chapter_line": 7066,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G15-S06"
+      ],
+      "remaining_gap": "Questions and principal answers about merit exhaustion, earth-as-suffering interpretation, pathways to conception, senses, karma/rebirth, seven gates and four pride-corrupted practices now narrated. Exact descent-duration numbers at6756–6764 unresolved; line-by-line commentary wording is condensed.",
+      "following_material_scene_ids": [],
+      "gap_before_final_additions": "Doctrinal topic explicitly attributed and summarized. Full account of merit exhaustion, bodily formation and senses remains companion text, not detailed screenplay.",
+      "final_addition_review": {
+        "chapter": 79,
+        "base_inventory_file": "chapter_inventory_64_131.json",
+        "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+        "added_group_ids": [
+          205
+        ],
+        "added_scene_ids": [
+          "V2205-S01",
+          "V2205-S02",
+          "V2205-S03",
+          "V2205-S04"
+        ],
+        "insert_after_scenes": [
+          "G15-S06"
+        ],
+        "newly_adapted": [
+          "ಪುಣ್ಯ ಕ್ಷೀಣಿಸಿದಾಗ ಬರುವ ಗತಿ",
+          "ಗರ್ಭಪ್ರಾಪ್ತಿಯ ಕುರಿತು ಅಷ್ಟಕನ ಪ್ರಶ್ನೆ",
+          "ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಮತ್ತೊಂದು ದೇಹ",
+          "ಏಳು ದ್ವಾರಗಳನ್ನು ಮುಚ್ಚುವ ಅಹಂಕಾರ"
+        ],
+        "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+        "remaining_gap": "Questions and principal answers about merit exhaustion, earth-as-suffering interpretation, pathways to conception, senses, karma/rebirth, seven gates and four pride-corrupted practices now narrated. Exact descent-duration numbers at6756–6764 unresolved; line-by-line commentary wording is condensed."
+      }
+    },
+    {
+      "chapter": 80,
+      "title": "ಆಶ್ರಮಧರ್ಮ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 7067,
+      "line_end": 7307,
+      "following_material_until_next_chapter_line": 7308,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G15-S07"
+      ],
+      "remaining_gap": "Four-stage duties, forest/village paradox, renunciation result, hygiene, common conduct and textual meal counts now narrated. OCR conflicts at7093–7098 and precise interpretation of severe ascetic clauses still require page review; exact verse form not performed.",
+      "following_material_scene_ids": [],
+      "gap_before_final_additions": "Four life-stage duties summarized. All detailed rules, questions and qualifications not separately adapted.",
+      "final_addition_review": {
+        "chapter": 80,
+        "base_inventory_file": "chapter_inventory_64_131.json",
+        "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+        "added_group_ids": [
+          206
+        ],
+        "added_scene_ids": [
+          "V2206-S01",
+          "V2206-S02",
+          "V2206-S03"
+        ],
+        "insert_after_scenes": [
+          "G15-S07"
+        ],
+        "newly_adapted": [
+          "ಶಿಷ್ಯ ಮತ್ತು ಗೃಹಸ್ಥ",
+          "ಅರಣ್ಯವಾಸ ಮತ್ತು ಅನಿಕೇತನ ಬದುಕು",
+          "ಮೌನದ ಅರ್ಥ ಮತ್ತು ಸಾಮಾನ್ಯ ಧರ್ಮ"
+        ],
+        "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+        "remaining_gap": "Four-stage duties, forest/village paradox, renunciation result, hygiene, common conduct and textual meal counts now narrated. OCR conflicts at7093–7098 and precise interpretation of severe ascetic clauses still require page review; exact verse form not performed."
+      }
+    },
+    {
+      "chapter": 81,
+      "title": "ಅಷ್ಟಕ ಮತ್ತು ಪ್ರತರ್ದನರ ಪುಣ್ಯದಾನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 7309,
+      "line_end": 7689,
+      "following_material_until_next_chapter_line": 7692,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G15-S07"
+      ],
+      "remaining_gap": "Relative ascetic priority, repentance, non-reward-seeking dharma, separate Ashtaka/Pratardana offers and refusals now narrated.7346–7348 penance/body timing and final dharma/artha/kama qualification need print verification; duplicate pages not repeated as new events.",
+      "following_material_scene_ids": [],
+      "gap_before_final_additions": "Offers/refusal included at combined-scene level. Separate donor speeches and reasoning need expansion for unabridged narration.",
+      "final_addition_review": {
+        "chapter": 81,
+        "base_inventory_file": "chapter_inventory_64_131.json",
+        "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+        "added_group_ids": [
+          207
+        ],
+        "added_scene_ids": [
+          "V2207-S01",
+          "V2207-S02",
+          "V2207-S03"
+        ],
+        "insert_after_scenes": [
+          "G15-S07"
+        ],
+        "newly_adapted": [
+          "ಹೊರಗಿನ ಸ್ಥಿತಿಗಿಂತ ಒಳಗಿನ ಧರ್ಮ",
+          "ಅಷ್ಟಕನ ಅಳೆಯಲಾಗದ ಲೋಕಗಳು",
+          "ಪ್ರತರ್ದನನ ಕೊಡುಗೆ ಮತ್ತು ಧರ್ಮದ ಆದ್ಯತೆ"
+        ],
+        "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+        "remaining_gap": "Relative ascetic priority, repentance, non-reward-seeking dharma, separate Ashtaka/Pratardana offers and refusals now narrated.7346–7348 penance/body timing and final dharma/artha/kama qualification need print verification; duplicate pages not repeated as new events."
+      }
+    },
+    {
+      "chapter": 82,
+      "title": "ವಸುಮನಾ, ಶಿಬಿ ಮತ್ತು ಪುನಃ ಸ್ವರ್ಗಗಮನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 7693,
+      "line_end": 8291,
+      "following_material_until_next_chapter_line": 8294,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G15-S07",
+        "G15-S08"
+      ],
+      "remaining_gap": "Separate Vasumanas grass-sale offer, Shibi/collective offers, five chariots, ritual close, Madhavi arrival and decisive kinship argument, shraddha explanation, joint ascent, Shibi virtues and final truth/gift/phalashruti now narrated. Kutapa wording and enormous gift-number interpretation remain editorial uncertainties; no universal ritual authority claim.",
+      "following_material_scene_ids": [],
+      "gap_before_final_additions": "Shared ascent, Shibi precedence and donor discussion covered. Extended shraddha passage including8050–8094 and all ritual qualifications not spoken.",
+      "final_addition_review": {
+        "chapter": 82,
+        "base_inventory_file": "chapter_inventory_64_131.json",
+        "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+        "added_group_ids": [
+          208,
+          209
+        ],
+        "added_scene_ids": [
+          "V2208-S01",
+          "V2208-S02",
+          "V2208-S03",
+          "V2208-S04",
+          "V2208-S05",
+          "V2209-S01",
+          "V2209-S02"
+        ],
+        "insert_after_scenes": [
+          "G15-S07",
+          "G15-S08"
+        ],
+        "newly_adapted": [
+          "ಹುಲ್ಲುಕಡ್ಡಿಯಿಂದ ಖರೀದಿಸು ಎಂಬ ಪ್ರಸ್ತಾವ",
+          "ಶಿಬಿಯ ಪ್ರಸ್ತಾವ ಮತ್ತು ಎಲ್ಲರ ಒಕ್ಕೂಟ",
+          "ಅಶ್ವಮೇಧದ ಸಮಾಪ್ತಿ ಮತ್ತು ಮಾಧವಿಯ ಆಗಮನ",
+          "ಮಗಳು ನೀಡಿದ ಧರ್ಮದ ಕಾರಣ",
+          "ಶ್ರಾದ್ಧದ ಪವಿತ್ರತೆ ಕುರಿತು ಮಧ್ಯವಿವರಣೆ",
+          "ಶಿಬಿಯ ರಥವು ಮುಂದೆ ಹೋದ ಕಾರಣ",
+          "ಸತ್ಯದ ಸ್ಮರಣೆ ಮತ್ತು ಆಖ್ಯಾನದ ಫಲವಚನ"
+        ],
+        "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+        "remaining_gap": "Separate Vasumanas grass-sale offer, Shibi/collective offers, five chariots, ritual close, Madhavi arrival and decisive kinship argument, shraddha explanation, joint ascent, Shibi virtues and final truth/gift/phalashruti now narrated. Kutapa wording and enormous gift-number interpretation remain editorial uncertainties; no universal ritual authority claim."
+      }
+    },
+    {
+      "chapter": 83,
+      "title": "ಪೂರುವಂಶಕ್ಕೆ ಮರಳಿಕೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 8295,
+      "line_end": 8458,
+      "following_material_until_next_chapter_line": 8461,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G16-S01"
+      ],
+      "remaining_gap": "A narrated genealogy companion is now integrated. Missing named positions, variant relationships and damaged spellings remain explicitly provisional; see the catalogue appendix. Every lexical gloss and wording of the extended speeches has not been certified.",
+      "following_material_scene_ids": [],
+      "final_catalogue_scene_ids": [
+        "C83-S01",
+        "C83-S02",
+        "C83-S03",
+        "C83-S04"
+      ],
+      "catalogue_addition_status": "Narrated source catalogue added. Adi117 names now visually checked; other genealogies retain separate uncertainties. See Catalogues_Kannada_Source_Checked.md and KAURAVA_SCAN_CORRECTIONS.json.",
+      "gap_before_catalogue_additions": "Puru/Paushya/Pravira and repeated ancestral names clarified. Full king-by-king genealogy requires verified names and separate portrait cards."
+    },
+    {
+      "chapter": 84,
+      "title": "ದುಷ್ಯಂತನ ರಾಜ್ಯವರ್ಣನೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 8462,
+      "line_end": 8590,
+      "following_material_until_next_chapter_line": 8593,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G16-S01"
+      ],
+      "remaining_gap": "Peace/prosperity summarized as court context. Full ideal-reign claims not individually narrated.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 85,
+      "title": "ದುಷ್ಯಂತನ ಬೇಟೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 8594,
+      "line_end": 8834,
+      "following_material_until_next_chapter_line": 8840,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G16-S02"
+      ],
+      "remaining_gap": "Hunt and real animal harm acknowledged non-graphically. Army composition, animal catalogue and hunting episodes condensed.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 86,
+      "title": "ಕಣ್ವರ ಆಶ್ರಮವರ್ಣನೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 8841,
+      "line_end": 9325,
+      "following_material_until_next_chapter_line": 9328,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G16-S03"
+      ],
+      "remaining_gap": "Landscape, study, stream and protected atmosphere retained. Full flora/fauna and ritual/learning catalogue not separately scripted.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 87,
+      "title": "ಶಕುಂತಲೆಯ ಸ್ವಾಗತ ಮತ್ತು ಪರಿಚಯ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 9329,
+      "line_end": 9863,
+      "following_material_until_next_chapter_line": 9864,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G16-S04"
+      ],
+      "remaining_gap": "Hospitality, Kanva's absence and adoption explanation scripted. Full conversation and evaluative description abbreviated.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 88,
+      "title": "ಮೇನಕೆ ಮತ್ತು ವಿಶ್ವಾಮಿತ್ರರಿಂದ ಶಕುಂತಲೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 9865,
+      "line_end": 10144,
+      "following_material_until_next_chapter_line": 10145,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G16-S05"
+      ],
+      "remaining_gap": "Birth and bird protection retained. Divine scheme, encounter speeches and descriptive verses compressed without sexual imagery.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 89,
+      "title": "ಗಾಂಧರ್ವವಿವಾಹ ಮತ್ತು ಉತ್ತರಾಧಿಕಾರದ ವಚನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 10146,
+      "line_end": 10791,
+      "following_material_until_next_chapter_line": 10797,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G16-S06",
+        "G16-S07"
+      ],
+      "remaining_gap": "Consent, son's succession condition, promise and Kanva approval scripted. Eight marriage types and full classification argument remain companion text.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 90,
+      "title": "ಶಕುಂತಲೆಯ ನಿರೀಕ್ಷೆ ಮತ್ತು ಸರ್ವದಮನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 10798,
+      "line_end": 11837,
+      "following_material_until_next_chapter_line": 11838,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G16-S08"
+      ],
+      "remaining_gap": "Source's three-year statement, infant/child development and exceptional strength retained. Long counsel by hermitage women, detailed chronology and animal-play catalogue abbreviated; three-year interpretation needs print check.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 91,
+      "title": "ರಾಜಸಭೆಯಲ್ಲಿ ಶಕುಂತಲೆಯ ನ್ಯಾಯವಾದ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 11839,
+      "line_end": 12999,
+      "following_material_until_next_chapter_line": 13005,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G16-S09",
+        "G17-S01",
+        "G17-S02"
+      ],
+      "remaining_gap": "Arrival/refusal/wife-son-inner-witness argument retained over EP16/17. Every analogy, maxim and extended family-duty proposition not separately voiced. Repeated arrival passages11972/12058 need deduplication review.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 92,
+      "title": "ಶಕುಂತಲೆಯ ಪ್ರತಿವಾದ ಮತ್ತು ನಿರ್ಗಮನದ ಯತ್ನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 13006,
+      "line_end": 13472,
+      "following_material_until_next_chapter_line": 13475,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G17-S03"
+      ],
+      "remaining_gap": "Source rebuttal and attempted departure scripted. Full ancestry comparison, insults and truth maxims condensed.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 93,
+      "title": "ಭರತನ ಸ್ವೀಕಾರ, ರಾಜ್ಯ ಮತ್ತು ವಂಶಸರಣಿ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 13476,
+      "line_end": 14376,
+      "following_material_until_next_chapter_line": 14534,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G17-S04",
+        "G17-S05",
+        "G17-S06"
+      ],
+      "remaining_gap": "A narrated genealogy companion is now integrated. Missing named positions, variant relationships and damaged spellings remain explicitly provisional; see the catalogue appendix. Every lexical gloss and wording of the extended speeches has not been certified.",
+      "following_material_scene_ids": [
+        "G17-S07"
+      ],
+      "final_catalogue_scene_ids": [
+        "C93-S01",
+        "C93-S02",
+        "C93-S03",
+        "C93-S04",
+        "C93-S05"
+      ],
+      "catalogue_addition_status": "Narrated source catalogue added. Adi117 names now visually checked; other genealogies retain separate uncertainties. See Catalogues_Kannada_Source_Checked.md and KAURAVA_SCAN_CORRECTIONS.json.",
+      "gap_before_catalogue_additions": "Core heavenly acknowledgment, king's attributed defense, Bharata/Bhumanyu and Samvarana/Kuru/Pratipa bridge retained. Precise donations, full descendant lists and exile duration not all voiced. Source says three children across three wives13886; killing is parenthetical attribution to other Puranas, not scripted as this story's action."
+    },
+    {
+      "chapter": 94,
+      "title": "ಮಹಾಭಿಷ, ಗಂಗೆ ಮತ್ತು ವಸುಗಳು",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 14535,
+      "line_end": 14762,
+      "following_material_until_next_chapter_line": 14763,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G17-S08"
+      ],
+      "remaining_gap": "Heavenly incident, human-birth connection and Vasus' request covered. Sacrifice counts and full agreement dialogue abbreviated. Adjacent14400s commentary is a separate layer.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 95,
+      "title": "ಪ್ರತೀಪ, ಶಂತನು ಮತ್ತು ಗಂಗೆಯ ಷರತ್ತು",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 14764,
+      "line_end": 15417,
+      "following_material_until_next_chapter_line": 15510,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G17-S09"
+      ],
+      "remaining_gap": "Pratipa relationship interpretation, Shantanu's inherited instruction and condition scripted in combined scene. Full thigh-position symbolism, courtship and reign details need expanded treatment.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 96,
+      "title": "ಏಳು ಶಿಶುಗಳು ಮತ್ತು ಎಂಟನೆಯ ಮಗನ ರಕ್ಷಣೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 15511,
+      "line_end": 15781,
+      "following_material_until_next_chapter_line": 15965,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G17-S10"
+      ],
+      "remaining_gap": "Seven losses, Shantanu's intervention and surviving eighth child retained non-graphically. Duplicated ending15713/15781 and intervening commentary heading15720 require printed-page boundary review.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 97,
+      "title": "ವಸಿಷ್ಠರ ಗೋವಿನ ಅಪಹರಣ ಮತ್ತು ವಸುಶಾಪ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 15966,
+      "line_end": 16421,
+      "following_material_until_next_chapter_line": 16556,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G17-S11"
+      ],
+      "remaining_gap": "Dyu's wife/Jitavati motive, Nandini/calf theft, curse, unequal release and Devavrata/Gangadatta identities retained. Full Vasistha genealogy and cow powers summarized.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 98,
+      "title": "ದೇವವ್ರತನ ವಾಪಸ್ಸು",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 16557,
+      "line_end": 16975,
+      "following_material_until_next_chapter_line": 16976,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G18-S01"
+      ],
+      "remaining_gap": "River-flow archery, Ganga's presentation and crown-prince status scripted. Shantanu's ideal-reign catalogue and each named teacher's contribution not all voiced.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 99,
+      "title": "ಸತ್ಯವತಿಯ ಉತ್ತರಾಧಿಕಾರ ಷರತ್ತು ಮತ್ತು ಭೀಷ್ಮವ್ರತ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 16977,
+      "line_end": 17662,
+      "following_material_until_next_chapter_line": 17819,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G18-S02",
+        "G18-S03",
+        "G18-S04"
+      ],
+      "remaining_gap": "Yamuna encounter, four-year interval, succession renunciation and lifelong celibacy separately scripted. Detailed minister consultations and fishing-chief political arguments abbreviated.",
+      "following_material_scene_ids": [
+        "G18-S05"
+      ]
+    },
+    {
+      "chapter": 100,
+      "title": "ಶಂತನು-ಸತ್ಯವತಿಯ ಮಕ್ಕಳು",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 17820,
+      "line_end": 17994,
+      "following_material_until_next_chapter_line": 18125,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G18-S05"
+      ],
+      "remaining_gap": "Marriage, Chitrangada's namesake opponent and Vichitravirya accession retained. Full battle duration/details and royal rites condensed.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 101,
+      "title": "ಕಾಶಿ ಕನ್ಯೆಯರ ಹರಣ ಮತ್ತು ಅಂಬೆಯ ನಿರಾಕರಣೆಗಳು",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 18126,
+      "line_end": 19075,
+      "following_material_until_next_chapter_line": 19279,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G18-S06",
+        "G18-S07"
+      ],
+      "remaining_gap": "Three sisters distinguished; removal, Amba's prior choice, permitted departure and Salva refusal scripted. Full multi-king fighting and prolonged Amba/Bhishma/Salva debates not all voiced. Adjacent Madhva commentary19079–19276 is narrated in G18-S10 with rebirth, marriage conflict, Tumburu exchange and Kubera curse; theological reasoning and every quoted argument remain condensed.",
+      "following_material_scene_ids": [
+        "G18-S10"
+      ]
+    },
+    {
+      "chapter": 102,
+      "title": "ಅಂಬೆಯ ಮಾಲೆ ಮತ್ತು ಶಿಖಂಡಿಯ ಗಂಧರ್ವಪ್ರಸಂಗ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 19280,
+      "line_end": 19572,
+      "following_material_until_next_chapter_line": 19578,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G18-S08",
+        "G18-S09"
+      ],
+      "remaining_gap": "Garland refusal, Panchala doorway, Shikhandi's departure and Gandharva change retained. Full Rchika/Gandharva dialogue and exact name spellings need OCR check. Separate19079–19276 Madhva commentary includes rebirth, marriage conflict, Tumburu exchange and Kubera curse in G18-S10; source-layer distinction retained, full metaphysical reasoning condensed.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 103,
+      "title": "ವಿಚಿತ್ರವೀರ್ಯನ ಮರಣ ಮತ್ತು ಸತ್ಯವತಿಯ ಬೇಡಿಕೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 19579,
+      "line_end": 19887,
+      "following_material_until_next_chapter_line": 19893,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G18-S11"
+      ],
+      "remaining_gap": "Both marriages, illness/death without heirs and Bhishma refusal scripted. Full sexual-life description, physicians' efforts and repeated requests condensed.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 104,
+      "title": "ದೀರ್ಘತಮಸರ ಪೂರ್ವಕಥೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 19894,
+      "line_end": 20450,
+      "following_material_until_next_chapter_line": 20453,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G18-S12"
+      ],
+      "remaining_gap": "Full principal chain now narrated: Bhishma/Parashurama precedent, Mamata refusal/curse, learned blind sage, first wife/Gautama family burden, angry marital decrees, raft abandonment, Bali rescue, attendant-daughter and11 sons, identity correction, Sudeshna/Anga, Bhishma final advice. Wife-name forms and royal-house sentence at20139–20141 require source-image checking; duplicate20336–20420 is not a second event.",
+      "following_material_scene_ids": [],
+      "gap_before_final_additions": "Coercion against Mamata, blind sage, family rejection, Bali refuge and lineage solution acknowledged. Full wife dispute, raft sequence, eleven attendant-born sons, Sudeshna/Anga sequence and legal maxims are abbreviated.20336–20420 repeats earlier body text.",
+      "final_addition_review": {
+        "chapter": 104,
+        "base_inventory_file": "chapter_inventory_64_131.json",
+        "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+        "added_group_ids": [
+          201
+        ],
+        "added_scene_ids": [
+          "V2201-S01",
+          "V2201-S02",
+          "V2201-S03",
+          "V2201-S04",
+          "V2201-S05",
+          "V2201-S06",
+          "V2201-S07",
+          "V2201-S08",
+          "V2201-S09"
+        ],
+        "insert_after_scenes": [
+          "G18-S12"
+        ],
+        "newly_adapted": [
+          "ಭೀಷ್ಮನು ಹೇಳಿದ ಆಪತ್ತಿನ ಪೂರ್ವನಿದರ್ಶನ",
+          "ಮಮತೆಯ ನಿರಾಕರಣೆ ಮತ್ತು ಮಗುವಿನ ಶಾಪ",
+          "ವಿದ್ಯೆ, ವಿವಾಹ ಮತ್ತು ಮನೆಯ ಭಾರ",
+          "ಕೋಪದ ಮಾತಿನಿಂದ ಕಟ್ಟಿದ ನಿಯಮ",
+          "ತೆಪ್ಪದಲ್ಲಿ ತೊರೆದ ತಂದೆ",
+          "ಬಲಿ ರಾಜನ ಆಶ್ರಯ",
+          "ರಾಣಿಯ ಬದಲು ಬಂದ ದಾಸಿಯ ಮಗಳು",
+          "ಸುದೇಷ್ಣೆಯಿಂದ ಅಂಗನ ಜನ್ಮ",
+          "ಸತ್ಯವತಿಯ ನಿರ್ಧಾರಕ್ಕೆ ಮರಳಿದ ಕಥೆ"
+        ],
+        "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+        "remaining_gap": "Full principal chain now narrated: Bhishma/Parashurama precedent, Mamata refusal/curse, learned blind sage, first wife/Gautama family burden, angry marital decrees, raft abandonment, Bali rescue, attendant-daughter and11 sons, identity correction, Sudeshna/Anga, Bhishma final advice. Wife-name forms and royal-house sentence at20139–20141 require source-image checking; duplicate20336–20420 is not a second event."
+      }
+    },
+    {
+      "chapter": 105,
+      "title": "ವ್ರತ ಮತ್ತು ವಂಶರಕ್ಷಣೆಯ ಸಂವಾದ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 20454,
+      "line_end": 20737,
+      "following_material_until_next_chapter_line": 20743,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G19-S01"
+      ],
+      "remaining_gap": "Satyavati's renewed appeal and Bhishma's alternative summarized. Full argument not separate scene. Heading20654 says106 before another105 ending20737: uncertain duplicate/misaligned OCR heading.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 106,
+      "title": "ಸತ್ಯವತಿಯ ಮೊದಲ ಮಗ ವ್ಯಾಸ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 20744,
+      "line_end": 21330,
+      "following_material_until_next_chapter_line": 21512,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G19-S01",
+        "G19-S02"
+      ],
+      "remaining_gap": "Earlier parentage, Parashara/Vyasa recollection, summons and preparation condition scripted. Full river-encounter promises and ritual readiness periods condensed.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 107,
+      "title": "ಧೃತರಾಷ್ಟ್ರ, ಪಾಂಡು ಮತ್ತು ವಿದುರರ ಜನನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 21513,
+      "line_end": 21917,
+      "following_material_until_next_chapter_line": 21975,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G19-S03",
+        "G19-S04"
+      ],
+      "remaining_gap": "Three mothers/sons separately identified; fear, substituted attendant, prediction and rites retained. Exact gendered/blame language and all predictions not directly quoted; original narrative causation explicitly attributed.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 108,
+      "title": "ಮಾಂಡವ್ಯ ಮತ್ತು ಧರ್ಮನ ದಂಡ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 21976,
+      "line_end": 22377,
+      "following_material_until_next_chapter_line": 22411,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G19-S05",
+        "G19-S06"
+      ],
+      "remaining_gap": "Wrongful arrest, lasting punishment, royal apology, Dharma challenge and Vidura incarnation retained. Detailed torture description omitted from visuals; age wording12 then14 at22320/22346 needs print reconciliation.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 109,
+      "title": "ರಾಜಕುಮಾರರ ಶಿಕ್ಷಣ ಮತ್ತು ಗಾಂಧಾರಿಯ ವಿವಾಹ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 22412,
+      "line_end": 23095,
+      "following_material_until_next_chapter_line": 23246,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G19-S07"
+      ],
+      "remaining_gap": "Three brothers' aptitudes, Pandu kingship, Gandhari blindfold and Shakuni arrival retained. Full prosperity catalogue, succession exclusions and marriage negotiations condensed; source repeats segments around22760.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 110,
+      "title": "ಕುಂತಿಯ ಮಂತ್ರ, ಕರ್ಣನ ಜನನ ಮತ್ತು ಮುನ್ನೋಟ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 23247,
+      "line_end": 23715,
+      "following_material_until_next_chapter_line": 23921,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G19-S08",
+        "G19-S09",
+        "G19-S10",
+        "G19-S11"
+      ],
+      "remaining_gap": "Pritha adoption, Durvasa, reluctance before Surya, river separation, Adhiratha fostering, adult armour gift and one-use Shakti flash-forward scripted. Full dream debate, giving vows and Vikartana etymology not all spoken. Foster mother's name withheld in dialogue pending exact local verification.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 111,
+      "title": "ಪಾಂಡುವಿನ ವಿವಾಹ, ಜಯಯಾತ್ರೆ ಮತ್ತು ಕಿಂದಮಶಾಪ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 23922,
+      "line_end": 24527,
+      "following_material_until_next_chapter_line": 24530,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G19-S12",
+        "G19-S13"
+      ],
+      "remaining_gap": "Kunti choice, Madri marriage, campaign, forest supplies, five arrows and curse condition retained. Madra bridewealth custom, campaign rulers/tribute list and full hunting-dharma dispute condensed.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 112,
+      "title": "ಪಾಂಡುವಿನ ವನಧರ್ಮ ಮತ್ತು ವಿದುರನ ವಿವಾಹ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 24531,
+      "line_end": 25227,
+      "following_material_until_next_chapter_line": 25379,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G20-S01"
+      ],
+      "remaining_gap": "Family's chosen forest life and Vidura marriage mentioned. Northern ascent route, sages' warning about inaccessible terrain25079–25138, childlessness counsel and Devaka's daughter's marriage25202–25223 not independently dramatized.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 113,
+      "title": "ಸಂತಾನದ ಚಿಂತೆ ಮತ್ತು ಭದ್ರೆಯ ಕಥೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 25380,
+      "line_end": 26086,
+      "following_material_until_next_chapter_line": 26087,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G20-S02",
+        "G20-S03"
+      ],
+      "remaining_gap": "Pandu-Kunti debate and Vyushitashva/Bhadra tale retained; three Salva/four Madra offspring included. Full ancestor-debt classifications and Bhadra's lament remain condensed.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 114,
+      "title": "ಉದ್ದಾಲಕ, ಶ್ವೇತಕೇತು ಮತ್ತು ಮಂತ್ರದ ರಹಸ್ಯ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 26088,
+      "line_end": 26705,
+      "following_material_until_next_chapter_line": 26958,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G20-S04",
+        "G20-S05"
+      ],
+      "remaining_gap": "Custom-change story and Kunti's revealed mantra scripted. Full old-practice taxonomy, prohibitions, exceptions and repeated genealogical examples not all voiced.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 115,
+      "title": "ಯುಧಿಷ್ಠಿರ, ಭೀಮ, ಗಾಂಧಾರಿಯ ಕುಂಭಗಳು, ದುರ್ಯೋಧನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 26959,
+      "line_end": 27775,
+      "following_material_until_next_chapter_line": 27778,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G20-S05",
+        "G20-S06",
+        "G20-S07",
+        "G20-S08"
+      ],
+      "remaining_gap": "Distinct births, first rock miracle, Gandhari vessels and father's refusal of counsel retained. Full omens, horoscopes and detailed divine speeches condensed. Duryodhana preceding night/Bhima day verified27540–27542.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 116,
+      "title": "ದುಃಶಲೆಯ ಹೆಚ್ಚುವರಿ ಕುಂಭ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 27779,
+      "line_end": 27928,
+      "following_material_until_next_chapter_line": 27933,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G20-S09"
+      ],
+      "remaining_gap": "Daughter request and extra vessel distinct from hundred sons; Yuyutsu separate mother clarified. Full Janamejaya question and maternal thought sequence abbreviated.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 117,
+      "title": "ಕೌರವರ ಹೆಸರುಗಳು ಮತ್ತು ದುಃಶಲೆಯ ವಿವಾಹ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 27934,
+      "line_end": 28095,
+      "following_material_until_next_chapter_line": 28179,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G20-S09"
+      ],
+      "remaining_gap": "Hundred Gandhari-son entries narrated and visually compared with printed pages592–595 (PDF624–627). Four readings corrected; four real verse/prose variants retained. Subahu repeats in print, yielding100positions and99distinct names. Yuyutsu and Duhshala distinguished. The hundred-name scan audit is closed; full chapter commentary and lexical nuances remain unaudited.",
+      "following_material_scene_ids": [],
+      "final_catalogue_scene_ids": [
+        "C117-S01",
+        "C117-S02",
+        "C117-S03",
+        "C117-S04",
+        "C117-S05",
+        "C117-S06",
+        "C117-S07",
+        "C117-S08",
+        "C117-S09",
+        "C117-S10",
+        "C117-S11",
+        "C117-S12",
+        "C117-S13"
+      ],
+      "catalogue_addition_status": "Narrated source catalogue added. Adi117 names now visually checked; other genealogies retain separate uncertainties. See Catalogues_Kannada_Source_Checked.md and KAURAVA_SCAN_CORRECTIONS.json.",
+      "gap_before_catalogue_additions": "Family count and Jayadratha preview retained, but all hundred names are NOT individually narrated. OCR spelling verification and complete name-card/voice supplement still required."
+    },
+    {
+      "chapter": 118,
+      "title": "ಅರ್ಜುನನ ಜನನ ಮತ್ತು ದೇವಸಂಭ್ರಮ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 28180,
+      "line_end": 28804,
+      "following_material_until_next_chapter_line": 29028,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G20-S10"
+      ],
+      "remaining_gap": "Pandu austerity, Indra birth and prophecy retained. Full celestial attendance lists, music/dance catalogue, predictions and horoscope details not all voiced.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 119,
+      "title": "ಮಾದ್ರಿಯ ಅವಳಿಗಳು ಮತ್ತು ಮೊದಲ ಶಿಕ್ಷಣ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 29029,
+      "line_end": 29557,
+      "following_material_until_next_chapter_line": 29566,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G20-S11",
+        "G20-S12"
+      ],
+      "remaining_gap": "Madri request, one invocation/twins, Kunti's limit, Vasudeva gifts and Sharyati's son Shuka instruction retained. Full support-goods catalogue, rituals, weapon list and teacher praise abbreviated. Twins conflict with broad one-year spacing phrase29538 requires review.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 120,
+      "title": "ಪಾಂಡವರ ಆಯುಷ್ಯ ಮತ್ತು ಭವಿಷ್ಯಕಾಲಸಂಗ್ರಹ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 29567,
+      "line_end": 29657,
+      "following_material_until_next_chapter_line": 29813,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G21-S01"
+      ],
+      "remaining_gap": "Arrival ages16/15/14/13 and Yudhishthira108-year claim spoken as edition-specific preview. Each residence duration and Krishna/Balarama relative ages remain companion detail; no forced harmonization.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 121,
+      "title": "ಪಾಂಡು-ಮಾದ್ರಿಯ ಮರಣ ಮತ್ತು ಆಶ್ರಮದ ವಿಧಿಗಳು",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 29814,
+      "line_end": 30732,
+      "following_material_until_next_chapter_line": 30899,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G21-S02",
+        "G21-S03",
+        "G21-S04"
+      ],
+      "remaining_gap": "Madri's resistance, Kunti arrival keeping children back, sages' counsel both live, final choice and rites retained. Full laments, competing claims and detailed funeral sequence condensed; no self-immolation spectacle.",
+      "following_material_scene_ids": [
+        "G21-S06"
+      ]
+    },
+    {
+      "chapter": 122,
+      "title": "ಋಷಿಗಳೊಂದಿಗೆ ಪಾಂಡವರ ಆಗಮನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 30900,
+      "line_end": 31431,
+      "following_material_until_next_chapter_line": 31434,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G21-S05"
+      ],
+      "remaining_gap": "Main arrival, kinship presentation and acceptance scripted.30817 earlier heading plus30835–30894 commentary intrusion treated separately; full audience/gifts/ritual reception not all voiced.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 123,
+      "title": "ನಗರದ ಅಂತ್ಯಕ್ರಿಯೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 31435,
+      "line_end": 31780,
+      "following_material_until_next_chapter_line": 31783,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G21-S07"
+      ],
+      "remaining_gap": "City rites and collective grief summarized with previous forest rites distinguished. Exact body/relic handling and procession materials need printed-source continuity review, not blindly repeated as second death.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 124,
+      "title": "ಶ್ರಾದ್ಧ ಮತ್ತು ಮೂರು ಹಿರಿಯ ಸ್ತ್ರೀಯರ ವನಗಮನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 31784,
+      "line_end": 31910,
+      "following_material_until_next_chapter_line": 32108,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G21-S07"
+      ],
+      "remaining_gap": "Rites/donations, Vyasa warning and Satyavati/Ambika/Ambalika departure retained. All ritual items and exact final austerity/death descriptions summarized.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 125,
+      "title": "ಆಟ, ಮೊದಲ ದಾಳಿಗಳು ಮತ್ತು ಯುಯುತ್ಸುವಿನ ಎಚ್ಚರಿಕೆ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 32109,
+      "line_end": 32457,
+      "following_material_until_next_chapter_line": 32546,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G21-S08",
+        "G21-S09",
+        "G21-S10"
+      ],
+      "remaining_gap": "Rough play, first bound-water attack, separate snakes, warned poison and Vidura discretion retained. Full physical-play catalogue, assailant detail and conspiracy speeches condensed. Do not merge with126.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 126,
+      "title": "ಎರಡನೆಯ ವಿಷದಾನ ಮತ್ತು ನಾಗಭವನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 32547,
+      "line_end": 33104,
+      "following_material_until_next_chapter_line": 33268,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G21-S11",
+        "G21-S12",
+        "G21-S13",
+        "G21-S14"
+      ],
+      "remaining_gap": "Second feast, poison, bindings, naga bite reversal, Vasuki/Aryaka welcome, eight bowls/eight days, search and return retained. Resort architecture, spike details and full family exchange condensed. Later33193 duplicate ending/preceding commentary kept separate.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 127,
+      "title": "ಕೃಪ ಮತ್ತು ಕೃಪಿಯ ಜನನ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 33269,
+      "line_end": 33527,
+      "following_material_until_next_chapter_line": 33794,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G21-S15"
+      ],
+      "remaining_gap": "Sharadvan origin, twins in reeds, Shantanu care and later teaching retained. Apsara Janapadi episode and precise birth/weapon transmission sequence compressed nonsexually.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 128,
+      "title": "ದ್ರೋಣನ ಜನನ, ಕುಟುಂಬ ಮತ್ತು ಪರಶುರಾಮ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 33795,
+      "line_end": 34152,
+      "following_material_until_next_chapter_line": 34212,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G22-S01",
+        "G22-S02",
+        "G22-S03",
+        "G22-S05"
+      ],
+      "remaining_gap": "Vessel birth, Agniveshya instruction, Drupada friendship, Kripi/Ashwatthama and Parashurama gift/withdrawal knowledge retained. Main text previews appointment then returns to origin; script reorganizes for clarity with explicit frame notes.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 129,
+      "title": "ದ್ರುಪದನ ಅವಮಾನ ಮತ್ತು ಹಸ್ತಿನಪುರ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 34213,
+      "line_end": 34360,
+      "following_material_until_next_chapter_line": 34495,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G22-S06"
+      ],
+      "remaining_gap": "Rank-based friendship refusal and refuge with Kripa scripted. Full friendship maxims and offered limited hospitality not all spoken; source continuation before34372 commentary reviewed as paragraph span.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 130,
+      "title": "ಬಾವಿಯ ಕೌಶಲ ಮತ್ತು ದ್ರೋಣನ ನೇಮಕ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 34496,
+      "line_end": 35138,
+      "following_material_until_next_chapter_line": 35231,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G22-S04",
+        "G22-S07",
+        "G22-S08",
+        "G22-S09"
+      ],
+      "remaining_gap": "Ball plus Yudhishthira ring, reed chain vs arrow, Bhishma recognition, milk story, future task promise, Ashwatthama friendship and Karna studentship retained. Detailed second retelling of Drona's past and each student/curriculum list abbreviated.",
+      "following_material_scene_ids": []
+    },
+    {
+      "chapter": 131,
+      "title": "ರಾತ್ರಿಯ ಅಭ್ಯಾಸ ಮತ್ತು ಏಕಲವ್ಯ",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "line_start": 35232,
+      "line_end": 35619,
+      "following_material_until_next_chapter_line": 35619,
+      "status": "SUBSTANTIVE_ADAPTATION_WITH_SUMMARY_AND_REVIEW_GAPS",
+      "mapped_scene_ids": [
+        "G22-S10",
+        "G22-S11",
+        "G22-S12",
+        "G22-S13"
+      ],
+      "remaining_gap": "Hand-light gloss, night practice/promise, Ekalavya exclusion/clay teacher, seven arrows, right thumb and lost speed retained.35348–35356 disciple-address following refusal needs text-layer review; full teaching catalogue and exact dialogue not all voiced.",
+      "following_material_scene_ids": []
+    }
+  ],
+  "final_additions_integrated": true
+}

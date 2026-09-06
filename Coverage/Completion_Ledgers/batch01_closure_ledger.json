@@ -1,0 +1,1841 @@
+{
+  "units": [
+    {
+      "id": "V4U0001",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20507,
+      "line_end": 20522,
+      "source_proposition": "Maya tells Arjuna of the banner and Kinkara roar responding to the bow",
+      "completion_scene_ids": [
+        "V4C01-S01"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0002",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20525,
+      "line_end": 20533,
+      "source_proposition": "Agni chariot and celestial white horses",
+      "completion_scene_ids": [
+        "V4C01-S01"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0003",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20535,
+      "line_end": 20550,
+      "source_proposition": "Monkey banner does not snag on trees; many colors and battlefield prominence",
+      "completion_scene_ids": [
+        "V4C01-S01"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0004",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20552,
+      "line_end": 20557,
+      "source_proposition": "Arjuna embraces Maya at departure",
+      "completion_scene_ids": [
+        "V4C01-S01"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0005",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20559,
+      "line_end": 20580,
+      "source_proposition": "Feast for ten thousand Brahmins and all named food categories",
+      "completion_scene_ids": [
+        "V4C02-S01"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0006",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20583,
+      "line_end": 20589,
+      "source_proposition": "New garments and monetary gifts to arriving guests",
+      "completion_scene_ids": [
+        "V4C02-S01"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0007",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20592,
+      "line_end": 20598,
+      "source_proposition": "Thousand cattle each and loud punyaha declaration",
+      "completion_scene_ids": [
+        "V4C02-S01"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0008",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20601,
+      "line_end": 20607,
+      "source_proposition": "Deity installation and fragrance/garland worship",
+      "completion_scene_ids": [
+        "V4C02-S01"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0009",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20610,
+      "line_end": 20619,
+      "source_proposition": "Wrestlers actors musicians and praise-singers serve for seven days",
+      "completion_scene_ids": [
+        "V4C02-S01"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0010",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20622,
+      "line_end": 20635,
+      "source_proposition": "Yudhishthira enters with brothers and sits with sages and kings",
+      "completion_scene_ids": [
+        "V4C02-S01"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0011",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20641,
+      "line_end": 20641,
+      "source_proposition": "Named source occurrence: ಅಸಿತ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0012",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20641,
+      "line_end": 20641,
+      "source_proposition": "Named source occurrence: ದೇವಲ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0013",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20641,
+      "line_end": 20641,
+      "source_proposition": "Named source occurrence: ಸತ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0014",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20641,
+      "line_end": 20641,
+      "source_proposition": "Named source occurrence: ಸುಮಾಲೀ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0015",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20641,
+      "line_end": 20641,
+      "source_proposition": "Named source occurrence: ಅಂಗಿರಸ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0016",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20641,
+      "line_end": 20641,
+      "source_proposition": "Named source occurrence: ಅರ್ವಾವಸು",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0017",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20641,
+      "line_end": 20641,
+      "source_proposition": "Named source occurrence: ಸುಮಿತ್ರ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0018",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20641,
+      "line_end": 20641,
+      "source_proposition": "Named source occurrence: ಮೈತ್ರೇಯ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0019",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20641,
+      "line_end": 20641,
+      "source_proposition": "Named source occurrence: ಶೌನಕ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0020",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಆತ್ರೇಯ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0021",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಕಣ್ವ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0022",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಜಠರ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0023",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಮೌದ್ಗಲ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0024",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಹಸ್ತಿ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0025",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಕಾಶ್ಯಪ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0026",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ದಾಲ್ಭ್ಯನ ಪುತ್ರ ಬಕ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0027",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಸ್ಥೂಲಶಿರ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0028",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಕೃಷ್ಣದ್ವೈಪಾಯನ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0029",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಶುಕ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0030",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಸುಮಂತು",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0031",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಜೈಮಿನಿ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0032",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ಪೈಲ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0033",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20650,
+      "line_end": 20650,
+      "source_proposition": "Named source occurrence: ವೈಶಂಪಾಯನ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0034",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20659,
+      "line_end": 20659,
+      "source_proposition": "Named source occurrence: ತಿತ್ತಿರಿ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0035",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20659,
+      "line_end": 20659,
+      "source_proposition": "Named source occurrence: ಯಾಜ್ಞವಲ್ಕ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0036",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20659,
+      "line_end": 20659,
+      "source_proposition": "Named source occurrence: ಸಂಯುಕ್ತ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0037",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20659,
+      "line_end": 20659,
+      "source_proposition": "Named source occurrence: ರೋಮಹರ್ಷಣ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0038",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20659,
+      "line_end": 20659,
+      "source_proposition": "Named source occurrence: ಅಪ್ಪಜಾತ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0039",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20659,
+      "line_end": 20659,
+      "source_proposition": "Named source occurrence: ಧೌಮ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0040",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20659,
+      "line_end": 20659,
+      "source_proposition": "Named source occurrence: ಆಣಿಮಾಂಡವ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0041",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20659,
+      "line_end": 20659,
+      "source_proposition": "Named source occurrence: ಕೌಶಿಕ",
+      "completion_scene_ids": [
+        "V4C02-S02"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0042",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20663,
+      "line_end": 20663,
+      "source_proposition": "Named source occurrence: ದಾಮೋಷ್ಟೀಷ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0043",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20663,
+      "line_end": 20663,
+      "source_proposition": "Named source occurrence: ಸ್ಲಿಷವಣ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0044",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20663,
+      "line_end": 20663,
+      "source_proposition": "Named source occurrence: ಪರ್ಣಾದ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0045",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20663,
+      "line_end": 20663,
+      "source_proposition": "Named source occurrence: ಘಟಜಾನುಕ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0046",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20663,
+      "line_end": 20663,
+      "source_proposition": "Named source occurrence: ಮೌಂಜಾಯನ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0047",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20663,
+      "line_end": 20663,
+      "source_proposition": "Named source occurrence: ವಾಯುಭಕ್ಷ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0048",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20663,
+      "line_end": 20663,
+      "source_proposition": "Named source occurrence: ಪರಾಶರರ ಪುತ್ರ ಹಾರಿತ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0049",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20667,
+      "line_end": 20667,
+      "source_proposition": "Named source occurrence: ಶೀಲವಾನ್",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0050",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20667,
+      "line_end": 20667,
+      "source_proposition": "Named source occurrence: ಅಶನಿ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0051",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20667,
+      "line_end": 20667,
+      "source_proposition": "Named source occurrence: ಧಾತಾ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0052",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20667,
+      "line_end": 20667,
+      "source_proposition": "Named source occurrence: ಶೂನ್ಯಪಾಲ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0053",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20667,
+      "line_end": 20667,
+      "source_proposition": "Named source occurrence: ಕೃತಶ್ರಮ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0054",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20667,
+      "line_end": 20667,
+      "source_proposition": "Named source occurrence: ಜಾತೂಕರ್ಣ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0055",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20667,
+      "line_end": 20667,
+      "source_proposition": "Named source occurrence: ಶಿಖಾವಾನ್",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0056",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20667,
+      "line_end": 20667,
+      "source_proposition": "Named source occurrence: ಪ್ರಲಂಬ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0057",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20667,
+      "line_end": 20667,
+      "source_proposition": "Named source occurrence: ಪಾರಿಜಾತಕ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0058",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20670,
+      "line_end": 20670,
+      "source_proposition": "Named source occurrence: (ಸುಬಲ)",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0059",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20677,
+      "line_end": 20677,
+      "source_proposition": "Named source occurrence: ಪರ್ವತ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0060",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20677,
+      "line_end": 20677,
+      "source_proposition": "Named source occurrence: ಮಾರ್ಕಂಡೇಯ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0061",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20677,
+      "line_end": 20677,
+      "source_proposition": "Named source occurrence: ಪವಿತ್ರಪಾಣಿ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0062",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20677,
+      "line_end": 20677,
+      "source_proposition": "Named source occurrence: ಸಾವರ್ಣಿ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0063",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20677,
+      "line_end": 20677,
+      "source_proposition": "Named source occurrence: ವಾಲುಕಿ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0064",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20677,
+      "line_end": 20677,
+      "source_proposition": "Named source occurrence: ಗಾಲವ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0065",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20684,
+      "line_end": 20684,
+      "source_proposition": "Named source occurrence: ಜಂಘಾಬಂಧ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0066",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20684,
+      "line_end": 20684,
+      "source_proposition": "Named source occurrence: ರೈಭ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0067",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20684,
+      "line_end": 20684,
+      "source_proposition": "Named source occurrence: ಕೋಪವೇಗ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0068",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20684,
+      "line_end": 20684,
+      "source_proposition": "Named source occurrence: ಭೃಗು",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0069",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20684,
+      "line_end": 20684,
+      "source_proposition": "Named source occurrence: ಪರಿಬಭ್ರ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0070",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20684,
+      "line_end": 20684,
+      "source_proposition": "Named source occurrence: ಕೌಂಡಿನ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0071",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20684,
+      "line_end": 20684,
+      "source_proposition": "Named source occurrence: ಬಭ್ರುಮಾಲಿ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0072",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20684,
+      "line_end": 20684,
+      "source_proposition": "Named source occurrence: ಸನಾತನ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0073",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20692,
+      "line_end": 20692,
+      "source_proposition": "Named source occurrence: ಉಶಿಜನ ಪುತ್ರ ಕಕ್ಷೀವಾನ್",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0074",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20692,
+      "line_end": 20692,
+      "source_proposition": "Named source occurrence: ನಚಿಕೇತನ ಪುತ್ರ ಗೌತಮ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0075",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20692,
+      "line_end": 20692,
+      "source_proposition": "Named source occurrence: ಪಿಂಗನ ಪುತ್ರ ವರಾಹ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0076",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20692,
+      "line_end": 20692,
+      "source_proposition": "Named source occurrence: ಶುನಕ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0077",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20692,
+      "line_end": 20692,
+      "source_proposition": "Named source occurrence: ಶಾಂಡಿಲ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0078",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20703,
+      "line_end": 20703,
+      "source_proposition": "Named source occurrence: ಕುರರ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0079",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20703,
+      "line_end": 20703,
+      "source_proposition": "Named source occurrence: ವೇಣುಜಂಘ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0080",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20703,
+      "line_end": 20703,
+      "source_proposition": "Named source occurrence: ಕಲಾಪ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0081",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20703,
+      "line_end": 20703,
+      "source_proposition": "Named source occurrence: ಕಠ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0082",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20703,
+      "line_end": 20703,
+      "source_proposition": "Named source occurrence: ಶಾರ್ಜರ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0083",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20703,
+      "line_end": 20703,
+      "source_proposition": "Named source occurrence: ತೈಲಕುಂಡ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0084",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20703,
+      "line_end": 20703,
+      "source_proposition": "Named source occurrence: ಪರ್ಣವಲಲ",
+      "completion_scene_ids": [
+        "V4C02-S03"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0085",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20731,
+      "line_end": 20731,
+      "source_proposition": "Named source occurrence: ಮುಂಜಕೇತು",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0086",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20731,
+      "line_end": 20731,
+      "source_proposition": "Named source occurrence: ವಿವರ್ಧನ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0087",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20731,
+      "line_end": 20731,
+      "source_proposition": "Named source occurrence: ಸಂಗ್ರಾಮಜಯ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0088",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20731,
+      "line_end": 20731,
+      "source_proposition": "Named source occurrence: ಉಗ್ರಸೇನ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0089",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20737,
+      "line_end": 20737,
+      "source_proposition": "Named source occurrence: ಕ್ಷೇಮ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0090",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20737,
+      "line_end": 20737,
+      "source_proposition": "Named source occurrence: ವಸುದಾನ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0091",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20737,
+      "line_end": 20737,
+      "source_proposition": "Named source occurrence: ವಿದೇಹರಾಜ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0092",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20737,
+      "line_end": 20737,
+      "source_proposition": "Named source occurrence: ಕಕ್ಷಸೇನ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0093",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20737,
+      "line_end": 20737,
+      "source_proposition": "Named source occurrence: ಕ್ಷೇಮಕ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0094",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20752,
+      "line_end": 20752,
+      "source_proposition": "Named source occurrence: ಕಾಂಬೋಜರಾಜ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0095",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20752,
+      "line_end": 20752,
+      "source_proposition": "Named source occurrence: ಕಮಠ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0096",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20752,
+      "line_end": 20752,
+      "source_proposition": "Named source occurrence: ಕಂಪನ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0097",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20766,
+      "line_end": 20766,
+      "source_proposition": "Named source occurrence: ಜಟಾಸುರ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0098",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20766,
+      "line_end": 20766,
+      "source_proposition": "Named source occurrence: ಭದ್ರಕಾಂತ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0099",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20766,
+      "line_end": 20766,
+      "source_proposition": "Named source occurrence: ಕುಣಿ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0100",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20766,
+      "line_end": 20766,
+      "source_proposition": "Named source occurrence: ಪುಲಿಂದ ಕಿರಾತರಾಜ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0101",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20766,
+      "line_end": 20766,
+      "source_proposition": "Named source occurrence: ಅಂಗರಾಜ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0102",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20766,
+      "line_end": 20766,
+      "source_proposition": "Named source occurrence: ವಂಗರಾಜ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0103",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20767,
+      "line_end": 20767,
+      "source_proposition": "Named source occurrence: ಪೌಂಡ್ರಕರಾಜನಾದ ಪಾಂಡ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0104",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20774,
+      "line_end": 20774,
+      "source_proposition": "Named source occurrence: ಕೇರಳರಾಜ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0105",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20774,
+      "line_end": 20774,
+      "source_proposition": "Named source occurrence: ಸುಮನಸ್ ಕಿರಾತರಾಜ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0106",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20774,
+      "line_end": 20774,
+      "source_proposition": "Named source occurrence: ಯವನಾಧಿಪತಿ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0107",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20774,
+      "line_end": 20774,
+      "source_proposition": "Named source occurrence: ಪಾಂಚಾಲರಾಜ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0108",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20774,
+      "line_end": 20774,
+      "source_proposition": "Named source occurrence: ವಿರಾಟ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0109",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20774,
+      "line_end": 20774,
+      "source_proposition": "Named source occurrence: ದ್ರುಮಶಲ್ಯ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0110",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20774,
+      "line_end": 20774,
+      "source_proposition": "Named source occurrence: ಪೃಥುಶ್ರವ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0111",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20782,
+      "line_end": 20782,
+      "source_proposition": "Named source occurrence: ಸುಶರ್ಮಾ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0112",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20782,
+      "line_end": 20782,
+      "source_proposition": "Named source occurrence: ಚೇಕಿತಾನ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0113",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20782,
+      "line_end": 20782,
+      "source_proposition": "Named source occurrence: ಮುಖ್ಯಸೇನ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0114",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20782,
+      "line_end": 20782,
+      "source_proposition": "Named source occurrence: ಸುಧರ್ಮ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0115",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20782,
+      "line_end": 20782,
+      "source_proposition": "Named source occurrence: ಅನಿರುದ್ಧ",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0116",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20782,
+      "line_end": 20782,
+      "source_proposition": "Named source occurrence: ಶ್ರುತಾಯು",
+      "completion_scene_ids": [
+        "V4C02-S04"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0117",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20793,
+      "line_end": 20793,
+      "source_proposition": "Named source occurrence: ಅನೂಪರಾಜ ದುರ್ಧರ್ಷ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0118",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20793,
+      "line_end": 20793,
+      "source_proposition": "Named source occurrence: ಕ್ಷೇಮಜಿತ್",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0119",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20793,
+      "line_end": 20793,
+      "source_proposition": "Named source occurrence: ಸುದಕ್ಷಿಣ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0120",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20793,
+      "line_end": 20793,
+      "source_proposition": "Named source occurrence: ಶಿಶುಪಾಲ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0121",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20793,
+      "line_end": 20793,
+      "source_proposition": "Named source occurrence: ದಶಗ್ರೀವ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0122",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20793,
+      "line_end": 20793,
+      "source_proposition": "Named source occurrence: ಕರೂಶಾಧಿಪತಿ ದಂತವಕ್ರ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0123",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20803,
+      "line_end": 20803,
+      "source_proposition": "Named source occurrence: ಆಹುಕ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0124",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20803,
+      "line_end": 20803,
+      "source_proposition": "Named source occurrence: ವಿಪೃಥು",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0125",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20803,
+      "line_end": 20803,
+      "source_proposition": "Named source occurrence: ಗದ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0126",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20803,
+      "line_end": 20803,
+      "source_proposition": "Named source occurrence: ಸಾರಣ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0127",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20803,
+      "line_end": 20803,
+      "source_proposition": "Named source occurrence: ಅಕ್ರೂರ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0128",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20803,
+      "line_end": 20803,
+      "source_proposition": "Named source occurrence: ಕೃತವರ್ಮ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0129",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20803,
+      "line_end": 20803,
+      "source_proposition": "Named source occurrence: ಶಿನಿಪುತ್ರ ಸಾತ್ಯಕಿ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0130",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20810,
+      "line_end": 20810,
+      "source_proposition": "Named source occurrence: ಭೀಷ್ಮಕ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0131",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20810,
+      "line_end": 20810,
+      "source_proposition": "Named source occurrence: ಹೃದಿಕ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0132",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20810,
+      "line_end": 20810,
+      "source_proposition": "Named source occurrence: ದ್ಯುಮತ್ತೇನ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0133",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20811,
+      "line_end": 20811,
+      "source_proposition": "Named source occurrence: ಕೇಕಯದೇಶದ ರಾಜರು",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0134",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20811,
+      "line_end": 20811,
+      "source_proposition": "Named source occurrence: ಸೋಮಕನ ಮಗ ಯಜ್ಞಸೇನ",
+      "completion_scene_ids": [
+        "V4C02-S05"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0135",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20821,
+      "line_end": 20829,
+      "source_proposition": "Royal students wear raurava deer hide and learn archery from Arjuna",
+      "completion_scene_ids": [
+        "V4C02-S06"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0136",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20835,
+      "line_end": 20851,
+      "source_proposition": "All named student occurrences including Pradyumna, Yuyudhana/Satyaki, Chanura, Devarata, Bhoja, Bhimaratha, Shatayudha and Magadha Yajnasena",
+      "completion_scene_ids": [
+        "V4C02-S06"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0137",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20854,
+      "line_end": 20860,
+      "source_proposition": "Tumburu is Arjuna’s friend, twenty-seven Gandharvas serve",
+      "completion_scene_ids": [
+        "V4C02-S07"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0138",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20862,
+      "line_end": 20869,
+      "source_proposition": "Chitrasena arrives with minister and Gandharva/Apsara groups",
+      "completion_scene_ids": [
+        "V4C02-S07"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0139",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20872,
+      "line_end": 20881,
+      "source_proposition": "Kinnara skill in rhythm, measure, tempo, note placement and register",
+      "completion_scene_ids": [
+        "V4C02-S07"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0140",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20883,
+      "line_end": 20898,
+      "source_proposition": "Tumburu directs celestial songs by Gandharvas and Kinnaras",
+      "completion_scene_ids": [
+        "V4C02-S07"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    },
+    {
+      "id": "V4U0141",
+      "chapter": "Sabha 4",
+      "source_file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "line_start": 20900,
+      "line_end": 20906,
+      "source_proposition": "Sages and kings honor Yudhishthira in the hall",
+      "completion_scene_ids": [
+        "V4C02-S07"
+      ],
+      "status": "adapted_readable_meaning",
+      "basis": "Direct manual comparison of the source proposition and the written Kannada narration; not reference-overlap alone."
+    }
+  ],
+  "definitions": {
+    "adapted_readable_meaning": "The written completion scene contains the actual proposition.",
+    "unresolved_exact_ocr_reading": "Exact reading is pending; no completion claim."
+  }
+}

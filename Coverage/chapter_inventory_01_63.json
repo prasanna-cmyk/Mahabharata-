@@ -1,0 +1,1491 @@
+{
+  "scope": "Adi Parva chapters1-63 in supplied Volume1",
+  "status": "COMPLETE_CHAPTER_INVENTORY_WITH_EXPLICIT_INCOMPLETE_ADAPTATION",
+  "source_line_convention": "One-based lines in original supplied UTF-8 OCR member; no normalization before numbering.",
+  "not_covered_by_this_file": "Front matter lines1-3715 is assigned to the separate source-introduction package. This chapter inventory is navigation and a gap ledger, not proof of unabridged coverage.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 3716,
+          "line_end": 6501
+        }
+      ],
+      "subject": "Invocation; Naimisha frame; cosmology; text transmission; epic synopsis; praise",
+      "adapted_scene_ids": [
+        "G01-S01",
+        "G01-S02",
+        "G01-S03",
+        "G01-S04",
+        "G01-S05",
+        "G01-S06",
+        "G01-S07",
+        "G01-S08"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Full opening hymn sequence; creation/entity and time-cycle enumerations; textual-size and transmission figures; complete epic-tree metaphor; every Dhritarashtra/Sanjaya loss-of-hope incident; full phalashruti and commentary. The draft only samples/summarizes long sections4390-6495."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 2,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 6502,
+          "line_end": 8942
+        }
+      ],
+      "subject": "Samantapanchaka; army units; battle duration; main and subsidiary parvas",
+      "adapted_scene_ids": [
+        "G02-S01",
+        "G02-S02",
+        "G02-S03",
+        "G02-S04",
+        "G02-S05",
+        "G02-S06",
+        "G02-S07",
+        "G02-S08"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Every army-unit multiplication from patti upward; full hundred-subparva list; each parva synopsis beyond its label; source chapter/verse counts and their variants; all closing praise. The eighteen-parva overview is present but not the full inventory6759-8928."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 3,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 8943,
+          "line_end": 11157
+        }
+      ],
+      "subject": "Sarama; Somashravas; Aruni; Upamanyu; Baida; Uttanka and earrings",
+      "adapted_scene_ids": [
+        "G03-S01",
+        "G03-S02",
+        "G03-S03",
+        "G03-S04",
+        "G03-S05",
+        "G03-S06",
+        "G03-S07",
+        "G03-S08",
+        "G04-S01",
+        "G04-S02",
+        "G04-S03",
+        "G04-S04",
+        "G04-S05",
+        "G04-S06",
+        "G04-S07",
+        "G04-S08",
+        "G04-S09",
+        "G04-S10",
+        "G04-S11",
+        "G04-S12"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full Ashvin hymn9494-9820; exact Somashravas exception9097-9132 and divergent Sanskrit/Kannada gloss; all purity/acamana detail10297-10426; complete Uttanka hymns and weave/wheel allegory10600-10969; the meal-curse discussion in full. Major distinct incidents are retained, but conversations are condensed."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 4,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 11158,
+          "line_end": 11287
+        }
+      ],
+      "subject": "Assembly waits for Shaunaka; arrival and Bhrigu-line inquiry",
+      "adapted_scene_ids": [
+        "G05-S01"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full request/response wording and transition formulae. The event sequence is represented, but no verse-level comparison has been completed."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 5,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 11288,
+          "line_end": 11542
+        }
+      ],
+      "subject": "Bhrigu ancestry; Puloma rakshasa questions Agni about Puloma the wife",
+      "adapted_scene_ids": [
+        "G05-S02",
+        "G05-S03"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Complete Bhrigu birth/ancestry introduction and precise distinction between earlier desire/promise and valid marriage; all of Agni’s witness reasoning. Dialogue is currently narrated indirectly."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 6,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 11543,
+          "line_end": 11690
+        }
+      ],
+      "subject": "Abduction; Chyavana birth; rakshasa destroyed; Vadhusara; Bhrigu curses Agni",
+      "adapted_scene_ids": [
+        "G05-S04",
+        "G05-S05"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Every verse in the mother’s return, Brahma’s naming of Vadhusara and Bhrigu’s interrogation; source commentary on name etymology and witness responsibility."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 7,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 11691,
+          "line_end": 11979
+        }
+      ],
+      "subject": "Agni’s defense, withdrawal and Brahma’s resolution",
+      "adapted_scene_ids": [
+        "G05-S06",
+        "G05-S07",
+        "G05-S08"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full witness-duty argument, offerings to gods/ancestors, differentiated Agni mouths/forms and purification explanation. The source’s technical ritual distinctions are condensed into a scene-level explanation."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 8,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 11980,
+          "line_end": 12197
+        }
+      ],
+      "subject": "Bhrigu lineage; Pramadvara’s parentage/adoption; betrothal; snakebite",
+      "adapted_scene_ids": [
+        "G05-S08",
+        "G06-S01",
+        "G06-S02"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Complete lineage names and precise relationships; full list of sages at the death scene; all descriptions of foster care and wedding arrangements. Verify Shunaka/Shaunaka distinction."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 9,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 12198,
+          "line_end": 12439
+        }
+      ],
+      "subject": "Ruru’s lament; half-life gift; revival and marriage; serpent hatred",
+      "adapted_scene_ids": [
+        "G06-S03",
+        "G06-S04",
+        "G06-S05"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full lament and merit appeal; complete messenger/Visvavasu/Yama exchange; exact wedding timing; detailed vow wording. The supernatural lifespan gift is attributed to this story."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 10,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 12440,
+          "line_end": 12538
+        }
+      ],
+      "subject": "Ruru confronts harmless Dundubha; identity revealed",
+      "adapted_scene_ids": [
+        "G06-S05"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full distinction between venomous snakes and harmless Dundubhas, and the initial questioning before Sahasrapat’s backstory."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 11,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 12539,
+          "line_end": 12707
+        }
+      ],
+      "subject": "Grass-snake prank; Khagama’s curse; release and ahimsa teaching",
+      "adapted_scene_ids": [
+        "G06-S06",
+        "G06-S07"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Complete curse-remission dialogue and the full ahimsa/truth/forbearance/role-specific duty teaching. Do not reduce the teaching to one modern slogan."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 12,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 12708,
+          "line_end": 12811
+        }
+      ],
+      "subject": "Ruru asks about Astika; Dundubha vanishes; question goes to father",
+      "adapted_scene_ids": [
+        "G06-S08"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "All frame-transition wording and the exact promise of later hearing. Main event retained, verse-level audit pending."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 13,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 12812,
+          "line_end": 13333
+        }
+      ],
+      "subject": "Preliminary Astika narrative; Jaratkaru ancestors and marriage promise; rescue preview",
+      "adapted_scene_ids": [
+        "G07-S01",
+        "G09-S11",
+        "G10-S09",
+        "G10-S10",
+        "G10-S12",
+        "G11-S01",
+        "G11-S11"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "The source’s first full preliminary summary is distributed across later expansion scenes rather than spoken verbatim here. Need a clearly marked synopsis reading preserving all anticipations and the initial name/asceticism explanations."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 14,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 13334,
+          "line_end": 13583
+        }
+      ],
+      "subject": "Kadru/Vinata boons; eggs; premature Aruna; bondage prediction",
+      "adapted_scene_ids": [
+        "G07-S02",
+        "G07-S03"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Exact waiting periods and numeric egg chronology; full Aruna curse/remedy wording and solar-charioteer explanation. Major events retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 15,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 13584,
+          "line_end": 14103
+        }
+      ],
+      "subject": "Horse wager opens churning question; divine counsel; inserted Madhva churning exposition",
+      "adapted_scene_ids": [
+        "G07-S04",
+        "G07-S05",
+        "G07-S08"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Large commentary span13714-14103 needs complete separately labeled narration: Vishnu’s roles, Vayu/Rudra poison details, gifts, Mohini, Rahu and interpretive explanations. Current commentary scene is only an attributed summary."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 16,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 14104,
+          "line_end": 14655
+        }
+      ],
+      "subject": "Mandara/Vasuki/tortoise setup; poison; ecological damage; treasures; Mohini",
+      "adapted_scene_ids": [
+        "G07-S06",
+        "G07-S07",
+        "G07-S09",
+        "G07-S10"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Exact dimensions, lifting agency, sea’s requested share, who holds each end of Vasuki, full poison sequence, all damage/restoration verses, emergence order and full treasure inventory; verify main text vs prior commentary lists."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 17,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 14656,
+          "line_end": 14991
+        }
+      ],
+      "subject": "Deva amrita drinking; Rahu; devas/asuras battle; Mandara restored",
+      "adapted_scene_ids": [
+        "G07-S11"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Detailed battle sequence, named fighters, Narayana/Nara roles, weapons and mountain returns, full Rahu rationale and protection assignment. One scene is insufficient for unabridged battle coverage."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 18,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 14992,
+          "line_end": 15166
+        }
+      ],
+      "subject": "Kadru’s demand for serpent deception; curse and Brahma approval",
+      "adapted_scene_ids": [
+        "G07-S12"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full explanation for Brahma approving destruction of harmful serpents; Kashyapa’s consolation and Karkotaka’s specific response. Major curse/action retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 19,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 15167,
+          "line_end": 15304
+        }
+      ],
+      "subject": "Kadru/Vinata cross toward the horse; extended ocean description",
+      "adapted_scene_ids": [
+        "G08-S01"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Almost all detailed ocean imagery, inhabitants, sacred associations and descriptive comparisons are summarized. Requires a dedicated narrated landscape passage, not merely a richer image prompt."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 20,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 15305,
+          "line_end": 15736
+        }
+      ],
+      "subject": "Wager lost; Vinata enslaved; Garuda hatches; divine praise and radiance reduction",
+      "adapted_scene_ids": [
+        "G08-S01",
+        "G08-S02"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Complete Garuda hymn, Agni/deva explanation and scale reduction wording; repeated OCR endings around15645/15731 require scan check. Main events retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 21,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 15737,
+          "line_end": 15952
+        }
+      ],
+      "subject": "Vinata carries Kadru; Garuda carries serpents; heat; Kadru praises Indra",
+      "adapted_scene_ids": [
+        "G08-S03"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full Indra rain hymn and exact travel geography, mother/carrier arrangement and descriptions of serpent distress."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 22,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 15953,
+          "line_end": 16007
+        }
+      ],
+      "subject": "Indra sends rain; serpents recover",
+      "adapted_scene_ids": [
+        "G08-S03"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full weather imagery and the effect of the rain on the traveling company. Event retained within a combined scene."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 23,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 16008,
+          "line_end": 16323
+        }
+      ],
+      "subject": "Island; bondage inquiry; amrita bargain; food instructions; Nishada feeding",
+      "adapted_scene_ids": [
+        "G08-S03",
+        "G08-S04",
+        "G08-S05"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Island description; full Vinata blessing and instructions; exact Nishada episode scale and source commentary. It must be contextualized, not sanitized or dehumanized."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 24,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 16324,
+          "line_end": 16678
+        }
+      ],
+      "subject": "Brahmin and Nishada wife released; elephant/tortoise brothers; banyan branch breaks",
+      "adapted_scene_ids": [
+        "G08-S05",
+        "G08-S06",
+        "G08-S07"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full property-division debate between Vibhavasu/Supratika, numerical animal dimensions, tree dialogue and Garuda naming explanation. Both spouses’ survival and animal identities retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 25,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 16679,
+          "line_end": 17147
+        }
+      ],
+      "subject": "Valakhilyas protected; branch released; feeding; celestial omens and defenses",
+      "adapted_scene_ids": [
+        "G08-S08",
+        "G08-S09"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Complete Kashyapa/Valakhilya exchange, chosen mountain-location details, omens, Brihaspati explanation and guard/weapon inventory. Main causal sequence retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 26,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 17148,
+          "line_end": 17457
+        }
+      ],
+      "subject": "Indra mocks Valakhilyas; their vow; Kashyapa redirects it toward bird king",
+      "adapted_scene_ids": [
+        "G09-S01",
+        "G09-S02"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full ritual context, the exact original vow and redirection, Vinata’s approach and all blessing details. Main event retained as explicit flashback."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 27,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 17458,
+          "line_end": 17698
+        }
+      ],
+      "subject": "Garuda defeats deva guardians",
+      "adapted_scene_ids": [
+        "G09-S03"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Every named defending group, the sequence of attacks and retreats, dust-clearing action and detailed wounds/weapons. Current fight is a condensed action scene."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 28,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 17699,
+          "line_end": 17942
+        }
+      ],
+      "subject": "Fire/wheel/serpent guards; amrita; Vishnu boons; Indra’s vajra",
+      "adapted_scene_ids": [
+        "G09-S04",
+        "G09-S05",
+        "G09-S06"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Exact fire-quenching water quantities/forms, wheel mechanics, two serpent guardians’ defeat, all boon wording and commentary on Vishnu/Garuda relationship. Main obstacles retained in order."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 29,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 17943,
+          "line_end": 18182
+        }
+      ],
+      "subject": "Garuda/Indra friendship; food boon; return; kusa; split tongues",
+      "adapted_scene_ids": [
+        "G09-S06",
+        "G09-S07"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Garuda’s full strength explanation, all Indra arrangement dialogue and kusa sanctification details remain condensed. The food boon that serpents become his food is explicitly retained in EP09-S06."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 30,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 18183,
+          "line_end": 18349
+        }
+      ],
+      "subject": "Serpent genealogy and names",
+      "adapted_scene_ids": [
+        "G09-S08"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Full serpent name list is not narrated or transcribed here. Only a few anchors appear. Requires complete checked name/pronunciation table plus a usable full narration reading."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 31,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 18350,
+          "line_end": 18631
+        }
+      ],
+      "subject": "Shesha’s withdrawal, tapas, Brahma boon and earth-bearing role",
+      "adapted_scene_ids": [
+        "G09-S08",
+        "G09-S09"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "All named tapas locations, ascetic practices, exact boon conversation and Garuda friendship statement. Main story retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 32,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 18632,
+          "line_end": 19021
+        }
+      ],
+      "subject": "Vasuki council debates ways to avert sacrifice",
+      "adapted_scene_ids": [
+        "G09-S10"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Each proposed plan and objection in original order, including disguise, ritual sabotage and murder suggestions; complete Vasuki responsibility speech. Draft samples rather than lists every plan."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 33,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 19022,
+          "line_end": 19434
+        }
+      ],
+      "subject": "Elapatra reports Brahma’s rescue prophecy",
+      "adapted_scene_ids": [
+        "G09-S11"
+      ],
+      "adaptation_status": "OCR_ORDER_REVIEW_REQUIRED",
+      "remaining_gaps": [
+        "Full remembered Brahma dialogue and distinctions between destructive and righteous serpents. Chapter33-35 OCR page order/colophons are interleaved; reconcile scan before assigning narrower verse citations."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 34,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 19022,
+          "line_end": 19434
+        }
+      ],
+      "subject": "Vasuki protects sister; devas seek Brahma reassurance",
+      "adapted_scene_ids": [
+        "G09-S11"
+      ],
+      "adaptation_status": "OCR_ORDER_REVIEW_REQUIRED",
+      "remaining_gaps": [
+        "Full post-churning deva intercession, Brahma confirmation and continued search arrangements. Shared locator range is deliberate because OCR headings/colophons conflict."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 35,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 19170,
+          "line_end": 19868
+        }
+      ],
+      "subject": "Parikshit’s hunt; silent Shamika; dead snake; Shringi informed",
+      "adapted_scene_ids": [
+        "G10-S01",
+        "G10-S02"
+      ],
+      "adaptation_status": "OCR_ORDER_REVIEW_REQUIRED",
+      "remaining_gaps": [
+        "The chapter35 body is partly interleaved into the apparent chapter36 range. Need scan-order restoration and full king description, hunting detail and Krisha/Shringi exchange."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 36,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 19438,
+          "line_end": 19871
+        }
+      ],
+      "subject": "Shringi’s curse; father condemns excessive punishment",
+      "adapted_scene_ids": [
+        "G10-S02",
+        "G10-S03"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full filial anger dialogue, the exact curse formulation, Shamika’s royal-protection reasoning and all duplicated/interleaved OCR blocks. Main ethical disagreement retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 37,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 19872,
+          "line_end": 20275
+        }
+      ],
+      "subject": "Shamika teaches restraint; Gauramukha warns; king prepares; healer meets Takshaka",
+      "adapted_scene_ids": [
+        "G10-S03",
+        "G10-S04",
+        "G10-S05",
+        "G10-S06"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Complete teaching on anger/tapas and kingship; exact warning and remorse speech; all guarded-refuge arrangements; healer’s initial motive dialogue. Main sequence retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 38,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 20276,
+          "line_end": 20582
+        }
+      ],
+      "subject": "Tree test; healer bribed back; fruit-worm entry; Takshaka attacks",
+      "adapted_scene_ids": [
+        "G10-S06",
+        "G10-S07"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full tree restoration progression, healer’s lifespan discernment, precise disguise/gift details and king’s sunset speech; all Takshaka dialogue. Main source path is retained without importing Bhagavata’s riverbank setting."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 39,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 20583,
+          "line_end": 20720
+        }
+      ],
+      "subject": "Parikshit dies; funeral; Janamejaya crowned; Vapustama marriage",
+      "adapted_scene_ids": [
+        "G10-S08"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full funeral rites, royal succession detail, bride’s father/negotiation and marriage description; these events deserve separate scenes if full detail is required."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 40,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 20721,
+          "line_end": 21038
+        }
+      ],
+      "subject": "Detailed Jaratkaru pilgrimage and ancestor predicament",
+      "adapted_scene_ids": [
+        "G10-S09",
+        "G07-S01"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full pilgrimage/tapas descriptions, grass/root/mouse allegory and ancestor dialogue; distinguish this expanded return from chapter13 preliminary telling."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 41,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 21039,
+          "line_end": 21260
+        }
+      ],
+      "subject": "Jaratkaru agrees; seeks same-named wife; terms announced",
+      "adapted_scene_ids": [
+        "G10-S09",
+        "G10-S10"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Every search episode, threefold forest announcement if confirmed, ancestor response and maintenance conditions. Same-name and support conditions retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 42,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 21261,
+          "line_end": 21772
+        }
+      ],
+      "subject": "Marriage; sunset waking; departure; unborn son assurance",
+      "adapted_scene_ids": [
+        "G10-S10",
+        "G10-S11",
+        "G10-S12"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Complete marriage terms, domestic conduct, wife’s internal debate, husband’s claim about sunset, her rescue-purpose plea and final assurance. Source argument is substantially condensed."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 43,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 21773,
+          "line_end": 21996
+        }
+      ],
+      "subject": "Wife tells Vasuki; Astika born, named and educated",
+      "adapted_scene_ids": [
+        "G11-S01"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full sister/brother dialogue, pregnancy/naming wording and education/praise details. Check Bhargava-Chyavana lineage teacher instead of identifying ancient Chyavana automatically."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 44,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 21997,
+          "line_end": 22296
+        }
+      ],
+      "subject": "Janamejaya asks ministers about father; character and hunting account",
+      "adapted_scene_ids": [
+        "G11-S02"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full account of Parikshit’s governance/virtues, age and hunting event as retold by ministers. Distinguish this second narrative witness frame from the earlier event depiction."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 45,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 22297,
+          "line_end": 22676
+        }
+      ],
+      "subject": "Ministers explain curse/death; wood-gatherer witness; king vows vengeance",
+      "adapted_scene_ids": [
+        "G11-S02",
+        "G11-S03",
+        "G11-S04"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Complete inquiry including how evidence became known and the king’s reasoning about treatment obstruction. Wood-gatherer revival witness retained; detailed speeches condensed."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 46,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 22677,
+          "line_end": 22946
+        }
+      ],
+      "subject": "Sacrifice commissioned; architect predicts interruption; guards; serpents burn",
+      "adapted_scene_ids": [
+        "G11-S04",
+        "G11-S05",
+        "G11-S06"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full rite preparation, ground/time-reading rationale, initiation clothing/actions, exact entrant restriction and descriptions of serpent victims. Main commissioning-to-harm sequence retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 47,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 22947,
+          "line_end": 23184
+        }
+      ],
+      "subject": "Ritual officiant names; Vasuki asks sister to send Astika",
+      "adapted_scene_ids": [
+        "G11-S06",
+        "G11-S07"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "All hotr/udgatr/adhvaryu/brahman and assembly names are missing as a complete list; need checked naming/pronunciation and full voice passage. Vasuki appeal condensed."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 48,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 23185,
+          "line_end": 23567
+        }
+      ],
+      "subject": "Mother explains naga predicament and mission to Astika",
+      "adapted_scene_ids": [
+        "G11-S07"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Entire mother/son question-and-answer, lineage/curse recapitulation and assurance to Vasuki. Only the main mission is currently dramatized."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 49,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 23568,
+          "line_end": 23814
+        }
+      ],
+      "subject": "Astika praises sacrifice, king and priests",
+      "adapted_scene_ids": [
+        "G11-S08"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Full comparison sequence to earlier royal/divine sacrifices, priest qualities and benedictory refrain; a single entry scene cannot count as complete praise coverage."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 50,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 23815,
+          "line_end": 24155
+        }
+      ],
+      "subject": "Boon offer; Takshaka/Indra drawn; Astika asks cessation",
+      "adapted_scene_ids": [
+        "G11-S09",
+        "G11-S10",
+        "G11-S11"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full royal/ritual consultation, every alternative boon offered, the exact command naming Indra and Takshaka, and Astika’s repeated refusal of substitutes."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 51,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 24156,
+          "line_end": 24341
+        }
+      ],
+      "subject": "Named serpents destroyed by lineage",
+      "adapted_scene_ids": [
+        "G11-S12"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Complete casualty names and counts by Vasuki/Takshaka/Airavata/Kauravya/Dhritarashtra lineages are missing. This is a casualty list, not the list of survivors; source table and spoken memorial reading required."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 52,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 24342,
+          "line_end": 24646
+        }
+      ],
+      "subject": "Three stop commands; sacrifice ends; honors; homecoming; serpent-protection boon",
+      "adapted_scene_ids": [
+        "G11-S11",
+        "G11-S13"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full reward recipients, Avabhrtha, future Ashvamedha invitation, all snake-protection formulae and conditional consequences. Main ending and three commands retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 53,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 24647,
+          "line_end": 24964
+        }
+      ],
+      "subject": "Shaunaka requests Bharata; Vyasa delegates narration to Vaishampayana",
+      "adapted_scene_ids": [
+        "G12-S01"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Complete reception rites, questions and source-transmission wording. Frame hierarchy is retained but detailed dialogue abbreviated."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 54,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 24965,
+          "line_end": 25535
+        }
+      ],
+      "subject": "Concise full Bharata narrative",
+      "adapted_scene_ids": [
+        "G12-S02"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Every incident in this chapter’s ordered synopsis remains to be expanded as a full source companion reading. The current paragraph is only a high-level overview; it does not satisfy every-story coverage."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 55,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 25536,
+          "line_end": 26184
+        }
+      ],
+      "subject": "Bharata praise and benefits of hearing",
+      "adapted_scene_ids": [
+        "G12-S03"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Entire phalashruti, contextual reading occasions, promised benefits, comparisons and doctrinal distinctions. OCR repeats a chapter-ending block; distinguish actual source repetition from scan duplication."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 56,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 26185,
+          "line_end": 27499
+        }
+      ],
+      "subject": "Puru genealogy from creation through Kuru family; associated commentary",
+      "adapted_scene_ids": [
+        "G12-S04",
+        "G12-S05"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Full parent/spouse/child chain, kings’ deeds, all alternate names and intermarriages; commentary after26960 before chapter57. Current anchors are inadequate for unabridged genealogy. Preserve this sequence separately from chapter63 variant."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 57,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 27500,
+          "line_end": 29479
+        }
+      ],
+      "subject": "Uparichara Vasu; Indra festival; Girika; Adrika/Satyavati; formal marriage; Vyasa birth",
+      "adapted_scene_ids": [
+        "G12-S06",
+        "G12-S07",
+        "G12-S08",
+        "G12-S09",
+        "G12-S10",
+        "G12-S11",
+        "G12-S12",
+        "G12-S13",
+        "G12-S14",
+        "G12-S15",
+        "G12-S16",
+        "G12-S17",
+        "G12-S18"
+      ],
+      "adaptation_status": "MAIN_STORY_ADAPTED_DETAIL_PENDING",
+      "remaining_gaps": [
+        "Full five-son names and kingdoms; entire Indra festival ritual/phalashruti; full Satyavati previous-birth names; complete marriage-type/dana-authority debate and ritual; all unusual-birth exempla in Parashara’s maternal-respect teaching; exact Vyasa farewell and subsequent Veda division. OCR repeats festival and rebuke blocks. The major source-specific episodes are retained."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 58,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 29480,
+          "line_end": 29810
+        }
+      ],
+      "subject": "Synopsis of Bhishma, Mandavya/Vidura, Pandava/Kaurava and associated births",
+      "adapted_scene_ids": [
+        "G12-S19"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "All birth entries and their divine/curse relations in original order. Current one-scene synopsis does not count as full chapter adaptation; later detailed episodes should not erase this source’s preliminary presentation."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 59,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 29811,
+          "line_end": 30310
+        }
+      ],
+      "subject": "Post-Parashurama renewal; order/corruption; Earth’s burden; divine incarnation appeal",
+      "adapted_scene_ids": [
+        "G12-S20"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Full social-order passage, repopulation mechanism, entry of oppressive asuric rulers, Earth/Brahma/deva dialogue and Narayana praise. Present caste/role claims as source-era ideology rather than modern production instructions."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 60,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 30311,
+          "line_end": 30763
+        }
+      ],
+      "subject": "Devas agree to descend; Daksha daughters and progeny",
+      "adapted_scene_ids": [
+        "G12-S21"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "All thirteen wives and every child/descendant grouping, twelve Adityas and other named beings. Need verified complete genealogy table and a full readable narration. Selected names only are currently spoken."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 61,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 30764,
+          "line_end": 31562
+        }
+      ],
+      "subject": "Rudras; Vasus; rishi and other progeny genealogies",
+      "adapted_scene_ids": [
+        "G12-S22"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Every Rudra/Vasu/sage-line entry, spouses, offspring, branches and associated explanations. Eleven Rudra names are voiced but OCR spelling remains unverified; most chapter entries are not yet adapted."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 62,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 31563,
+          "line_end": 32584
+        }
+      ],
+      "subject": "Divine/asuric incarnation mappings to human kings, heroes and women",
+      "adapted_scene_ids": [
+        "G12-S23",
+        "G12-S24"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "Complete prior-being to human-identity mapping with amsha/avesha distinctions and every commentary qualifier. Only illustrative entries and major anchors are voiced. Must not collapse multiple amsha relationships into one identity or confuse same-named Ugrasenas/Hardikya."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    },
+    {
+      "chapter": 63,
+      "source_volume": 1,
+      "source_file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 32585,
+          "line_end": 32736
+        }
+      ],
+      "subject": "Retrospective Puru genealogy to Dushyanta and Bharata",
+      "adapted_scene_ids": [
+        "G12-S25"
+      ],
+      "adaptation_status": "SELECTIVE_SUMMARY_MAJOR_EXPANSION_PENDING",
+      "remaining_gaps": [
+        "All ten Rudrashva sons, every intervening spouse/child relation and exact OCR name forms; reconcile source variants without merging with chapter56. Dushyanta/Lakshana’s Janamejaya must remain distinct from Parikshit’s son."
+      ],
+      "verse_complete": false,
+      "confidence": "Chapter navigation from source headings/TOC plus selected body checks; no complete verse-by-verse reconciliation performed."
+    }
+  ]
+}

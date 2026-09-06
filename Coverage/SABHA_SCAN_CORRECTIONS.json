@@ -1,0 +1,152 @@
+{
+  "source_collection": "https://archive.org/details/mahabharata-palimaru-mutt-kannada",
+  "corrections": [
+    {
+      "name_ledger_id": "batch02_sabha7_8-N0143",
+      "old_spoken_reading": null,
+      "verified_reading": "ಭಾಗಸ್ವರಿ",
+      "source_line": 22815,
+      "scene_id": "V4C04-S03",
+      "pdf_file": "MAHABHARATA-4-AADIPARVA.pdf",
+      "pdf_pages_1based": [
+        522,
+        523
+      ],
+      "printed_pages": [
+        491,
+        492
+      ],
+      "observation": "Verified name in printed verse and prose; added the previously omitted slot."
+    },
+    {
+      "name_ledger_id": "batch02_sabha7_8-N0179",
+      "old_spoken_reading": null,
+      "verified_reading": "ಮಾಯಾಸೃಷ್ಟಹಯ",
+      "source_line": 22842,
+      "scene_id": "V4C04-S04",
+      "pdf_file": "MAHABHARATA-4-AADIPARVA.pdf",
+      "pdf_pages_1based": [
+        523
+      ],
+      "printed_pages": [
+        492
+      ],
+      "observation": "Printed prose joins the expression; verse prints ಮಾಯಾಸೃಷ್ಟೋ ಹಯೋಽನಘಃ. Preserve the prose name form and explain the segmentation rather than inventing a genealogy."
+    },
+    {
+      "name_ledger_id": "batch03_sabha9_11-N0004",
+      "old_spoken_reading": "ಕೃಷ್ಣ ಮತ್ತು ಲೋಹಿತ",
+      "verified_reading": "ಕೃಷ್ಣ ಮತ್ತು ಲೋಹಿತ",
+      "source_line": 23130,
+      "scene_id": "V4C05-S02",
+      "pdf_file": "MAHABHARATA-4-AADIPARVA.pdf",
+      "pdf_pages_1based": [
+        529,
+        530
+      ],
+      "printed_pages": [
+        498,
+        499
+      ],
+      "observation": "Verse clearly separates ಕೃಷ್ಣಶ್ಚ ಲೋಹಿತಶ್ಚೈವ; prose prints ಕೃಷ್ಣಲೋಹಿತ without a comma."
+    },
+    {
+      "name_ledger_id": "batch03_sabha9_11-N0011",
+      "old_spoken_reading": null,
+      "verified_reading": "ಫಣಿನಾಗ",
+      "source_line": 23131,
+      "scene_id": "V4C05-S02",
+      "pdf_file": "MAHABHARATA-4-AADIPARVA.pdf",
+      "pdf_pages_1based": [
+        529,
+        530
+      ],
+      "printed_pages": [
+        498,
+        499
+      ],
+      "observation": "Printed verse ಫಣಿನಾಗಶ್ಚ and prose ಫಣಿನಾಗ resolve the damaged OCR ಫೃಣಿನಾಗ."
+    },
+    {
+      "name_ledger_id": "batch03_sabha9_11-N0058",
+      "old_spoken_reading": null,
+      "verified_reading": "ದೋದಂಭ",
+      "source_line": 23204,
+      "scene_id": "V4C05-S05",
+      "pdf_file": "MAHABHARATA-4-AADIPARVA.pdf",
+      "pdf_pages_1based": [
+        531
+      ],
+      "printed_pages": [
+        500
+      ],
+      "observation": "Printed verse ದೋದಂಭೋ and prose ದೋದಂಭ."
+    },
+    {
+      "name_ledger_id": "batch03_sabha9_11-N0059",
+      "old_spoken_reading": null,
+      "verified_reading": "ವಿಗದಂಭ",
+      "source_line": 23204,
+      "scene_id": "V4C05-S05",
+      "pdf_file": "MAHABHARATA-4-AADIPARVA.pdf",
+      "pdf_pages_1based": [
+        531
+      ],
+      "printed_pages": [
+        500
+      ],
+      "observation": "Printed verse ವಿಗದಂಭಶ್ಚ and prose ವಿಗದಂಭ; previous OCR had a spurious vowel."
+    },
+    {
+      "name_ledger_id": "batch03_sabha9_11-N0094",
+      "old_spoken_reading": null,
+      "verified_reading": "ತೃತೀಯಾ",
+      "source_line": 23338,
+      "scene_id": "V4C05-S06",
+      "pdf_file": "MAHABHARATA-4-AADIPARVA.pdf",
+      "pdf_pages_1based": [
+        534,
+        535
+      ],
+      "printed_pages": [
+        501,
+        502
+      ],
+      "observation": "Printed verse contains ತೃತೀಯಾ before ಜ್ಯೇಷ್ಠಿಲಾ; Kannada prose does not list it separately. Reading verified; name-versus-ordinal interpretation remains undecided and is stated in narration."
+    },
+    {
+      "name_ledger_id": "batch03_sabha9_11-N0095",
+      "old_spoken_reading": null,
+      "verified_reading": "ಚೀರವಲ್ಲಾ ಮತ್ತು ಕುಲಿ",
+      "source_line": 23356,
+      "scene_id": "V4C05-S06",
+      "pdf_file": "MAHABHARATA-4-AADIPARVA.pdf",
+      "pdf_pages_1based": [
+        534,
+        535
+      ],
+      "printed_pages": [
+        501,
+        502
+      ],
+      "observation": "Prose clearly names ಚೀರವಲ್ಲಾ and ಕುಲಿ. Verse has joined ಚೀರವಲ್ಲೇಲಾ; preserve this printed expression separately without claiming a modern river identification."
+    },
+    {
+      "name_ledger_id": "batch03_sabha9_11-N0153",
+      "old_spoken_reading": "ಶಿಲಾಪುಷ್ಪ",
+      "verified_reading": "ಶಿಲಾಪುಷ್ಪ",
+      "source_line": 23617,
+      "scene_id": "V4C06-S04",
+      "pdf_file": "MAHABHARATA-4-AADIPARVA.pdf",
+      "pdf_pages_1based": [
+        541
+      ],
+      "printed_pages": [
+        508
+      ],
+      "observation": "Prose prints ಶಿಲಾಪುಷ್ಪ while verse prints ಶಿಲಾಪುಷ್ಟೋ. Both readings are retained explicitly."
+    }
+  ],
+  "scope": "Nine flagged catalogue readings checked visually. Does not certify every other name or every chapter. The printed ತೃತೀಯಾ interpretation is disclosed, not guessed.",
+  "continuity_correction": "V4C01 moved before G40-S06: Maya farewell comes before Yudhishthira enters the hall."
+}

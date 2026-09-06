@@ -1,0 +1,210 @@
+{
+  "scope": "Only chapters76–82 and104; other68-chapter inventory rows are not implicitly cleared",
+  "method": "Selected OCR prose read in raw line order; duplicate blocks acknowledged; Kannada paraphrases attributed to narrative speakers and this edition.",
+  "chapters": [
+    {
+      "chapter": 76,
+      "base_inventory_file": "chapter_inventory_64_131.json",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "added_group_ids": [
+        202
+      ],
+      "added_scene_ids": [
+        "V2202-S01",
+        "V2202-S02",
+        "V2202-S03"
+      ],
+      "insert_after_scenes": [
+        "G15-S04"
+      ],
+      "newly_adapted": [
+        "ರಾಜ್ಯದ ಗಡಿ ಮತ್ತು ಅಸೂಯೆಯ ಅಪಾಯ",
+        "ಕೋಪಕ್ಕೆ ಕೋಪವೇ ಉತ್ತರವಾಗಬಾರದು",
+        "ಮಾತಿನ ಬಾಣ ಮತ್ತು ನಾಲ್ಕು ಸಂಬಂಧದ ಗುಣಗಳು"
+      ],
+      "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+      "remaining_gap": "All principal maxims in the selected chapter now have spoken paraphrase. Literary wording, some repeated address phrases and literal verse recitation remain in the source companion, not verbatim in narration. Page-image verification outstanding."
+    },
+    {
+      "chapter": 77,
+      "base_inventory_file": "chapter_inventory_64_131.json",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "added_group_ids": [
+        203
+      ],
+      "added_scene_ids": [
+        "V2203-S01"
+      ],
+      "insert_after_scenes": [
+        "G15-S05"
+      ],
+      "newly_adapted": [
+        "ಅಷ್ಟಕನ ಅಭಯದ ಮಾತು"
+      ],
+      "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+      "remaining_gap": "Existing main scene covers Indra/pride/fall; new scene adds the omitted welcome, identity questions and guest analogy. Chapter now substantively represented; exact verse recitation and OCR verification outstanding."
+    },
+    {
+      "chapter": 78,
+      "base_inventory_file": "chapter_inventory_64_131.json",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "added_group_ids": [
+        204
+      ],
+      "added_scene_ids": [
+        "V2204-S01",
+        "V2204-S02",
+        "V2204-S03"
+      ],
+      "insert_after_scenes": [
+        "G15-S06"
+      ],
+      "newly_adapted": [
+        "ವಯಸ್ಸಿಗಿಂತ ವಿದ್ಯೆಯ ಗೌರವ",
+        "ಸುಖದುಃಖಗಳ ಅನಿತ್ಯತೆ",
+        "ಲೋಕಗಳಿಂದ ನಂದನವನದವರೆಗೆ"
+      ],
+      "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+      "remaining_gap": "Age/learning exchange, separate Ashtaka counsel, equanimity, source-specific realms/durations, messenger call and smoke-guided arrival now narrated. Extra theological gloss wording is condensed; no verse-by-verse certification."
+    },
+    {
+      "chapter": 79,
+      "base_inventory_file": "chapter_inventory_64_131.json",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "added_group_ids": [
+        205
+      ],
+      "added_scene_ids": [
+        "V2205-S01",
+        "V2205-S02",
+        "V2205-S03",
+        "V2205-S04"
+      ],
+      "insert_after_scenes": [
+        "G15-S06"
+      ],
+      "newly_adapted": [
+        "ಪುಣ್ಯ ಕ್ಷೀಣಿಸಿದಾಗ ಬರುವ ಗತಿ",
+        "ಗರ್ಭಪ್ರಾಪ್ತಿಯ ಕುರಿತು ಅಷ್ಟಕನ ಪ್ರಶ್ನೆ",
+        "ಇಂದ್ರಿಯಗಳು ಮತ್ತು ಮತ್ತೊಂದು ದೇಹ",
+        "ಏಳು ದ್ವಾರಗಳನ್ನು ಮುಚ್ಚುವ ಅಹಂಕಾರ"
+      ],
+      "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+      "remaining_gap": "Questions and principal answers about merit exhaustion, earth-as-suffering interpretation, pathways to conception, senses, karma/rebirth, seven gates and four pride-corrupted practices now narrated. Exact descent-duration numbers at6756–6764 unresolved; line-by-line commentary wording is condensed."
+    },
+    {
+      "chapter": 80,
+      "base_inventory_file": "chapter_inventory_64_131.json",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "added_group_ids": [
+        206
+      ],
+      "added_scene_ids": [
+        "V2206-S01",
+        "V2206-S02",
+        "V2206-S03"
+      ],
+      "insert_after_scenes": [
+        "G15-S07"
+      ],
+      "newly_adapted": [
+        "ಶಿಷ್ಯ ಮತ್ತು ಗೃಹಸ್ಥ",
+        "ಅರಣ್ಯವಾಸ ಮತ್ತು ಅನಿಕೇತನ ಬದುಕು",
+        "ಮೌನದ ಅರ್ಥ ಮತ್ತು ಸಾಮಾನ್ಯ ಧರ್ಮ"
+      ],
+      "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+      "remaining_gap": "Four-stage duties, forest/village paradox, renunciation result, hygiene, common conduct and textual meal counts now narrated. OCR conflicts at7093–7098 and precise interpretation of severe ascetic clauses still require page review; exact verse form not performed."
+    },
+    {
+      "chapter": 81,
+      "base_inventory_file": "chapter_inventory_64_131.json",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "added_group_ids": [
+        207
+      ],
+      "added_scene_ids": [
+        "V2207-S01",
+        "V2207-S02",
+        "V2207-S03"
+      ],
+      "insert_after_scenes": [
+        "G15-S07"
+      ],
+      "newly_adapted": [
+        "ಹೊರಗಿನ ಸ್ಥಿತಿಗಿಂತ ಒಳಗಿನ ಧರ್ಮ",
+        "ಅಷ್ಟಕನ ಅಳೆಯಲಾಗದ ಲೋಕಗಳು",
+        "ಪ್ರತರ್ದನನ ಕೊಡುಗೆ ಮತ್ತು ಧರ್ಮದ ಆದ್ಯತೆ"
+      ],
+      "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+      "remaining_gap": "Relative ascetic priority, repentance, non-reward-seeking dharma, separate Ashtaka/Pratardana offers and refusals now narrated.7346–7348 penance/body timing and final dharma/artha/kama qualification need print verification; duplicate pages not repeated as new events."
+    },
+    {
+      "chapter": 82,
+      "base_inventory_file": "chapter_inventory_64_131.json",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "added_group_ids": [
+        208,
+        209
+      ],
+      "added_scene_ids": [
+        "V2208-S01",
+        "V2208-S02",
+        "V2208-S03",
+        "V2208-S04",
+        "V2208-S05",
+        "V2209-S01",
+        "V2209-S02"
+      ],
+      "insert_after_scenes": [
+        "G15-S07",
+        "G15-S08"
+      ],
+      "newly_adapted": [
+        "ಹುಲ್ಲುಕಡ್ಡಿಯಿಂದ ಖರೀದಿಸು ಎಂಬ ಪ್ರಸ್ತಾವ",
+        "ಶಿಬಿಯ ಪ್ರಸ್ತಾವ ಮತ್ತು ಎಲ್ಲರ ಒಕ್ಕೂಟ",
+        "ಅಶ್ವಮೇಧದ ಸಮಾಪ್ತಿ ಮತ್ತು ಮಾಧವಿಯ ಆಗಮನ",
+        "ಮಗಳು ನೀಡಿದ ಧರ್ಮದ ಕಾರಣ",
+        "ಶ್ರಾದ್ಧದ ಪವಿತ್ರತೆ ಕುರಿತು ಮಧ್ಯವಿವರಣೆ",
+        "ಶಿಬಿಯ ರಥವು ಮುಂದೆ ಹೋದ ಕಾರಣ",
+        "ಸತ್ಯದ ಸ್ಮರಣೆ ಮತ್ತು ಆಖ್ಯಾನದ ಫಲವಚನ"
+      ],
+      "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+      "remaining_gap": "Separate Vasumanas grass-sale offer, Shibi/collective offers, five chariots, ritual close, Madhavi arrival and decisive kinship argument, shraddha explanation, joint ascent, Shibi virtues and final truth/gift/phalashruti now narrated. Kutapa wording and enormous gift-number interpretation remain editorial uncertainties; no universal ritual authority claim."
+    },
+    {
+      "chapter": 104,
+      "base_inventory_file": "chapter_inventory_64_131.json",
+      "source_file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "added_group_ids": [
+        201
+      ],
+      "added_scene_ids": [
+        "V2201-S01",
+        "V2201-S02",
+        "V2201-S03",
+        "V2201-S04",
+        "V2201-S05",
+        "V2201-S06",
+        "V2201-S07",
+        "V2201-S08",
+        "V2201-S09"
+      ],
+      "insert_after_scenes": [
+        "G18-S12"
+      ],
+      "newly_adapted": [
+        "ಭೀಷ್ಮನು ಹೇಳಿದ ಆಪತ್ತಿನ ಪೂರ್ವನಿದರ್ಶನ",
+        "ಮಮತೆಯ ನಿರಾಕರಣೆ ಮತ್ತು ಮಗುವಿನ ಶಾಪ",
+        "ವಿದ್ಯೆ, ವಿವಾಹ ಮತ್ತು ಮನೆಯ ಭಾರ",
+        "ಕೋಪದ ಮಾತಿನಿಂದ ಕಟ್ಟಿದ ನಿಯಮ",
+        "ತೆಪ್ಪದಲ್ಲಿ ತೊರೆದ ತಂದೆ",
+        "ಬಲಿ ರಾಜನ ಆಶ್ರಯ",
+        "ರಾಣಿಯ ಬದಲು ಬಂದ ದಾಸಿಯ ಮಗಳು",
+        "ಸುದೇಷ್ಣೆಯಿಂದ ಅಂಗನ ಜನ್ಮ",
+        "ಸತ್ಯವತಿಯ ನಿರ್ಧಾರಕ್ಕೆ ಮರಳಿದ ಕಥೆ"
+      ],
+      "updated_status": "EXPANDED_SUBSTANTIVE_ADAPTATION_WITH_EXPLICIT_REVIEW_GAPS",
+      "remaining_gap": "Full principal chain now narrated: Bhishma/Parashurama precedent, Mamata refusal/curse, learned blind sage, first wife/Gautama family burden, angry marital decrees, raft abandonment, Bali rescue, attendant-daughter and11 sons, identity correction, Sudeshna/Anga, Bhishma final advice. Wife-name forms and royal-house sentence at20139–20141 require source-image checking; duplicate20336–20420 is not a second event."
+    }
+  ]
+}

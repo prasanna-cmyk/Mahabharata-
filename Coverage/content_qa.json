@@ -1,0 +1,69 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "scenes_checked": 635,
+  "unique_narrations": 635,
+  "unique_scene_prompts": 626,
+  "intentional_background_reuse": [
+    {
+      "scene_ids": [
+        "C64-S01",
+        "C83-S01",
+        "C93-S01",
+        "C93-S05"
+      ],
+      "reason": "One consistent genealogy background reused with different explicitly supplied Kannada relationship labels in postproduction."
+    },
+    {
+      "scene_ids": [
+        "C64-S02",
+        "C83-S02",
+        "C93-S02"
+      ],
+      "reason": "One consistent genealogy background reused with different explicitly supplied Kannada relationship labels in postproduction."
+    },
+    {
+      "scene_ids": [
+        "C64-S03",
+        "C83-S03",
+        "C93-S03"
+      ],
+      "reason": "One consistent genealogy background reused with different explicitly supplied Kannada relationship labels in postproduction."
+    },
+    {
+      "scene_ids": [
+        "C64-S04",
+        "C83-S04",
+        "C93-S04"
+      ],
+      "reason": "One consistent genealogy background reused with different explicitly supplied Kannada relationship labels in postproduction."
+    }
+  ],
+  "continuous_and_volume_recording_orders_match": true,
+  "original_source_bytes": [
+    {
+      "file": "MAHABHARATA-3-AADIPARVA_djvu.txt",
+      "identical_to_supplied_zip": true,
+      "sha256": "c597d4c6ce09fb89f454f588bfb9395c7dc96db13ccd860c383695eff22cd542"
+    },
+    {
+      "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+      "identical_to_supplied_zip": true,
+      "sha256": "80e38a377976a08d549764e5b0d363674552dfb1b94e0408d8bdd7cdcae89f2d"
+    },
+    {
+      "file": "MAHABHARATA-4-AADIPARVA_djvu.txt",
+      "identical_to_supplied_zip": true,
+      "sha256": "2149bc11b2b2b2accd4258361d885e5144968ed61ba360a1ff92d79ff7a9a3ce"
+    },
+    {
+      "file": "MAHABHARATA-2-AADIPARVA_djvu.txt",
+      "identical_to_supplied_zip": true,
+      "sha256": "afca628f7be2ce9adbedf5cacca0ea7ca79e7d29328ff02d4d4ee7878ea310ab"
+    }
+  ],
+  "Latin_words_in_spoken_narration_for_review": [],
+  "limits": "Structural, source-retention and ordering checks only. Not an unabridged or factual proof for every passage. No images, audio or final video generated.",
+  "completion_catalogue_slots_checked_against_final_narration": 563,
+  "master_scenes_sha256": "94196774e8e63d3fbd98997eee87bfce7488ba950c9f97e2cd01de722199482b"
+}
