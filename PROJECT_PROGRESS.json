@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-06T17:53:00.986010+00:00",
+  "updated_utc": "2026-09-06T18:53:30.267677+00:00",
   "user_request": "Finish the supplied books in full detail and apply the identical workflow to every next book. Conversation English; spoken narration and dialogue Kannada; no episode-count limit.",
   "completion_status": "UNABRIDGED_ADAPTATION_UNFINISHED",
   "source_scope": "Four supplied Palimaru volumes: Adiparva1–237 and Sabhaparva1–24. Not the whole18-parva epic.",
@@ -23,7 +23,9 @@
     "episode_count_locked": false,
     "expected_story_groups_present": true,
     "distinct_scene_image_prompts": 626,
-    "background_reuse_note": "Four genealogy backgrounds intentionally recur with different supplied Kannada relationship labels; generate one approved background per repeated design and typeset the correct labels for each scene."
+    "background_reuse_note": "Four genealogy backgrounds intentionally recur with different supplied Kannada relationship labels; generate one approved background per repeated design and typeset the correct labels for each scene.",
+    "source_files_present_in_repo": true,
+    "source_files_byte_verified": true
   },
   "output_layout": {
     "start": "outputs/Mahabharata/OPEN MAHABHARATA.html",
@@ -160,5 +162,41 @@
     "qa_reader_final.cjs (resolve current local Chromium path)",
     "Inspect reader screenshots",
     "refresh_handoff.py --pack"
+  ],
+  "source_restoration": {
+    "date_utc": "2026-09-06",
+    "what": "The four original OCR source files were missing from the GitHub repository. Reconstructed from Coverage/Every_Source_Block_Review.csv (all 33,555 verbatim blocks with exact 1-based line spans; uncovered lines are empty).",
+    "verification": "Each restored file in Source/ matches the recorded SHA-256 and byte count in Coverage/Source_Manifest.json and Coverage/content_qa.json exactly. Proof: /home/user/Drive_Upload/SOURCE_RESTORE_PROOF.json (also stored below).",
+    "files": {
+      "MAHABHARATA-1-AADIPARVA-_djvu (1).txt": "80e38a377976a08d549764e5b0d363674552dfb1b94e0408d8bdd7cdcae89f2d",
+      "MAHABHARATA-2-AADIPARVA_djvu.txt": "afca628f7be2ce9adbedf5cacca0ea7ca79e7d29328ff02d4d4ee7878ea310ab",
+      "MAHABHARATA-3-AADIPARVA_djvu.txt": "c597d4c6ce09fb89f454f588bfb9395c7dc96db13ccd860c383695eff22cd542",
+      "MAHABHARATA-4-AADIPARVA_djvu.txt": "2149bc11b2b2b2accd4258361d885e5144968ed61ba360a1ff92d79ff7a9a3ce"
+    },
+    "note": "Direct network access to archive.org is blocked from this sandbox; the in-repo CSV reconstruction was used instead and hash-verified, so no unverified bytes were introduced."
+  },
+  "drive_backup": {
+    "requested_by": "user",
+    "target": "Google Drive folder 1Ydcbhx10F7Db1V2yeAa-mB1b1M50raqR",
+    "status": "package_ready_upload_pending",
+    "package": "Mahabharata_Project_FullBackup_20260906.zip (6.4 MB, all 58 repo files incl. restored Source/)",
+    "verification_files": [
+      "SHA256SUMS.txt",
+      "SOURCE_RESTORE_PROOF.json",
+      "BACKUP_INVENTORY.json",
+      "BACKUP_NOTES.md"
+    ],
+    "note": "Upload performed by the user (no Google credentials in this sandbox). The user's Mahabharata_Continuation_Workbench.zip from the Windows machine should also be uploaded for the build scripts, audit scans and Scripts/ folder."
+  },
+  "session_log": [
+    {
+      "date_utc": "2026-09-06T18:55Z",
+      "actions": [
+        "Full repo audit: all 30 JSON files parse; CSV row counts match (33,555 blocks / 261 chapters / 635 scenes / 89 assets); Master_Scenes SHA-256 matches recorded hash; reading order 1..635 consistent; no empty narration or image prompts.",
+        "Discovered the four original OCR source files missing from the repository; restored them byte-identical from Every_Source_Block_Review.csv into Source/ and verified SHA-256 + byte count against Source_Manifest.json.",
+        "Created Drive backup package in /home/user/Drive_Upload/ (ZIP + SHA256SUMS + restore proof + notes) for upload to the user's Google Drive."
+      ],
+      "next": "Next unfinished source unit unchanged: Volume 1 front matter unit 1, lines 1-147 (publication credits + devotional front matter), scene FF01-S01 is thematic only - full sentence-level Kannada script + item-level ledger still required."
+    }
   ]
 }
