@@ -118,6 +118,8 @@ Identical blank backgrounds are appropriate for related genealogy cards when the
 - Do not import the leaf-tearing/rejoining Jarasandha scene where this supplied account does not contain it.
 - Keep repeated ancestral names separate from later main-story figures. The hundred-name Gandhari catalogue repeats Subahu in the supplied text; do not fill it from an unrelated popular list.
 
+- All keyframes and location/character references in matha, temple, deity, priest, ritual or commentary contexts must follow **Madhva Sampradaya** visual identity (user directive): Krishna as Parabrahman with peacock-feather crown, Udupi Ashta-Matha architecture, saffron Madhva priest dress, Vaishnava kirtana; never mix other sampradayas (no Shaiva iconography, no Sri Vaishnava imagery). Full rules: `Production/Production_Bible.md` § Madhva Sampradaya Visual Identity. Every generated keyframe is tracked in `Media/Image_Manifest.json` (native size, 4K delivery size, prompt version, madhva context).
+
 See `factual_corrections_applied.md`, `Story_Frame_and_Continuity_Kannada.md` and `production_bible.md` for the fuller contract.
 
 ## Building and validating

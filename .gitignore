@@ -1,0 +1,3 @@
+# Media assets are tracked separately (snapshot + Drive backup + manifest)
+Media/
+# except the manifest and narration dump stay outside git as well

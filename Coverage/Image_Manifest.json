@@ -1,0 +1,132 @@
+{
+ "I1-S01": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/I1-S01.png",
+  "four_k_file": "Media/Keyframes4K/I1-S01.jpg",
+  "four_k_sha256": "c4dea9af45fc6b660653c4885632fd92f7c4bba642909a7de622f9d8286d3865",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral documentary still",
+  "created_utc": "2026-09-06T20:07:50.690507+00:00"
+ },
+ "I1-S02": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/I1-S02.png",
+  "four_k_file": "Media/Keyframes4K/I1-S02.jpg",
+  "four_k_sha256": "6e258b74201df63be72a8106443d1c89ab6de9a8ab1e899f850965aba047e476",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral documentary still",
+  "created_utc": "2026-09-06T20:07:50.691658+00:00"
+ },
+ "I1-S03": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/I1-S03.png",
+  "four_k_file": "Media/Keyframes4K/I1-S03.jpg",
+  "four_k_sha256": "7df3f4592f5c0536bdfa7d8e88c52569b4c8904f05b4a40e26eeff20727221da",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral documentary still",
+  "created_utc": "2026-09-06T20:07:50.692783+00:00"
+ },
+ "I1-S04": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/I1-S04.png",
+  "four_k_file": "Media/Keyframes4K/I1-S04.jpg",
+  "four_k_sha256": "43ad50083326a287e1c3410665a4629c48f206f964ced4cdaa4b0a73d5ff9c4b",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral documentary still",
+  "created_utc": "2026-09-06T20:07:50.694741+00:00"
+ },
+ "I1-S05": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/I1-S05.png",
+  "four_k_file": "Media/Keyframes4K/I1-S05.jpg",
+  "four_k_sha256": "c6426b67d8e4634ee6061fab427306cb5da15d68632ef09131f4619d7c2596ef",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral documentary still",
+  "created_utc": "2026-09-06T20:07:50.696820+00:00"
+ },
+ "FF01-S01": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/FF01-S01.png",
+  "four_k_file": "Media/Keyframes4K/FF01-S01.jpg",
+  "four_k_sha256": "94d5e3d140a43875e674b53e83470a6177e1ea7658820ec6d000bb7c17f80d1b",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral documentary still",
+  "created_utc": "2026-09-06T20:09:25.254818+00:00"
+ },
+ "FF01-S02": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/FF01-S02.png",
+  "four_k_file": "Media/Keyframes4K/FF01-S02.jpg",
+  "four_k_sha256": "e09ed6d6e385abb2763eb83d6284c9eaec83ad5a78d9bcb593a922200a91afbd",
+  "prompt_version": "v2-madhva",
+  "madhva_context": "Madhva matha context: saffron flag detail, Udupi library",
+  "created_utc": "2026-09-06T20:09:25.256092+00:00"
+ },
+ "FF01-S03": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/FF01-S03.png",
+  "four_k_file": "Media/Keyframes4K/FF01-S03.jpg",
+  "four_k_sha256": "38b734bc27887110f1f0e4745a48eda220f76e5694056b2e1a8df81404c32475",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral documentary still",
+  "created_utc": "2026-09-06T20:09:25.257025+00:00"
+ },
+ "FF01-S04": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/FF01-S04.png",
+  "four_k_file": "Media/Keyframes4K/FF01-S04.jpg",
+  "four_k_sha256": "f913539fa5bbe6bedc15c777ffc5be7e4352c9963730183e14b3b69179595782",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral domestic still",
+  "created_utc": "2026-09-06T20:09:25.258491+00:00"
+ },
+ "FF01-S05": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/FF01-S05.png",
+  "four_k_file": "Media/Keyframes4K/FF01-S05.jpg",
+  "four_k_sha256": "74037838ffd49f728442a06deac034f49cc8b75744ca1e1b181f87ea166b4278",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral documentary still",
+  "created_utc": "2026-09-06T20:09:25.259454+00:00"
+ },
+ "FF01-S06": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/FF01-S06.png",
+  "four_k_file": "Media/Keyframes4K/FF01-S06.jpg",
+  "four_k_sha256": "352a283d3a0ff1473e746f95a2d3699c58fbfed473aad99bfd83ef592bd873be",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral storytelling pavilion (sampradaya-neutral ancient setting)",
+  "created_utc": "2026-09-06T20:09:25.261215+00:00"
+ },
+ "FF01-S07": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/FF01-S07.png",
+  "four_k_file": "Media/Keyframes4K/FF01-S07.jpg",
+  "four_k_sha256": "14c9e6fca512d571f15ddf5c459cfcd8d6ede37796c3b6c10cf5a1f9f00f268d",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral documentary still",
+  "created_utc": "2026-09-06T20:09:25.262532+00:00"
+ },
+ "FF01-S08": {
+  "native": "1672x941 (image-model output)",
+  "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
+  "native_file": "Media/Keyframes/FF01-S08.png",
+  "four_k_file": "Media/Keyframes4K/FF01-S08.jpg",
+  "four_k_sha256": "57b36ec3fbb27d29d438a7bd289d803bd86ba0de7dd022eedccaa0963e30e620",
+  "prompt_version": "v2-madhva",
+  "madhva_context": "Madhva devakshetra: Krishna with peacock-feather crown, Udupi shrine, Madhva negatives applied",
+  "created_utc": "2026-09-06T20:09:25.263752+00:00"
+ }
+}

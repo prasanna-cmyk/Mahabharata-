@@ -158,3 +158,38 @@ The following are production quality gates, not requests for additional permissi
 - **Delivery:** actual 3840 × 2160 master inspected; native versus upscaled origins documented; frames, duration and captions checked after export; checksum and version manifest saved.
 
 “All-inclusive” is earned by the coverage audit, not by the number of episodes or image prompts. This bible covers a reusable production method. Final completeness, exact episode timings, finished images, recorded speech and edited video remain separate deliverables and must be reported at their actual verified status.
+
+## Madhva Sampradaya Visual Identity (MANDATORY — user directive 2026-09-06)
+
+This edition is the Palimaru Matha Madhva (Dvaita) edition: Vedavyasa's Mahabharata with
+Shrīmad Anandatīrtha's Mahābhārata Tatparyanirnaya and Shrī Vādirāja's Lakshyaalankara,
+published by Tattvasamshodhana Samsat, and the four anugraha-sandesha of Pejawara,
+Adamaru, Palimaru and Sode mathas. ALL keyframes, character references and location
+references must stay consistent with Madhva Sampradaya where a scene involves a matha,
+temple, deity, priest, ritual or commentary context:
+
+- Deity: Lord Krishna as Parabrahman — dark/blue-complexioned, four-armed (shankha,
+  chakra, gada, padma), peacock-feather crown (the Madhva embleme), peacock mount where
+  shown. No generic multi-armed deity stand-ins in Madhva-context scenes.
+- Matha architecture: Udupi Ashta-Matha style — laterite stone, sloping tiled roofs,
+  dhvaja-stambha with saffron Madhva flags, tulsi courtyard, brass lamps and bells.
+  The four named mathas (Pejawara/Adhokshaja, Adamaru, Palimaru, Sode) are distinct
+  locations; keep each visually stable across its scenes.
+- Priests: saffron dhoti and angavastram, white upper garment, Madhva kumkum tilaka,
+  sikha; no other-order tilaka, no other-sect turbans or robes.
+- Ritual: Vaishnava kirtana with talam (cymbals), mridangam, veena; sandal and turmeric;
+  no Shaiva aarti or lingam in Madhva contexts.
+- Never mix sampradayas: no Ramanuja/Sri Vaishnava iconography, no Shaiva imagery in
+  scenes whose subject is the matha, the commentary or the edition's religious context.
+- Sampradaya-neutral scenes (Naimisha rishis, ancient courts, battles, villages) stay
+  neutral; the Madhva identity is carried by the edition's paratext scenes, not forced
+  onto ancient-history scenes.
+- Palette: saffron and gold dominant in religious interiors; deep blue for Krishna;
+  ivory/teak/brass for material detail.
+- Standing negative-prompt addition for all religious-context scenes:
+  "no Shaiva iconography, no lingam, no other sampradaya tilaka or robes, no modern
+  tourist temple, no readable text, no watermark."
+
+Scene prompts that depict any of the above must be checked against this section before
+generation; the Image_Manifest.json records the prompt_version and madhva_context for
+every generated keyframe.
