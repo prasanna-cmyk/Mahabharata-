@@ -1,0 +1,115 @@
+{
+  "episodes": [
+    {
+      "id": "FF01A",
+      "title": "ಮುಖಪುಟ, ಉತ್ತರಣೆ ಮತ್ತು ಪ್ರಕಟಣಾ ದಾಖಲೆಗಳ ಸಂಪೂರ್ಣ ಪರಿಚಯ",
+      "source_volume": 1,
+      "source_chapters": "Front matter",
+      "insert_after_scene": "FF01-S01",
+      "scenes": [
+        {
+          "id": "FF01A-S01",
+          "title": "ಮುಖಪುಟದ ಹೆಗ್ಗಳಿಕೆ, ಉತ್ತರಣೆ ಮತ್ತು ಪ್ರಕಟಣಾಸ್ವಸ್ಥಿಕೆ",
+          "kind": "explanation",
+          "source_refs": [
+            {
+              "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+              "line_start": 1,
+              "line_end": 12
+            },
+            {
+              "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+              "line_start": 43,
+              "line_end": 49
+            },
+            {
+              "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+              "line_start": 52,
+              "line_end": 73
+            }
+          ],
+          "narration": "ಈ ಸಂಪುಟವನ್ನು ತೆರೆದೊಡನೆ ಮೊದಲು ಕಣ್ಣಿಗೆ ಬರುವುದು ಮುಖಪುಟದ ಹೆಗ್ಗಳಿಕೆ: 'ಭಗವಾನ್‌ ಶ್ರೀವೇದವ್ಯಾಸ ಪ್ರಣೀತ' — ಮಹಾಭಾರತ. ಮುಖಪುಟದ ಕೆಳಗಡೆ ಈ ಆವೃತ್ತಿಯ ಉಪಶೀರ್ಷಿಕೆಯೂ ಇದೆ: ಪ್ರತಿ ಶ್ಲೋಕದ ಜೊತೆಗೆ ಕನ್ನಡ ಅನುವಾದ; ಶ್ರೀಮದಾನಂದತೀರ್ಥರ ಮಹಾಭಾರತತಾತ್ಪರ್ಯನಿರ್ಣಯ; ಶ್ರೀವಾದಿರಾಜತೀರ್ಥರ ಲಕ್ಷ್ಯಾಲಂಕಾರ. ಮುಖಪುಟದಲ್ಲಿ ಪರ್ವದ ಹೆಸರೂ ಮುದ್ರಿತವಾಗಿದೆ; OCR ಅದನ್ನು ಹಾನಿಯಾದ 'ಅಲಿಪರ್ಪೆ' ಎಂದು ಓದಿಸಿದೆ, ಸರಿಯಾದ ಓದು ಆದಿಪರ್ವವಾಗಿರಬೇಕು — ಇದನ್ನೂ ಮೂಲಪುಟದ ಚಿತ್ರಪರಿಶೀಲನೆಯ ನಂತರ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕಿದೆ. ಮುಖಪುಟದ ಕೆಳಭಾಗದಲ್ಲಿ ಪ್ರಕಾಶಕ ಸಂಸ್ಥೆಯ ಹೆಸರು: ತತ್ವಸಂಶೋಧನಸಂಸತ್‌, ಪರಿಶೀಲಿತ ಸಂಸ್ಥೆ; ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮಾನ್ಯತೆ ಪಡೆದಿದೆ ಎಂದು ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ; ಕೇಂದ್ರವು ಉಡುಪಿಯ ಪಲಿಮಾರು ಮಠ. ಗ್ರಂಥಾರಂಭದಲ್ಲಿ ಎರಡು ಉತ್ತರಣೆ ಸಾಲುಗಳು ಮುದ್ರಿತವಾಗಿವೆ: '|| ಶ್ರೀರಾಮಶ್ರೀ ||' ಮತ್ತು '|| ಶ್ರೀವೇದವ್ಯಾಸೋ ವಿಜಯತೇ ||'. ಇವು ಪುಸ್ತಕದ ಮುದ್ರಿತ ಭಾಗ; ಗ್ರಂಥವು ವ್ಯಾಸರಿಗೆ ವಿಜಯವನಿಪ್ಪಿಸುವ ಆಶಯವನ್ನು ಸಾರುತ್ತದೆ. ಶೀರ್ಷಿಕಾಪುಟದಲ್ಲಿ ಈ ಗ್ರಂಥವನ್ನು ಭಾಗ-೧ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ, ಅಂದರೆ ಮೊದಲ ಸಂಪುಟ. ಅದರಲ್ಲೇ ಮೂರು ಪದರಗಳ ಹೆಸರು ಪುನರುತ್ಪನ್ನವಾಗುತ್ತದೆ: ಮೂಲ ಶ್ಲೋಕ, ಕನ್ನಡ ಅನುವಾದ, ಆನಂದತೀರ್ಥರ ತಾತ್ಪರ್ಯನಿರ್ಣಯ, ವಾದಿರಾಜತೀರ್ಥರ ಲಕ್ಷ್ಯಾಲಂಕಾರ. ಈ ಸಂಪುಟವನ್ನು ಪ್ರಕಟಿಸಿದ ಆಸ್ಥಾನ: ಪರಮಪೂಜ್ಯ ಶ್ರೀಶ್ರೀ ವಿದ್ಯಾಧೀಶತೀರ್ಥ ಶ್ರೀಪಾದರ ಶ್ರೀಹೃಷೀಕೇಶತೀರ್ಥಸಂಸ್ಥಾನ, ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ. ಅನುವಾದಕರು ವಿದ್ವಾನ್‌ ಪಿ. ಎಸ್. ಶೇಷಗಿರಿ ಆಚಾರ್ಯರು. ಇಲ್ಲಿ ಉಲ್ಲೇಖಿಸಿರುವ ಪ್ರತಿ ಹೆಸರೂ ಕಥೆಯ ಘಟನೆಗಳಲ್ಲ; ಇವು ಈ ಆವೃತ್ತಿಯ ಪ್ರಕಟಣಾಸ್ವಸ್ಥಿಕೆಯ ದಾಖಲೆಗಳು. ಹೆಸರುಗಳ ನಿಖರ ಮುದ್ರಿತ ರೂಪಕ್ಕೆ ಮೂಲಪುಟದ ಚಿತ್ರಪರಿಶೀಲನೆ ಬಾಕಿ ಇದೆ ಎಂಬುದನ್ನು ಗಮನದಲ್ಲಿಡಬೇಕು.",
+          "dialogue": [],
+          "visual_action": "The edition's own title page is presented as a physical object: the modern Kannada clothbound volume standing open on a teak table at dawn in an Udupi matha courtyard, a small brass lamp burning beside it.",
+          "image_prompt": "Close view of a modern Kannada clothbound book standing open at its unlettered title page on a dark teak table in an Udupi matha courtyard at dawn; beside it a small lit brass lamp and a folded white cotton cloth; a palm-frond shadow falls across the corner of the table; warm 50mm lens, shallow depth of field, gold morning light raking across fabric weave and teak grain; no people, no faces, no readable letters. 16:9 composition for 3840x2160 delivery, cinematic naturalism, high-detail Indian wood/stone/cloth textures, restrained rich colour, no watermark, no pseudo-Sanskrit. Illustrative documentary image, not an authentic historical photograph.",
+          "negative_prompt": "No generated letters, logos, watermarks, extra limbs, duplicate faces, deformed hands, plastic costumes, unrelated architecture, sexualized framing or graphic gore. Preserve original character references, age and scene continuity. For an editorial or publication scene, permit the modern book or archive props explicitly requested; do not project them into ancient story scenes.",
+          "motion": "Slow restrained push toward the open title page; lamp flame steady. Do not animate any manuscript or printed letters.",
+          "sound": "Warm clear Kannada documentary narration, low courtyard ambience with distant temple bell below the narration, no music under the invocation lines.",
+          "continuity": "Book-paratext explanation, not an event inside the Mahabharata story. Same physical book design as FF01-S01: modern clothbound volume, same table, same lamp. Preserve attribution to this edition; add verified labels only in post.",
+          "editorial_notes_kn": [
+            "postproduction_labels_kn ಯಲ್ಲಿರುವ ಮುದ್ರಿತ ಸಾಲುಗಳನ್ನು ಮಾತ್ರ ಪರದೆಗೆ ತೆಗೆದುಕೊಳ್ಳಿ; OCR ಹಾನಿ ಇರುವ ಸಾಲುಗಳ ಬಳಿ 'ಮೂಲಪುಟ ಪರಿಶೀಲನೆ ಬಾಕಿ' ಎಂದು ಸೂಚಿಸಿ.",
+            "ಚಿತ್ರದಲ್ಲಿಯೂ ಪರದೆಯಲ್ಲಿಯೂ ಅಕ್ಷರಗಳನ್ನು ಚಲಿಸಲು ಬಿಡಬೇಡಿ; ಉತ್ತರಣೆ ಸಾಲುಗಳನ್ನು ನಿರೂಪಣೆ ಓದಿದ ನಂತರ ಮಾತ್ರ ಪರದೆಯಲ್ಲಿ ತೋರಿಸಿ."
+          ],
+          "postproduction_labels_kn": [
+            "ಮುಖಪುಟ: ಭಗವಾನ್‌ ಶ್ರೀವೇದವ್ಯಾಸ ಪ್ರಣೀತ — ಮಹಾಭಾರತ (OCR ಓದು)",
+            "ಉಪಶೀರ್ಷಿಕೆ: ಪ್ರತಿ ಶ್ಲೋಕದ ಜೊತೆಗೆ ಕನ್ನಡ ಅನುವಾದ; ಮಹಾಭಾರತತಾತ್ಪರ್ಯನಿರ್ಣಯ; ಲಕ್ಷ್ಯಾಲಂಕಾರ",
+            "ಪರ್ವದ ಹೆಸರು: OCR 'ಅಲಿಪರ್ಪೆ' — ಓದು: ಆದಿಪರ್ವ (ಮೂಲಪುಟ ಪರಿಶೀಲನೆ ಬಾಕಿ)",
+            "|| ಶ್ರೀರಾಮಶ್ರೀ ॥   || ಶ್ರೀವೇದವ್ಯಾಸೋ ವಿಜಯತೇ ॥",
+            "ಪ್ರಕಟಣಾಸ್ವಸ್ಥ: ಪರಮಪೂಜ್ಯ ಶ್ರೀಶ್ರೀ ವಿದ್ಯಾಧೀಶತೀರ್ಥ ಶ್ರೀಪಾದರು — ಶ್ರೀಹೃಷೀಕೇಶತೀರ್ಥಸಂಸ್ಥಾನ, ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ",
+            "ಅನುವಾದಕರು: ವಿದ್ವಾನ್‌ ಪಿ. ಎಸ್. ಶೇಷಗಿರಿ ಆಚಾರ್ಯ",
+            "ಪ್ರಕಾಶಕರು: ತತ್ವಸಂಶೋಧನಸಂಸತ್‌ (ರಿ.), ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮಾನ್ಯತೆ ಪಡೆದಿದೆ, ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ (OCR ಆಧಾರಿತ ಓದು)",
+            "ಗಮನ: ಇವು ಮುದ್ರಿತ ಕೃತಜ್ಞತಾ ಸಾಲುಗಳು; ಕಥೆಯ ಘಟನೆಗಳಲ್ಲ"
+          ],
+          "spoken_words": 149,
+          "estimated_voice_seconds_105_135wpm": [
+            66,
+            85
+          ],
+          "timing_status": "Planning estimate only. Record Kannada read, mark actual in/out, then cut; no fixed runtime or episode count.",
+          "chapter_links": []
+        },
+        {
+          "id": "FF01A-S02",
+          "title": "ಯೋಜನೆಯ ಅನಾವರಣ, ಕೃತಿಸೂಚನೆ ಮತ್ತು ನಮನ",
+          "kind": "explanation",
+          "source_refs": [
+            {
+              "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+              "line_start": 82,
+              "line_end": 101
+            },
+            {
+              "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+              "line_start": 105,
+              "line_end": 131
+            },
+            {
+              "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+              "line_start": 134,
+              "line_end": 145
+            }
+          ],
+          "narration": "ಪ್ರಕಟಣಾಪುಟದಲ್ಲಿ ಯೋಜನೆಯ ಹಿನ್ನೆಲೆಯೂ ಬರುತ್ತದೆ. ಮಹಾಭಾರತ, ಭಾರತತಾತ್ಪರ್ಯನಿರ್ಣಯ, ಲಕ್ಷ್ಯಾಲಂಕಾರ ಮತ್ತು ಕನ್ನಡ ಅನುವಾದಗಳ ಸಮಗ್ರ ಯೋಜನೆ — ಈ ಯೋಜನೆಯ ಉದ್ಘಾಟನೆ ಪರಮಪೂಜ್ಯ ಶ್ರೀಶ್ರೀ ವಿದ್ಯಾಧೀಶತೀರ್ಥ ಶ್ರೀಪಾದರ ಹಾಜರಿದ್ದ ಸಮಾರಂಭದಲ್ಲಿ ನಡೆದಿದೆ ಎಂದು ಪುಸ್ತಕ ಸೂಚಿಸುತ್ತದೆ; ಆದರೆ ಆ ಸಾಲಿನ ಮಧ್ಯಭಾಗ OCRನಲ್ಲಿ ಹಾನಿಗೊಳಗಾಗಿದೆ, ಆದ್ದರಿಂದ ಉದ್ಾಟನೆಯ ನಿಖರ ಮಾಹಿತಿಗೆ ಮೂಲಪುಟದ ಪರಿಶೀಲನೆ ಬಾಕಿ. ದಿನಾಂಕ ಸ್ಪಷ್ಟ: ಕಾರ್ತಿಕ ಬಹುಳ ತೃತೀಯಾ, 28 ನವೆಂಬರ್ 2015. ಅನಾವರಣ ತಿರುಮಲಕೇತ್ರದಲ್ಲಿ, ಪರಮಪೂಜ್ಯ ಶ್ರೀಶ್ರೀ ವಿಶ್ವೇಶತೀರ್ಥ ಶ್ರೀಪಾದರ ಹಸ್ತದಿಂದ ನಡೆದಿದೆ ಎಂದು ಓದಿಸಲಾಗಿದೆ; OCR ಇಲ್ಲಿ 'ವಿಶೇಶತೀರ್ಥ' ಎಂದು ಬರೆದಿದೆ — ಅದು ವಿಶ್ವೇಶತೀರ್ಥರ ಹೆಸರಿನ ಮುದ್ರಿತ ಭಿನ್ನರೂಪವೇ ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಬೇಕಿದೆ. ಅದರ ನಂತರ ಕೃತಿ ಹಕ್ಕಿನ ಸೂಚನೆ: © ತತ್ವಸಂಶೋಧನ ಸಂಸತ್‌, ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ. ಕೃತಿಯ ISBN ಗುರುತು, ಪುಟಲೆಕ್ಕ, ಪ್ರತಿಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಬೆಲೆಯೂ ಮುದ್ರಿತವಾಗಿವೆ: ಮುನ್ನುಡಿಗಳ LXXXVI ಪುಟಗಳು ಮತ್ತು ಮುಖ್ಯಪಠ್ಯದ 628 ಪುಟಗಳು, ಒಟ್ಟು 714; ಮುದ್ರಿತ ಪ್ರತಿಗಳ ಸಂಖ್ಯೆ ಒಂದು ಸಾವಿರ; ಬೆಲೆ ನಾಲ್ಕು ನೂರು ಇಪ್ಪತ್ತೈದು ರೂಪಾಯಿ. ಉತ್ಪಾದನಾ ಕೃತಜ್ಞತೆಗಳ ಪಟ್ಟಿಯೂ ಮುದ್ರಿತವಾಗಿದೆ: ಪುಟಸಂಯೋಜನೆಗೆ ಎಂ. ಶರತ್‌ ಚಂದ್ರ; ಬೆಂಬಟ್ಟಿಗೆ ಶ್ರೀನಿವಾಸ ಮತ್ತು ಶ್ರೀಮತಿ ಎಸ್. ನಾಗಲತಾ — ಈ ಸಾಲಿನ ಶೀರ್ಷಿಕೆಯೂ OCRನಲ್ಲಿ ಹಾನಿಯಾಗಿದೆ; ಮುದ್ರಣಕ್ಕೆ ಬೆಂಗಳೂರಿನ ಪವನ್‌ ಪ್ರಿಂಟರ್ಸ್‌. ಗ್ರಂಥಪ್ರಾಪ್ತಿಗೆ ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ ಎಂದು ಸೂಚಿಸಲಾಗಿದೆ. ಈ ಪುಟಗಳ ಕೊನೆಯಲ್ಲಿ ಮೂರು ನಮನ ಸಾಲುಗಳಿವೆ: 'ನವನವಗುಣಸಾಂದ್ರಂ ನೌಮಿ ಮಧ್ವಾಖ್ಯಚಂದ್ರಂ' — ಹೊಸತಾದ ತೊಂಬಟು ಗುಣಗಳ ಸಾಂದ್ರತೆಯನ್ನು ಹೊಂದಿದ ಮಧ್ವಾಖ್ಯ ಚಂದ್ರನಿಗೆ, ಅಂದರೆ ಮಧ್ವಾಚಾರ್ಯರಿಗೆ ನಮಸ್ಕಾರ; 'ಶ್ರೀಮದ್‌ಆದಿರಾಜಕೇಸರಿಣೇ ನಮಃ' — ಆದಿರಾಜಕೇಸರಿಗೆ ನಮಸ್ಕಾರ; ಮೂರನೇ ಸಾಲಿನ ಓದು OCRನಲ್ಲಿ ಅಸ್ಪಷ್ಟ, ಅದನ್ನು ಮೂಲಪುಟದಿಂದ ದೃಢಪಡಿಸಬೇಕಿದೆ. ನಮನಗಳ ನಂತರ ಪುಸ್ತಕವು ಜಗದ್ಗುರು ಶ್ರೀಮನ್ನಧ್ವಾಚಾರ್ಯಮೂಲಮಹಾಸಂಸ್ಥಾನದ ವಿಳಾಸವನ್ನೂ ನೀಡಿದೆ: ಪರಮಪೂಜ್ಯ ಶ್ರೀಶ್ರೀ ವಿಶ್ವೇಶತೀರ್ಥ ಶ್ರೀಪಾದರು, ಶ್ರೀ ಪೇಜಾವರ ಅಧೋಕ್ಷಜ ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ. ಇವೆಲ್ಲ ಕಥೆಯ ಘಟನೆಗಳಲ್ಲ; ಇವು ಈ ಗ್ರಂಥ ಹುಟ್ಟಿದ ಆಸ್ಥಾನ ಮತ್ತು ಅದರ ಪ್ರಕಟಣೆಯ ದಾಖಲೆಗಳು.",
+          "dialogue": [],
+          "visual_action": "The colophon pages of the same clothbound volume lying flat on the teak desk, the lower credit block presented as unlettered type area, a brass inkpot and a folded release-day cloth beside it, a faint gopuram silhouette in the window light.",
+          "image_prompt": "A publisher's colophon page of the same modern Kannada clothbound book lying flat on a teak desk, its lower half showing an unlettered credit block; a small brass inkpot and a folded saffron-white cloth beside it; a faint temple gopuram silhouette visible through the window in soft morning light; 50mm lens, warm gold and deep-brown palette, cotton and teak textures, no people, no faces, no readable letters. 16:9 composition for 3840x2160 delivery, cinematic naturalism, high-detail textures, restrained rich colour, no watermark, no pseudo-Sanskrit. Illustrative documentary image, not an authentic historical photograph.",
+          "negative_prompt": "No generated letters, logos, watermarks, extra limbs, duplicate faces, deformed hands, plastic costumes, unrelated architecture, sexualized framing or graphic gore. Preserve original character references, age and scene continuity. For an editorial or publication scene, permit the modern book or archive props explicitly requested; do not project them into ancient story scenes.",
+          "motion": "Locked frame or very slow lateral drift across the flat page; let the name sequence determine cut points. Do not animate printed credits.",
+          "sound": "Warm clear Kannada documentary narration, quiet room ambience; music only after the credit sequence ends, never under a name.",
+          "continuity": "Same book, table and light as FF01A-S01; the book is now lying flat (colophon pages). Book-paratext, not story. All names stay attributed to this edition; unresolved OCR readings must remain flagged in post labels.",
+          "editorial_notes_kn": [
+            "LXXXVI ಅನ್ನು ನಿರೂಪಕರು 'ಎಂಪತ್‌ಎಂಪತ್ತು' ಎಂದು ಓದಬೇಕು; ISBN ಮತ್ತು ದೂರವಾಣಿ ಸಂಖ್ಯೆಯನ್ನು ಪರದೆಯ ಲೇಬಲ್ ಮೂಲಕ ಮಾತ್ರ ನೀಡಿ, ಓದಬೇಡಿ.",
+            "ಹೆಸರುಗಳ ಅಂತಿಮ ಮುದ್ರಿತ ರೂಪಕ್ಕೆ ಮೂಲಪುಟದ ಚಿತ್ರಪರಿಶೀಲನೆ ನಡೆದ ನಂತರ ಮಾತ್ರ ಲೋಕು ಮಾಡಿ; ತನಕ 'OCR ಓದು — ಪರಿಶೀಲನೆ ಬಾಕಿ' ಲೇಬಲ್ ಉಳಿಸಿ."
+          ],
+          "postproduction_labels_kn": [
+            "ಸಮಗ್ರ ಯೋಜನೆ: ಮಹಾಭಾರತ - ಭಾರತತಾತ್ಪರ್ಯನಿರ್ಣಯ - ಲಕ್ಷ್ಯಾಲಂಕಾರ - ಕನ್ನಡ ಅನುವಾದ",
+            "ಉದ್ಘಾಟನೆ: ಕಾರ್ತಿಕ ಬಹುಳ ತೃತೀಯಾ, 28.11.2015; ಅನಾವರಣ: ತಿರುಮಲಕೇತ್ರದಲ್ಲಿ ಪರಮಪೂಜ್ಯ ಶ್ರೀಶ್ರೀ ವಿಶ್ವೇಶತೀರ್ಥ ಶ್ರೀಪಾದರಿಂದ (OCR 'ವಿಶೇಶತೀರ್ಥ' — ಭಿನ್ನರೂಪ ಪರಿಶೀಲನೆ ಬಾಕಿ)",
+            "© ತತ್ವಸಂಶೋಧನ ಸಂಸತ್‌ (ರ.), ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ",
+            "ISBN: 978-93-81807-24-8 | ಪುಟಗಳು: LXXXVI + 628 = 714 | ಮುದ್ರಿತ ಪ್ರತಿಗಳು: 1000 | ಬೆಲೆ: ರೂ. 425/-",
+            "ಪುಟ ಸಂಯೋಜನೆ: ಎಂ. ಶರತ್‌ ಚಂದ್ರ | ಬೆಂಬಟ್ಟಿ: ಶ್ರೀನಿವಾಸ ಮತ್ತು ಶ್ರೀಮತಿ ಎಸ್. ನಾಗಲತಾ (ಶೀರ್ಷಿಕೆಯ OCR ಓದು ಹಾನಿತ) | ಮುದ್ರಕರು: ಪವನ್‌ ಪ್ರಿಂಟರ್ಸ್‌, ಬೆಂಗಳೂರು",
+            "ಗ್ರಂಥಪ್ರಾಪ್ತಿ: ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ",
+            "ನಮನ: ನವನವಗುಣಸಾಂದ್ರಂ ನೌಮಿ ಮಧ್ವಾಖ್ಯಚಂದ್ರಂ | ಶ್ರೀಮದ್‌ಆದಿರಾಜಕೇಸರಿಣೇ ನಮಃ | ಮೂರನೇ ಸಾಲಿನ ಓದು ಅಸ್ಪಷ್ಟ — ಪರಿಶೀಲನೆ ಬಾಕಿ",
+            "ಜಗದ್ಗುರು ಶ್ರೀಮನ್ನಧ್ವಾಚಾರ್ಯಮೂಲಮಹಾಸಂಸ್ಥಾನ — ಪರಮಪೂಜ್ಯ ಶ್ರೀಶ್ರೀ ವಿಶ್ವೇಶತೀರ್ಥ ಶ್ರೀಪಾದರು, ಶ್ರೀ ಪೇಜಾವರ ಅಧೋಕ್ಷಜ ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ"
+          ],
+          "spoken_words": 201,
+          "estimated_voice_seconds_105_135wpm": [
+            89,
+            115
+          ],
+          "timing_status": "Planning estimate only. Record Kannada read, mark actual in/out, then cut; no fixed runtime or episode count.",
+          "chapter_links": []
+        }
+      ]
+    }
+  ]
+}

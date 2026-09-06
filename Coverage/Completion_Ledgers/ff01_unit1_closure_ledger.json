@@ -1,0 +1,478 @@
+{
+  "unit_scope": "Volume 1 front-matter unit 1, raw lines 1-147 (MAHABHARATA-1-AADIPARVA-_djvu (1).txt)",
+  "status": "FULL_SENTENCE_LEVEL_ADAPTATION_WRITTEN_IN_COMPLETION_PACK_FF01A; INTEGRATION_PENDING; 3 UNITS OCR_BLOCKED_PENDING_SCAN",
+  "pack": "completion/volume1/batch01_ff01_unit1.json",
+  "new_scene_ids": [
+    "FF01A-S01",
+    "FF01A-S02"
+  ],
+  "status_counts": {
+    "already_covered": 3,
+    "written_source_checked": 19,
+    "ocr_blocked": 3,
+    "intentional_repeat_explained": 2
+  },
+  "units": [
+    {
+      "unit_id": "FF01U1-001",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 1,
+          "line_end": 1
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಗ್ರಂಥವನ್ನು 'ಭಗವಾನ್‌ ಶ್ರೀವೇದವ್ಯಾಸ ಪ್ರಣೀತ' ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ",
+      "scene_ids": [
+        "FF01-S01"
+      ],
+      "status": "already_covered",
+      "evidence": "FF01-S01 ನಿರೂಪಣೆಯೇ ಗ್ರಂಥವನ್ನು ವೇದವ್ಯಾಸಪ್ರಣೀತ ಮಹಾಭಾರತ ಎಂದು ಹೆಸರಿಸುತ್ತದೆ"
+    },
+    {
+      "unit_id": "FF01U1-002",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 4,
+          "line_end": 9
+        }
+      ],
+      "layer": "introduction",
+      "proposition": "ಶೀರ್ಷಿಕೆ ಮಹಾಭಾರತ; ಮೂರು ಪದರಗಳ ಉಪಶೀರ್ಷಿಕೆ (ಕನ್ನಡ ಅನುವಾದ + ತಾತ್ಪರ್ಯನಿರ್ಣಯ + ಲಕ್ಷ್ಯಾಲಂಕಾರ); ಸಾಲುಗಳ OCR ಹಾನಿತ ಆದರರ್ಥ ಸ್ಪಷ್ಟ",
+      "scene_ids": [
+        "FF01-S01"
+      ],
+      "status": "already_covered",
+      "evidence": "FF01-S01 ಮೂರು ಪದರಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ; ಹಾನಿತ OCR ಸಾಲುಗಳ ಅರ್ಥವನ್ನು ಮಾತ್ರ ಉಳಿಸಿದೆ"
+    },
+    {
+      "unit_id": "FF01U1-003",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 12,
+          "line_end": 12
+        }
+      ],
+      "layer": "introduction",
+      "proposition": "ಮುಖಪುಟದ ಪರ್ವದ ಹೆಸರು (OCR 'ಅಲಿಪರ್ಪೆ' — ಓದು: ಆದಿಪರ್ವ)",
+      "scene_ids": [
+        "FF01A-S01"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಹೊಸ ದೃಶ್ಯದಲ್ಲಿ ಹೆಸರಿದ್ದದ್ದು, ಹಾನಿತ ಓದು ಮತ್ತು ನಿರೀಕ್ಷಿತ ಓದು ಎರಡನ್ನೂ ತೋರಿಸಿದೆ; AADIPARVA ಕಡತಹೆಸರಿನೊಂದಿಗೆ ಸಾೂಅత"
+    },
+    {
+      "unit_id": "FF01U1-004",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 43,
+          "line_end": 45
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಮುಖಪುಟದ ಪ್ರಕಾಶಕ ಸಂಸ್ಥೆ: ತತ್ವಸಂಶೋಧನಸಂಸತ್‌ (ರಿ.), ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮಾನ್ಯತೆ ಪಡೆದಿದೆ, ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ",
+      "scene_ids": [
+        "FF01A-S01"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಹೊಸ ದೃಶ್ಯದ ಲೇಬಲ್ + ನಿರೂಪಣೆ; ವಿಶ್ವವಿದ್ಯಾಲಯ ಮಾನ್ಯತೆ ಓದು OCR ಆಧಾರಿತ, ಸ್ಕ್ಯಾನ್ ಪರಿಶೀಲನೆ ಬಾಕಿ ಎಂದು ಲೇಬಲ್ನಲ್ಲಿ ಸೂಚಿತ"
+    },
+    {
+      "unit_id": "FF01U1-005",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 48,
+          "line_end": 49
+        }
+      ],
+      "layer": "hymn",
+      "proposition": "ಉತ್ತರಣೆ ಸಾಲುಗಳು: '|| ಶ್ರೀರಾಮಶ್ರೀ ||' ಮತ್ತು '|| ಶ್ರೀವೇದವ್ಯಾಸೋ ವಿಜಯತೇ ||' — ವ್ಯಾಸರಿಗೆ ವಿಜಯದ ಆಶಯ; ಮುದ್ರಿತ ಗ್ರಂಥಾಂಶವಾಗಿ ಉಲ್ಲೇಖ, ನಡೆಸುವುದಲ್ಲ",
+      "scene_ids": [
+        "FF01A-S01"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ದೃಶ್ಯವು ಸಾಲುಗಳನ್ನು ಗ್ರಂಥದ ಮುದ್ರಿತ ಭಾಗವಾಗಿ ಪರಿಚಯಿಸುತ್ತದೆ; ಅರ್ಥವನ್ನು (ವಿಜಯಾಶಯ) ಸೂಚಿಸಿದೆ; ಭಕ್ತಿ ಸಂದೇಶವನ್ನು ಆವೃತ್ತಿಗೆ ಸಲ್ಲಿಸಲಾಗಿದೆ, ನಿರೂಪಕನ ಅಭಿಪ್ರಾಯವಾಗಿಲ್ಲ"
+    },
+    {
+      "unit_id": "FF01U1-006",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 52,
+          "line_end": 60
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಶೀರ್ಷಿಕಾಪುಟ: ಭಗವಾನ್‌ ಶ್ರೀವೇದವ್ಯಾಸ ಪ್ರಣೀತ ಮಹಾಭಾರತ, ಭಾಗ-೧, ಮೂರು ಪದರಗಳೊಂದಿಗೆ",
+      "scene_ids": [
+        "FF01-S01",
+        "FF01A-S01"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಪದರಗಳ ಲೇಖನ FF01-S01ರಲ್ಲಿ; 'ಭಾಗ-೧' ಗುರುತನ್ನು FF01A-S01 ಹೊಸದಾಗಿ ಸೇರಿಸಿದೆ"
+    },
+    {
+      "unit_id": "FF01U1-007",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 63,
+          "line_end": 64
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಪ್ರಕಟಣಾಸ್ವಸ್ಥ: ಪರಮಪೂಜ್ಯ ಶ್ರೀಶ್ರೀ ವಿದ್ಯಾಧೀಶತೀರ್ಥ ಶ್ರೀಪಾದರು, ಶ್ರೀಹೃಷೀಕೇಶತೀರ್ಥಸಂಸ್ಥಾನ, ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ",
+      "scene_ids": [
+        "FF01A-S01"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಹೊಸ ದೃಶ್ಯದ ನಿರೂಪಣೆ + ಲೇಬಲ್; OCR ಓದು"
+    },
+    {
+      "unit_id": "FF01U1-008",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 67,
+          "line_end": 68
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಅನುವಾದಕರು: ವಿದ್ವಾನ್‌ ಪಿ. ಎಸ್. ಶೇಷಗಿರಿ ಆಚಾರ್ಯ",
+      "scene_ids": [
+        "FF01-S01",
+        "FF01A-S01"
+      ],
+      "status": "already_covered",
+      "evidence": "FF01-S01 ಹೆಸರಿಸಿದೆ; FF01A-S01 ಪುನಃ ಉಲ್ಲೇಖಿಸಿದ್ದು ಮುಖಪುಟದ ಪರಿಚಯದ ಸಂದರ್ಭದಲ್ಲೇ ಇರುವುದರಿಂದ"
+    },
+    {
+      "unit_id": "FF01U1-009",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 71,
+          "line_end": 73
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಪ್ರಕಾಶಕರು: ತತ್ವಸಂಶೋಧನಸಂಸತ್‌ (ರಿ.), ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮಾನ್ಯತೆ ಪಡೆದಿದೆ, ಶ್ರೀಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ (ಸಾಲು72 OCR ಹಾನಿತ)",
+      "scene_ids": [
+        "FF01A-S01"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಸಾಲು72 'ಕರ್ನಾಟಕ ಸ ಸಂಸ್ಕ; ತ...' ಹಾನಿತ; ಸ್ಪಷ್ಟ ಓದು ಬಳಸಿ, ಲೇಬಲ್ನಲ್ಲಿ OCR ಆಧಾರಿತ ಎಂದು ಸೂಚಿತ"
+    },
+    {
+      "unit_id": "FF01U1-010",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 82,
+          "line_end": 86
+        }
+      ],
+      "layer": "introduction",
+      "proposition": "ಸಮಗ್ರ ಯೋಜನೆ (ಮಹಾಭಾರತ-ತಾತ್ಪರ್ಯನಿರ್ಣಯ-ಲಕ್ಷ್ಯಾಲಂಕಾರ-ಕನ್ನಡ ಅನುವಾದ) ವಿದ್ಯಾಧೀಶತೀರ್ಥ ಶ್ರೀಪಾದರ ಸಮಾರಂಭದಲ್ಲಿ ಉದ್ಾಟಿತ; ಸಾಲಿನ ಮಧ್ಯಭಾಗ OCRನಲ್ಲಿ ಅಸ್ಪಷ್ಟ",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "ocr_blocked",
+      "evidence": "ಸಾಲು 83-84 'ಬ್ರ ಜ್ನ ಇ ವ ನ) [2 ನ ಸಣ್ಬಖ್ರ' — ಓದಲಾಗದ ಅಕ್ಷರಗಳು; ದೃಶ್ಯವು ಓದಬಹುದಾದ ಭಾಗ ಮಾತ್ರ ನೀಡಿ, ಹಾನಿಯನ್ನು ಮುಳುವಾಗಿ ಉಳಿಸಿದೆ; ಸ್ಕ್ಯಾನ್ ಪರಿಶೀಲನೆ ಬಾಕಿ (ಸ್ಕ್ಯಾನ್ ಬಳಕೆದಾರರ ಕಾರ್ಯಸಂಸ್ಕರಣೆಯಲ್ಲಿ ಲಭ್ಯ)"
+    },
+    {
+      "unit_id": "FF01U1-011",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 87,
+          "line_end": 87
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಸಮಾರಂಭದ ದಿನಾಂಕ: ಕಾರ್ತಿಕ ಬಹುಳ ತೃತೀಯಾ, 28.11.2015",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "OCR ಸ್ಪಷ್ಟ; ನಿರೂಪಣೆಯಲ್ಲಿ ಕನ್ನಡ ಪದಗಳಲ್ಲಿ ಓದಿಸಲಾಗಿದೆ"
+    },
+    {
+      "unit_id": "FF01U1-012",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 94,
+          "line_end": 95
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಅನಾವರಣ ತಿರುಮಲಕೇತ್ರದಲ್ಲಿ ಪರಮಪೂಜ್ಯ ಶ್ರೀಶ್ರೀ ವಿಶ್ವೇಶತೀರ್ಥ ಶ್ರೀಪಾದರ ಹಸ್ತದಿಂದ; OCR 'ವಿಶೇಶತೀರ್ಥ' — ಹೆಸರಿನ ಮುದ್ರಿತ ಭಿನ್ನರೂಪವನ್ನು ಪರಿಶೀಲಿಸಬೇಕಿದೆ",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಘಟನೆಯ ಅರ್ಥ ಸ್ಪಷ್ಟ; ಹೆಸರಿನ ವ್ಯತ್ಯಾಸವನ್ನು ದೃಶ್ಯ + ಲೇಬಲ್ನಲ್ಲಿ ಬಹಿರಂಗಪಡಿಸಲಾಗಿದೆ; ಇತರೆಡೆ (ಸಾಲು144 ಸಂದರ್ಭ, ಪೇಜಾವರ) ವಿಶ್ವೇಶತೀರ್ಥ ಎಂದು ಓದಲ್ಪಡುತ್ತದೆ"
+    },
+    {
+      "unit_id": "FF01U1-013",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 102,
+          "line_end": 102
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಕೃತಿ ಹಕ್ಕು: © ತತ್ವಸಂಶೋಧನ ಸಂಸತ್‌ (ರ.), ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಲೇಬಲ್ + ನಿರೂಪಣೆ"
+    },
+    {
+      "unit_id": "FF01U1-014",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 105,
+          "line_end": 105
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ISBN: 978-93-81807-24-8",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಲೇಬಲ್ ಮಾತ್ರ; ನಿರೂಪಣೆಯಲ್ಲಿ ಓದಿಸಲಿಲ್ಲ (ಸಂಪಾದಕೀಯ ನೋಟದಂತೆ)"
+    },
+    {
+      "unit_id": "FF01U1-015",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 108,
+          "line_end": 108
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಪುಟಲೆಕ್ಕ: LXXXVI + 628 = 714",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ನಿರೂಪಣೆ LXXXVI=86 ಎಂದು ಪದಗಳಲ್ಲಿ ಓದುತ್ತದೆ (ಸಂಪಾದಕೀಯ ನೋಟ); ಮುದ್ರಿತ ರೂಪ ಲೇಬಲ್ನಲ್ಲಿ"
+    },
+    {
+      "unit_id": "FF01U1-016",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 111,
+          "line_end": 111
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಮುದ್ರಿತ ಪ್ರತಿಗಳ ಸಂಖ್ಯೆ: 1000",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ನಿರೂಪಣೆಯಲ್ಲಿ 'ಒಂದು ಸಾವಿರ'"
+    },
+    {
+      "unit_id": "FF01U1-017",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 112,
+          "line_end": 112
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಬೆಲೆ: ರೂ. 425/-",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ನಿರೂಪಣೆಯಲ್ಲಿ 'ನಾಲ್ಕು ನೂರು ಇಪ್ಪತ್ತೈದು ರೂಪಾಯಿ'; ಲೇಬಲ್ ಮುದ್ರಿತ ರೂಪ"
+    },
+    {
+      "unit_id": "FF01U1-018",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 115,
+          "line_end": 115
+        }
+      ],
+      "layer": "repetition",
+      "proposition": "ಕಾಲಫನ್ ಪುಟದಲ್ಲಿ ಅನುವಾದಕರ ಹೆಸರು ಪುನಃ ಮುದ್ರಿತ (FF01U1-008ರ ಪುನರಾವರ್ತನೆ)",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "intentional_repeat_explained",
+      "evidence": "ಪುಸ್ತಕದ ಕಾಲಫನ್ ಪಟ್ಟಿಯ ಭಾಗವಾಗಿ ಹೊಸ ದೃಶ್ಯದಲ್ಲಿ 'ಉತ್ಪಾದನಾ ಕೃತಜ್ಞತೆಗಳ ಪಟ್ಟಿ' ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ"
+    },
+    {
+      "unit_id": "FF01U1-019",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 119,
+          "line_end": 120
+        }
+      ],
+      "layer": "repetition",
+      "proposition": "ಕಾಲಫನ್ ಪುಟದಲ್ಲಿ ಪ್ರಕಾಶಕರ ಹೆಸರು ಪುನಃ ಮುದ್ರಿತ (FF01U1-009ರ ಪುನರಾವರ್ತನೆ)",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "intentional_repeat_explained",
+      "evidence": "ಉಳಿಗೊಳಿಸಲಾದ ಮುದ್ರಿತ ಪಟ್ಟಿಯ ಭಾಗ; ಪುನರಾವರ್ತನೆಯನ್ನು ವಿವರಿಸಲಾಗಿದೆ"
+    },
+    {
+      "unit_id": "FF01U1-020",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 123,
+          "line_end": 123
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಪುಟ ಸಂಯೋಜನೆ: ಎಂ. ಶರತ್‌ ಚಂದ್ರ",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಲೇಬಲ್ + ನಿರೂಪಣೆ"
+    },
+    {
+      "unit_id": "FF01U1-021",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 126,
+          "line_end": 126
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಬೆಂಬಟ್ಟಿ: ಶ್ರೀನಿವಾಸ ಮತ್ತು ಶ್ರೀಮತಿ ಎಸ್. ನಾಗಲತಾ; ಸಾಲಿನ ಶೀರ್ಷಿಕೆ OCRನಲ್ಲಿ 'ಅಕ್ಬರ ಜೋಡಣೆ' ಎಂದು ಹಾನಿತ",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "ocr_blocked",
+      "evidence": "ಹೆಸರುಗಳು ಓದಬಹುದು; ಶೀರ್ಷಿಕೆಯ ಮೂಲ ಪದ (ಬೆಂಬಟ್ಟಿ/ಬಂಧನ) OCR ಅಸ್ಪಷ್ಟ; ದೃಶ್ಯ ಹಾನಿಯನ್ನು ಮುಳುವಾಗಿ ಉಳಿಸಿದೆ; ಸ್ಕ್ಯಾನ್ ಪರಿಶೀಲನೆ ಬಾಕಿ"
+    },
+    {
+      "unit_id": "FF01U1-022",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 127,
+          "line_end": 128
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಮುದ್ರಕರು: ಪವನ್‌ ಪ್ರಿಂಟರ್ಸ್‌, ಬೆಂಗಳೂರು; ಸಂಪರ್ಕ ಸಂಖ್ಯೆ 96864 89131",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಸಂಖ್ಯೆ ಲೇಬಲ್ ಮಾತ್ರ; ನಿರೂಪಣೆ 'ಮುದ್ರಣಕ್ಕೆ ಬೆಂಗಳೂರಿನ ಪವನ್‌ ಪ್ರಿಂಟರ್ಸ್' ಎಂದು ಮಾತ್ರ ಹೇಳುತ್ತದೆ"
+    },
+    {
+      "unit_id": "FF01U1-023",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 131,
+          "line_end": 131
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಗ್ರಂಥಪ್ರಾಪ್ತಿ: ಪಲಿಮಾರು ಮಠ, ಉಡುಪಿ",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ಲೇಬಲ್ + ನಿರೂಪಣೆ"
+    },
+    {
+      "unit_id": "FF01U1-024",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 134,
+          "line_end": 134
+        }
+      ],
+      "layer": "hymn",
+      "proposition": "ನಮನ 1: 'ನವನವಗುಣಸಾಂದ್ರಂ ನೌಮಿ ಮಧ್ವಾಖ್ಯಚಂದ್ರಂ' — ಹೊಸತಾದ ತೊಂಬಟು ಗುಣಗಳ ಸಾಂದ್ರತೆಯ ಮಧ್ವಾಖ್ಯ ಚಂದ್ರನಿಗೆ (ಮಧ್ವಾಚಾರ್ಯ) ನಮಸ್ಕಾರ",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "OCR ಓದು; ಅರ್ಥವನ್ನು ದೃಶ್ಯದಲ್ಲಿ ನೀಡಿದೆ; ಭಕ್ತಿ ಸಂದೇಶವನ್ನು ಗ್ರಂಥಕ್ಕೆ ಸಲ್ಲಿಸಲಾಗಿದೆ"
+    },
+    {
+      "unit_id": "FF01U1-025",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 137,
+          "line_end": 137
+        }
+      ],
+      "layer": "hymn",
+      "proposition": "ನಮನ 2: 'ಶ್ರೀಮದ್‌ಆದಿರಾಜಕೇಸರಿಣೇ ನಮಃ' — ಆದಿರಾಜಕೇಸರಿಗೆ ನಮಸ್ಕಾರ (OCR 'ಶ್ರೀಮದ್ದಾದಿರಾಜಕೇಸರಿಣೇ')",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "OCR ಓದು; ಅರ್ಥವನ್ನು ದೃಶ್ಯದಲ್ಲಿ ನೀಡಿದೆ"
+    },
+    {
+      "unit_id": "FF01U1-026",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 140,
+          "line_end": 140
+        }
+      ],
+      "layer": "hymn",
+      "proposition": "ನಮನ 3: ಸಾಲಿನ ಓದು OCRನಲ್ಲಿ ಅಸ್ಪಷ್ಟ ('ವಿದ್ಯಾಮಾನ್ಯಾನ್ನನೀನ್‌ನಮಃ')",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "ocr_blocked",
+      "evidence": "ಸಾಲು ಓದಲಾಗದು; ದೃಶ್ಯವು 'ಮೂರನೇ ಸಾಲಿನ ಓದು ಅಸ್ಪಷ್ಟ' ಎಂದು ಮಾತ್ರ ಹೇಳಿದೆ; ಯಾವುದೇ ಊಹಿತ ಹೆಸರನ್ನು ಸೇರಿಸಲಿಲ್ಲ; ಮೂಲಪುಟದಿಂದ ದೃಢಪಡಿಸಬೇಕು"
+    },
+    {
+      "unit_id": "FF01U1-027",
+      "source_refs": [
+        {
+          "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
+          "line_start": 143,
+          "line_end": 145
+        }
+      ],
+      "layer": "publication_credit",
+      "proposition": "ಸಂಸ್ಥಾನದ ವಿಳಾಸ: ಜಗದ್ಗುರು ಶ್ರೀಮನ್ನಧ್ವಾಚಾರ್ಯಮೂಲಮಹಾಸಂಸ್ಥಾನ, ಪರಮಪೂಜ್ಯ ಶ್ರೀಶ್ರೀ ವಿಶ್ವೇಶತೀರ್ಥ ಶ್ರೀಪಾದರು, ಶ್ರೀ ಪೇಜಾವರ ಅಧೋಕ್ಷಜ ಮಠ, ರಥಬೀದಿ, ಉಡುಪಿ (OCR ಸಾಲು144 'ವಿಶ್ಲೇಶತೀರ್ಥ' ಹಾನಿತ)",
+      "scene_ids": [
+        "FF01A-S02"
+      ],
+      "status": "written_source_checked",
+      "evidence": "ವಿಷಯ ಸ್ಪಷ್ಟ; ಸಾಲು144ರ ಹೆಸರು OCR ಹಾನಿತ ಆದರೂ ಪೇಜಾವರ-ವಿಶ್ವೇಶತೀರ್ಥ ಸಂದರ್ಭದೊಂದಿಗೆ ಸಾೂಅత; ಓದು ಬಹಿರಂಗಪಡಿಸಲ್ಪಟ್ಟಿದೆ"
+    }
+  ]
+}

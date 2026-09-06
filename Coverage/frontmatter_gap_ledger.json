@@ -14,8 +14,20 @@
       "front_unit_index": 1,
       "scene_id": "FF01-S01",
       "narration_words": 57,
-      "status": "THEMATIC_EXPLANATION_WRITTEN_NOT_FULL_SENTENCE_LEVEL_ADAPTATION",
-      "remaining_detail": "Exact full title-page/ISBN/production data and every credit not all spoken; kept in separate raw credits extract."
+      "status": "FULL_SENTENCE_LEVEL_ADAPTATION_WRITTEN_COMPLETION_PACK_FF01A_INTEGRATION_PENDING",
+      "remaining_detail": "Three OCR-blocked readings flagged in scene+labels: (1) project-launch line middle garbled (raw 83-84); (2) binding credit heading garbled (raw 126); (3) third namaskara line unreadable (raw 140). Scan verification pending in user's workbench; no invented readings.",
+      "completion_pack": "completion/volume1/batch01_ff01_unit1.json",
+      "new_scene_ids": [
+        "FF01A-S01",
+        "FF01A-S02"
+      ],
+      "closure_ledger": "Coverage/Completion_Ledgers/ff01_unit1_closure_ledger.json",
+      "closure_status_counts": {
+        "already_covered": 3,
+        "written_source_checked": 19,
+        "intentional_repeat_explained": 2,
+        "ocr_blocked": 3
+      }
     },
     {
       "volume": 1,

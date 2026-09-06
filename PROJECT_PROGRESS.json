@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-06T18:53:30.267677+00:00",
+  "updated_utc": "2026-09-06T18:59:42.802039+00:00",
   "user_request": "Finish the supplied books in full detail and apply the identical workflow to every next book. Conversation English; spoken narration and dialogue Kannada; no episode-count limit.",
   "completion_status": "UNABRIDGED_ADAPTATION_UNFINISHED",
   "source_scope": "Four supplied Palimaru volumes: Adiparva1–237 and Sabhaparva1–24. Not the whole18-parva epic.",
@@ -7,8 +7,8 @@
     "story_groups": 44,
     "introduction_groups": 4,
     "explanation_groups": 37,
-    "scenes": 635,
-    "Kannada_spoken_words": 36249,
+    "scenes": 637,
+    "Kannada_spoken_words": 36599,
     "scene_keyframe_prompts": 635,
     "reusable_asset_prompts": 89,
     "registered_chapters": 261,
@@ -70,16 +70,30 @@
         "integrated": true,
         "unassembled_scene_ids": [],
         "sha256": "da702805b4bb691c09f04eaa894c638d67933ef25f53f86a01d40f625914d39f"
+      },
+      {
+        "file": "completion/volume1/batch01_ff01_unit1.json",
+        "groups": [
+          "FF01A"
+        ],
+        "scenes": 2,
+        "integrated": false,
+        "unassembled_scene_ids": [
+          "FF01A-S01",
+          "FF01A-S02"
+        ],
+        "sha256": "06f5186313a3d55e2eb68142853a1793d78f887e9be532a99d07d9cc054be1ba"
       }
     ],
     "mapped_completion_unit_status_counts": {
-      "adapted_readable_meaning": 668,
-      "adapted_scan_verified_meaning": 5,
-      "printed_reading_and_variant_explained": 3,
-      "duplicate_source_printing_meaning_retained_once": 1,
-      "unresolved_printed_relation_requires_scan": 1
+      "unit1_front_matter_lines_1_147": {
+        "written_source_checked": 19,
+        "already_covered": 3,
+        "intentional_repeat_explained": 2,
+        "ocr_blocked": 3
+      }
     },
-    "scope_note": "Unit counts are individual added propositions/name slots, not proof that whole chapters are complete."
+    "scope_note": "Unit counts are individual added propositions/name slots, not proof that whole chapters are complete. Front-matter unit 1 (V1 raw 1-147) now has full sentence-level script in completion pack FF01A (unassembled; assembler lives in the Windows workbench)."
   },
   "source_verification": {
     "matching_scans": "All4 original PDFs,4 DjVu XML files and4 page-number JSONs downloaded and checksum verified. All4 local OCR MD5 hashes match archive metadata.",
@@ -90,12 +104,12 @@
   },
   "next_unfinished_source_unit": {
     "volume": 1,
-    "front_unit_index": 1,
+    "front_unit_index": 2,
     "file": "MAHABHARATA-1-AADIPARVA-_djvu (1).txt",
-    "line_start": 1,
-    "line_end": 147,
-    "current_scene": "FF01-S01",
-    "task": "Expand every bibliographic/devotional front-matter proposition and publication credit from the source, using the matching scan. Existing thematic narration is not full coverage. Create an item-level ledger and actual Kannada script; avoid repeating what FF01-S01 already says."
+    "line_start": 148,
+    "line_end": 218,
+    "current_scene": "FF01A-S02",
+    "task": "Full sentence-level Kannada adaptation of blessing message 1 (Pejavara/Pejawara anugraha sandesha). FF01-S02 is thematic only; write every proposition (epic-as-pramana argument, apauruseya Veda claim, Vyasa-as-Bhagavan claim, commentary's role, textual corruption argument, Madhva-tatparyanirnaya + Vadiraja-lakshyaalankara basis, Vidyamaanya centenary 100-volume note, request for support) with attribution to the author of the message. Scan-check names if possible."
   },
   "remaining_work_queue": [
     {
@@ -125,7 +139,10 @@
       "work": "Preserve43new scenes; finish full Narada administration questions and remaining source units, Adi extended speeches/hymns and commentary, and independent reconciliation of Sabha4/7–11 additions."
     }
   ],
-  "saved_but_unassembled_scene_ids": [],
+  "saved_but_unassembled_scene_ids": [
+    "FF01A-S01",
+    "FF01A-S02"
+  ],
   "validation": {
     "content_qa.json": {
       "status": "PASS",
@@ -197,6 +214,19 @@
         "Created Drive backup package in /home/user/Drive_Upload/ (ZIP + SHA256SUMS + restore proof + notes) for upload to the user's Google Drive."
       ],
       "next": "Next unfinished source unit unchanged: Volume 1 front matter unit 1, lines 1-147 (publication credits + devotional front matter), scene FF01-S01 is thematic only - full sentence-level Kannada script + item-level ledger still required."
+    },
+    {
+      "date_utc": "2026-09-06T19:10Z",
+      "actions": [
+        "Wrote completion pack completion/volume1/batch01_ff01_unit1.json: group FF01A, 2 scenes (FF01A-S01 title-page/invocation/patronage; FF01A-S02 launch/colophon/namaskara), 350 Kannada spoken words, full production fields, anchored insert_after FF01-S01.",
+        "Wrote item-level closure ledger Coverage/Completion_Ledgers/ff01_unit1_closure_ledger.json: 27 units, 19 written_source_checked, 3 already_covered, 2 intentional_repeat_explained, 3 ocr_blocked (launch line garble, binding heading garble, third namaskara unreadable) - all flagged in scene narration and labels, no invented readings.",
+        "Updated Coverage/frontmatter_gap_ledger.json unit 1 to FULL_SENTENCE_LEVEL_ADAPTATION_WRITTEN with pack reference."
+      ],
+      "blockers": [
+        "Build tooling (assemble_package.py, qa_content.py, build_reader.py, etc.) is NOT in this repository - it lives in the Windows workbench. Pack is therefore saved-but-unassembled: Master_Scenes.json (hash 94196774...) intentionally untouched and remains authoritative until the user's machine (or restored workbench) runs the assembly sequence.",
+        "Original PDF scans are not downloadable from this sandbox (archive.org blocked); the 3 ocr_blocked readings need the user's local scans to close."
+      ],
+      "next": "Front-matter unit 2, V1 raw lines 148-218 (blessing message 1)."
     }
   ]
 }
