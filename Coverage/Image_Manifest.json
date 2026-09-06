@@ -128,5 +128,25 @@
   "prompt_version": "v2-madhva",
   "madhva_context": "Madhva devakshetra: Krishna with peacock-feather crown, Udupi shrine, Madhva negatives applied",
   "created_utc": "2026-09-06T20:09:25.263752+00:00"
+ },
+ "FF01-S09": {
+  "native": "1672x941",
+  "delivery": "3840x2160 JPEG q92 lanczos",
+  "native_file": "Media/Keyframes/FF01-S09.png",
+  "four_k_file": "Media/Keyframes4K/FF01-S09.jpg",
+  "four_k_sha256": "7da6110f806c71e44492e28a0dbfe1b3b62c607867fc9482c0f1de8474c1fecf",
+  "prompt_version": "v1-original",
+  "madhva_context": "neutral documentary still",
+  "created_utc": "2026-09-06T20:23:26.464701+00:00"
+ },
+ "FF01-S10": {
+  "native": "1672x941",
+  "delivery": "3840x2160 JPEG q92 lanczos",
+  "native_file": "Media/Keyframes/FF01-S10.png",
+  "four_k_file": "Media/Keyframes4K/FF01-S10.jpg",
+  "four_k_sha256": "0581de4b7b5bd8a59e0d048ebf208b3906833a0ea488f1421cec1b967905a88d",
+  "prompt_version": "v2-madhva",
+  "madhva_context": "Ashta Matha collection: subtle saffron ribbon, Udupi matha context",
+  "created_utc": "2026-09-06T20:23:26.466518+00:00"
  }
 }

@@ -238,23 +238,35 @@
       "audition_date_utc": "2026-09-06"
     },
     "keyframes_4k": {
-      "count": 5,
+      "count": 15,
       "scenes": [
         "I1-S01",
         "I1-S02",
         "I1-S03",
         "I1-S04",
-        "I1-S05"
+        "I1-S05",
+        "FF01-S01",
+        "FF01-S02",
+        "FF01-S03",
+        "FF01-S04",
+        "FF01-S05",
+        "FF01-S06",
+        "FF01-S07",
+        "FF01-S08",
+        "FF01-S09",
+        "FF01-S10"
       ],
-      "delivery": "3840x2160 JPEG q92 (lanczos upscale from 1672x941 native, recorded honestly)",
+      "delivery": "3840x2160 JPEG q92 (lanczos from 1672x941 native, recorded honestly)",
       "manifest": "Coverage/Image_Manifest.json",
-      "note": "Remaining 630 scenes pending; batches proceed in reading order."
+      "note": "Reading-order batch progress: I1 (5/5) done, FF01 (10/23) in progress. Image limit: 10 per session turn — remaining 620 scenes continue in subsequent turns."
     },
     "pilot_video": {
       "file": "Media/Video/Mahabharata_Kannada_4K_Pilot_I1.mp4",
-      "spec": "3840x2160, 16:9, 24fps, H.264 + AAC",
-      "group": "I1 (5 scenes, 5:40)",
-      "status": "building from 4K keyframes"
+      "spec": "3840x2160, 16:9, 24fps, H.264 High + AAC 128k, faststart",
+      "duration": "5:40",
+      "size_mb": 69.6,
+      "group": "I1 (5 scenes)",
+      "status": "RENDERED - delivered to user for review"
     },
     "madhva_visual_identity": "Mandatory for all religious-context keyframes — see Production_Bible.md section added 2026-09-06"
   }
