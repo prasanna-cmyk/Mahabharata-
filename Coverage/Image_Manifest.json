@@ -4,100 +4,110 @@
   "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
   "native_file": "Media/Keyframes/I1-S01.png",
   "four_k_file": "Media/Keyframes4K/I1-S01.jpg",
-  "four_k_sha256": "c4dea9af45fc6b660653c4885632fd92f7c4bba642909a7de622f9d8286d3865",
+  "four_k_sha256": "c8c7bb8fbccc6a9baef8de45848325d691464b292ef37c46cac8e910bfecffec",
   "prompt_version": "v1-original",
   "madhva_context": "neutral documentary still",
-  "created_utc": "2026-09-06T20:07:50.690507+00:00"
+  "created_utc": "2026-09-07T04:20:05.289184+00:00",
+  "note": "regenerated 2026-09-07 after sandbox restart (same prompt, new sample)"
  },
  "I1-S02": {
   "native": "1672x941 (image-model output)",
   "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
   "native_file": "Media/Keyframes/I1-S02.png",
   "four_k_file": "Media/Keyframes4K/I1-S02.jpg",
-  "four_k_sha256": "6e258b74201df63be72a8106443d1c89ab6de9a8ab1e899f850965aba047e476",
+  "four_k_sha256": "fc92d7390e6b9220007491e44aaf2abd6384acfa4e9f0a6862f7e71db9bb04f7",
   "prompt_version": "v1-original",
   "madhva_context": "neutral documentary still",
-  "created_utc": "2026-09-06T20:07:50.691658+00:00"
+  "created_utc": "2026-09-07T04:20:05.289184+00:00",
+  "note": "regenerated 2026-09-07 after sandbox restart (same prompt, new sample)"
  },
  "I1-S03": {
   "native": "1672x941 (image-model output)",
   "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
   "native_file": "Media/Keyframes/I1-S03.png",
   "four_k_file": "Media/Keyframes4K/I1-S03.jpg",
-  "four_k_sha256": "7df3f4592f5c0536bdfa7d8e88c52569b4c8904f05b4a40e26eeff20727221da",
+  "four_k_sha256": "c04218fcfaff8a083c09b1331ba2960454cc433fd9d2a7ffd2b8880405369e89",
   "prompt_version": "v1-original",
   "madhva_context": "neutral documentary still",
-  "created_utc": "2026-09-06T20:07:50.692783+00:00"
+  "created_utc": "2026-09-07T04:20:05.289184+00:00",
+  "note": "regenerated 2026-09-07 after sandbox restart (same prompt, new sample)"
  },
  "I1-S04": {
   "native": "1672x941 (image-model output)",
   "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
   "native_file": "Media/Keyframes/I1-S04.png",
   "four_k_file": "Media/Keyframes4K/I1-S04.jpg",
-  "four_k_sha256": "43ad50083326a287e1c3410665a4629c48f206f964ced4cdaa4b0a73d5ff9c4b",
+  "four_k_sha256": "dd31dffdb371a00d4db07296c539392d8f9eb0f9c1c561b68a84e5b9e80514cd",
   "prompt_version": "v1-original",
   "madhva_context": "neutral documentary still",
-  "created_utc": "2026-09-06T20:07:50.694741+00:00"
+  "created_utc": "2026-09-07T04:20:05.289184+00:00",
+  "note": "regenerated 2026-09-07 after sandbox restart (same prompt, new sample)"
  },
  "I1-S05": {
   "native": "1672x941 (image-model output)",
   "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
   "native_file": "Media/Keyframes/I1-S05.png",
   "four_k_file": "Media/Keyframes4K/I1-S05.jpg",
-  "four_k_sha256": "c6426b67d8e4634ee6061fab427306cb5da15d68632ef09131f4619d7c2596ef",
+  "four_k_sha256": "a269e5848cd0057deb401862fb67f237f88687451fd2de0b4e75b82efd57faab",
   "prompt_version": "v1-original",
   "madhva_context": "neutral documentary still",
-  "created_utc": "2026-09-06T20:07:50.696820+00:00"
+  "created_utc": "2026-09-07T04:20:05.289184+00:00",
+  "note": "regenerated 2026-09-07 after sandbox restart (same prompt, new sample)"
  },
  "FF01-S01": {
   "native": "1672x941 (image-model output)",
   "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
   "native_file": "Media/Keyframes/FF01-S01.png",
   "four_k_file": "Media/Keyframes4K/FF01-S01.jpg",
-  "four_k_sha256": "94d5e3d140a43875e674b53e83470a6177e1ea7658820ec6d000bb7c17f80d1b",
+  "four_k_sha256": "5188200c1a4098c3ce4dfc53ffd9dd7da7ce72f64afd77f748119989a96fdc1f",
   "prompt_version": "v1-original",
   "madhva_context": "neutral documentary still",
-  "created_utc": "2026-09-06T20:09:25.254818+00:00"
+  "created_utc": "2026-09-07T04:20:05.289184+00:00",
+  "note": "regenerated 2026-09-07 after sandbox restart (same prompt, new sample)"
  },
  "FF01-S02": {
   "native": "1672x941 (image-model output)",
   "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
   "native_file": "Media/Keyframes/FF01-S02.png",
   "four_k_file": "Media/Keyframes4K/FF01-S02.jpg",
-  "four_k_sha256": "e09ed6d6e385abb2763eb83d6284c9eaec83ad5a78d9bcb593a922200a91afbd",
+  "four_k_sha256": "74e837326d80fe9eff85d780dd986f65b64b5a8539326fb9b1d77d96219cc2f4",
   "prompt_version": "v2-madhva",
   "madhva_context": "Madhva matha context: saffron flag detail, Udupi library",
-  "created_utc": "2026-09-06T20:09:25.256092+00:00"
+  "created_utc": "2026-09-07T04:20:05.289184+00:00",
+  "note": "regenerated 2026-09-07 after sandbox restart (same prompt, new sample)"
  },
  "FF01-S03": {
   "native": "1672x941 (image-model output)",
   "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
   "native_file": "Media/Keyframes/FF01-S03.png",
   "four_k_file": "Media/Keyframes4K/FF01-S03.jpg",
-  "four_k_sha256": "38b734bc27887110f1f0e4745a48eda220f76e5694056b2e1a8df81404c32475",
+  "four_k_sha256": "9eef9fd443ea24cbeedd8d7b387fcdd7daed4a110263051959ecf87a1b68909e",
   "prompt_version": "v1-original",
   "madhva_context": "neutral documentary still",
-  "created_utc": "2026-09-06T20:09:25.257025+00:00"
+  "created_utc": "2026-09-07T04:20:05.289184+00:00",
+  "note": "regenerated 2026-09-07 after sandbox restart (same prompt, new sample)"
  },
  "FF01-S04": {
   "native": "1672x941 (image-model output)",
   "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
   "native_file": "Media/Keyframes/FF01-S04.png",
   "four_k_file": "Media/Keyframes4K/FF01-S04.jpg",
-  "four_k_sha256": "f913539fa5bbe6bedc15c777ffc5be7e4352c9963730183e14b3b69179595782",
+  "four_k_sha256": "051b09766e7d8655b14bfec36245e3c4b6e6a2ea3d626b6446890f1e64aa2299",
   "prompt_version": "v1-original",
   "madhva_context": "neutral domestic still",
-  "created_utc": "2026-09-06T20:09:25.258491+00:00"
+  "created_utc": "2026-09-07T04:20:05.289184+00:00",
+  "note": "regenerated 2026-09-07 after sandbox restart (same prompt, new sample)"
  },
  "FF01-S05": {
   "native": "1672x941 (image-model output)",
   "delivery": "3840x2160 JPEG q92, lanczos upscale (recorded honestly)",
   "native_file": "Media/Keyframes/FF01-S05.png",
   "four_k_file": "Media/Keyframes4K/FF01-S05.jpg",
-  "four_k_sha256": "74037838ffd49f728442a06deac034f49cc8b75744ca1e1b181f87ea166b4278",
+  "four_k_sha256": "8811c60728d23cdd6d9c0829adac14d5d61c7334c09b92b6f1bdbc68eeb467db",
   "prompt_version": "v1-original",
   "madhva_context": "neutral documentary still",
-  "created_utc": "2026-09-06T20:09:25.259454+00:00"
+  "created_utc": "2026-09-07T04:20:05.289184+00:00",
+  "note": "regenerated 2026-09-07 after sandbox restart (same prompt, new sample)"
  },
  "FF01-S06": {
   "native": "1672x941 (image-model output)",

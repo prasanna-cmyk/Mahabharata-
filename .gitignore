@@ -1,3 +1,9 @@
-# Media assets are tracked separately (snapshot + Drive backup + manifest)
-Media/
-# except the manifest and narration dump stay outside git as well
+# Media: track the persistent, regenerable-source deliverables in git so they
+# survive sandbox restarts; keep heavy intermediates and video local + in the
+# Drive backup ZIP.
+Media/*
+!Media/build_pilot.sh
+!Media/Keyframes4K/
+!Media/Keyframes4K/*
+!Media/Audio/
+!Media/Audio/*.mp3
