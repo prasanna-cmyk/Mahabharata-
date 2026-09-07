@@ -227,6 +227,16 @@
         "Original PDF scans are not downloadable from this sandbox (archive.org blocked); the 3 ocr_blocked readings need the user's local scans to close."
       ],
       "next": "Front-matter unit 2, V1 raw lines 148-218 (blessing message 1)."
+    },
+    {
+      "date_utc": "2026-09-07T04:38:55.719554+00:00",
+      "actions": [
+        "Sandbox restarted between turns: untracked Media/ and Drive_Upload/ lost from disk; all git-tracked work intact (branch verified at 07e7187).",
+        "Recovered: regenerated 5 I1 + 5 FF01 keyframes (same prompts, Madhva rules applied) + 5 I1 narrations (voice-08, deterministic) + 4K upscaling + pilot video re-render (5:27, 67.9 MB).",
+        "Media persistence fixed: Media/Keyframes4K/*.jpg, Media/Audio/*.mp3 and build script now git-tracked so they survive restarts; video kept local + in Drive ZIP.",
+        "Drive backup ZIP rebuilt at /home/user/Drive_Upload/Mahabharata_Project_FullBackup_20260906.zip (user to upload)."
+      ],
+      "next": "Regenerate remaining FF01-S06..S10 keyframes (5 images) and continue reading-order batches (620 scenes left). User must upload Drive ZIP + workbench ZIP."
     }
   ],
   "media_production": {
@@ -262,11 +272,10 @@
     },
     "pilot_video": {
       "file": "Media/Video/Mahabharata_Kannada_4K_Pilot_I1.mp4",
-      "spec": "3840x2160, 16:9, 24fps, H.264 High + AAC 128k, faststart",
-      "duration": "5:40",
-      "size_mb": 69.6,
-      "group": "I1 (5 scenes)",
-      "status": "RENDERED - delivered to user for review"
+      "spec": "3840x2160, 16:9, 24fps, H.264 High + AAC, faststart",
+      "duration": "5:27",
+      "size_mb": 67.9,
+      "status": "RE-RENDERED after sandbox restart (2026-09-07); same pipeline, regenerated media"
     },
     "madhva_visual_identity": "Mandatory for all religious-context keyframes — see Production_Bible.md section added 2026-09-06"
   }
